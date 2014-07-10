@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highspacingdotdeva" format="1">
+  <advance width="224"/>
+  <outline>
+    <contour>
+      <point x="111" y="654" type="curve" smooth="yes"/>
+      <point x="148" y="654"/>
+      <point x="164" y="669"/>
+      <point x="164" y="705" type="curve" smooth="yes"/>
+      <point x="164" y="742"/>
+      <point x="149" y="757"/>
+      <point x="111" y="757" type="curve" smooth="yes"/>
+      <point x="75" y="757"/>
+      <point x="60" y="742"/>
+      <point x="60" y="705" type="curve" smooth="yes"/>
+      <point x="60" y="669"/>
+      <point x="75" y="654"/>
+    </contour>
+  </outline>
+</glyph>

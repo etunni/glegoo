@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="1">
+  <advance width="414"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="190" y="-107" type="line"/>
+      <point x="347" y="258" type="line"/>
+      <point x="347" y="298" type="line"/>
+      <point x="80" y="298" type="line"/>
+      <point x="80" y="254" type="line"/>
+      <point x="287" y="254" type="line"/>
+      <point x="130" y="-107" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="191" type="line"/>
+      <point x="120" y="191" type="line"/>
+      <point x="120" y="254" type="line"/>
+      <point x="80" y="254" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="audeva" format="1">
+  <advance width="1136"/>
+  <unicode hex="0914"/>
+  <outline>
+    <component base="aasigndeva" xOffset="836"/>
+    <component base="aisigndeva" xOffset="1129"/>
+    <component base="adeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llladeva" format="1">
+  <advance width="793"/>
+  <unicode hex="0934"/>
+  <outline>
+    <contour>
+      <point x="559" y="728" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="559" y="114" type="move" name="DVAnchor0"/>
+    </contour>
+    <component base="lladeva"/>
+    <component base="nuktadeva" xOffset="977" yOffset="36"/>
+  </outline>
+</glyph>

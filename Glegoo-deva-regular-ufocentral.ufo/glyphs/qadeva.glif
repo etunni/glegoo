@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qadeva" format="1">
+  <advance width="890"/>
+  <unicode hex="0958"/>
+  <outline>
+    <contour>
+      <point x="465" y="30" type="move" name="DVAnchor0"/>
+    </contour>
+    <contour>
+      <point x="465" y="730" type="move" name="DVAnchor3"/>
+    </contour>
+    <component base="kadeva"/>
+    <component base="nuktadeva" xOffset="826" yOffset="61"/>
+  </outline>
+</glyph>

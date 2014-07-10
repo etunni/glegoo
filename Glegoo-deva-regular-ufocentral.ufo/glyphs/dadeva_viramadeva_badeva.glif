@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dadeva_viramadeva_badeva" format="1">
+  <advance width="610"/>
+  <outline>
+    <contour>
+      <point x="510" y="10" type="move" name="DVAnchor0"/>
+    </contour>
+    <contour>
+      <point x="343" y="-33" type="line"/>
+      <point x="375" y="-8" type="line"/>
+      <point x="261" y="162" type="line"/>
+      <point x="229" y="137" type="line"/>
+    </contour>
+    <component base="dadeva_viramadeva_vadeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shadeva" format="1">
+  <advance width="705"/>
+  <unicode hex="0936"/>
+  <outline>
+    <contour>
+      <point x="555" y="730" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="520" y="680" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="590" y="680" type="line"/>
+      <point x="715" y="680" type="line"/>
+      <point x="715" y="730" type="line"/>
+      <point x="420" y="730" type="line"/>
+      <point x="420" y="680" type="line"/>
+    </contour>
+    <component base="shadeva_viramadeva"/>
+  </outline>
+</glyph>

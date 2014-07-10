@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rradeva" format="1">
+  <advance width="550"/>
+  <unicode hex="0931"/>
+  <outline>
+    <contour>
+      <point x="445" y="730" type="move" name="DVAnchor3"/>
+    </contour>
+    <component base="radeva"/>
+    <component base="nuktadeva" xOffset="668" yOffset="81"/>
+  </outline>
+</glyph>

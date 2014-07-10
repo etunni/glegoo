@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="awsigndeva" format="1">
+  <advance width="300"/>
+  <unicode hex="094F"/>
+  <outline>
+    <contour>
+      <point x="146" y="730" type="line"/>
+      <point x="46" y="942"/>
+      <point x="-161" y="782"/>
+      <point x="-161" y="972" type="curve"/>
+      <point x="-229" y="967" type="line"/>
+      <point x="-229" y="728"/>
+      <point x="3" y="890"/>
+      <point x="103" y="730" type="curve"/>
+    </contour>
+    <contour>
+      <point x="197" y="730" type="line"/>
+      <point x="187" y="930"/>
+      <point x="66" y="862"/>
+      <point x="66" y="1052" type="curve"/>
+      <point x="-2" y="1047" type="line"/>
+      <point x="-2" y="837"/>
+      <point x="132" y="915"/>
+      <point x="154" y="730" type="curve"/>
+    </contour>
+    <component base="aasigndeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iideva" format="1">
+  <advance width="610"/>
+  <unicode hex="0908"/>
+  <outline>
+    <contour>
+      <point x="584" y="634" type="move" name="DVAnchor3"/>
+    </contour>
+    <component base="ideva"/>
+    <component base="radeva_viramadeva" xOffset="602"/>
+  </outline>
+</glyph>

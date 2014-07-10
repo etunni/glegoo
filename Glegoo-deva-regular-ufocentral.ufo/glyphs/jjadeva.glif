@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jjadeva" format="1">
+  <advance width="802"/>
+  <unicode hex="097C"/>
+  <outline>
+    <contour>
+      <point x="652" y="730" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="-10" y="-50" type="line"/>
+      <point x="688" y="-50" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="-10" y="0" type="line"/>
+    </contour>
+    <component base="jadeva"/>
+  </outline>
+</glyph>
