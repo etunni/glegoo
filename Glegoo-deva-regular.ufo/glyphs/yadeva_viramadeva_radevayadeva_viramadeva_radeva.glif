@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yadeva_viramadeva_radeva" format="1">
+  <advance width="680"/>
+  <outline>
+    <contour>
+      <point x="427" y="234" type="line"/>
+      <point x="66" y="45" type="line"/>
+      <point x="97" y="-14" type="line"/>
+      <point x="529" y="234" type="line"/>
+      <point x="513" y="253" type="line"/>
+    </contour>
+    <component  base="yadeva"/>
+  </outline>
+</glyph>

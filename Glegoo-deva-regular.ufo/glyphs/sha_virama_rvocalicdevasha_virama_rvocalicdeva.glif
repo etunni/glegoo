@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha_virama_rvocalicdeva" format="1">
+  <advance width="743"/>
+  <outline>
+    <component  base="shadeva_viramadeva_alt" xOffset="-10"/>
+    <component  base="aasigndeva" xOffset="443"/>
+    <component  base="rvocalicsigndeva" xOffset="716" yOffset="30"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="688"/>
+  <unicode hex="0110"/>
+  <outline>
+    <component  base="D"/>
+    <component  base="hyphen" yOffset="47"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="56" />
+      <hstem pos="674" width="56" />
+      <vstem pos="130" width="72" />
+      <vstem pos="556" width="72" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eprishthamatrasigndeva" format="1">
+  <advance width="300"/>
+  <unicode hex="094E"/>
+  <outline>
+    <contour>
+      <point x="115" y="730" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="680" type="line"/>
+      <point x="310" y="680" type="line"/>
+      <point x="310" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>

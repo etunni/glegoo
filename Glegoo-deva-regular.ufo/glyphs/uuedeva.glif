@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uuedeva" format="1">
+  <advance width="836"/>
+  <unicode hex="0977"/>
+  <outline>
+    <component  base="uuesigndeva" xOffset="716"/>
+    <component  base="adeva"/>
+  </outline>
+</glyph>

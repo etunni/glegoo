@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooesigndeva" format="1">
+  <advance width="300"/>
+  <unicode hex="093B"/>
+  <outline>
+    <component  base="aasigndeva"/>
+    <component  base="oesigndeva" xOffset="300"/>
+  </outline>
+</glyph>

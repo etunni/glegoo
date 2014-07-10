@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1373"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component  base="fraction" xOffset="348"/>
+    <component  base="zeroinferior" xOffset="959" yOffset="107"/>
+    <component  base="zeroinferior" xOffset="8" yOffset="378"/>
+    <component  base="zeroinferior" xOffset="559" yOffset="107"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-14" width="52" />
+      <hstem pos="262" width="52" />
+      <hstem pos="357" width="51" />
+      <hstem pos="633" width="51" />
+      <vstem pos="99" width="59" />
+      <vstem pos="324" width="60" />
+      <vstem pos="577" width="59" />
+      <vstem pos="802" width="60" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

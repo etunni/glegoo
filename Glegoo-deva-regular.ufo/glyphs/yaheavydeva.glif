@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yaheavydeva" format="1">
+  <advance width="670"/>
+  <unicode hex="097A"/>
+  <outline>
+    <contour>
+      <point x="494" y="245" type="line"/>
+      <point x="517" y="287" type="line"/>
+      <point x="263" y="536" type="line"/>
+      <point x="220" y="511" type="line"/>
+    </contour>
+    <component  base="yadeva"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acandradeva" format="1">
+  <advance width="836"/>
+  <unicode hex="0972"/>
+  <outline>
+    <component  base="adeva"/>
+    <component  base="ecandrasigndeva" xOffset="826"/>
+  </outline>
+</glyph>

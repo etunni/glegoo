@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbldanda" format="1">
+  <advance width="585"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="730" type="line"/>
+      <point x="260" y="730" type="line"/>
+      <point x="260" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="730" type="line"/>
+      <point x="470" y="730" type="line"/>
+      <point x="470" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
