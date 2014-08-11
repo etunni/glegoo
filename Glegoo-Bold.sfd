@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1407151040
-ModificationTime: 1407178341
+ModificationTime: 1407767947
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -183,7 +183,7 @@ ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13 contextual 0"  0 0 
  1
   SeqLookup: 0 "Single Substitution lookup 14" 
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 2.0.1" "" "" "" "" "" "" "" "" "" "" "" "" "" 
+LangName: 1033 "" "" "" "" "" "Version 2.0.1" "" "Glegoo is a trademark of Eduardo Tunni" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" 
 PickledData: "(dp1
 S'com.schriftgestaltung.weight'
 p2
@@ -1023,13 +1023,13 @@ S'arrowup'
 S'arrowdown'
 S'uni2116'
 tp5
-sS'com.schriftgestaltung.useNiceNames'
-p6
-I00
 sS'com.schriftgestaltung.fontMasterID'
-p7
+p6
 S'61C9E169-9AAB-4BE3-82CC-C7A2DA9AD305'
+p7
+sS'com.schriftgestaltung.useNiceNames'
 p8
+I00
 s."
 Encoding: UnicodeBmp
 Compacted: 1
