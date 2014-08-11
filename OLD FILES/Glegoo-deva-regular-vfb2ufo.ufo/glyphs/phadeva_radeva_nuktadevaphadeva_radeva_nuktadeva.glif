@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="phadeva_radeva_nuktadeva" format="1">
-  <advance width="890"/>
-  <outline>
-    <component  base="viramadeva_radeva_alt" xOffset="569" yOffset="-16"/>
-    <component  base="phadeva"/>
-    <component  base="nuktadeva" xOffset="866" yOffset="-59"/>
-  </outline>
-</glyph>

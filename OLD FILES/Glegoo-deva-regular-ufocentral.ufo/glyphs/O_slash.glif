@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Oslash" format="1">
-  <advance width="685"/>
-  <unicode hex="00D8"/>
-  <outline>
-    <component base="O"/>
-    <component base="fraction" yScale="1.14999997616" xOffset="209" yOffset="-18"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fadeva_viramadeva" format="1">
-  <advance width="615"/>
-  <outline>
-    <component base="phadeva_viramadeva"/>
-    <component base="nuktadeva" xOffset="706" yOffset="81"/>
-  </outline>
-</glyph>

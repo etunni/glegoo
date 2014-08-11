@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yyadeva" format="1">
-  <advance width="680"/>
-  <unicode hex="095F"/>
-  <outline>
-    <component  base="yadeva"/>
-    <component  base="nuktadeva" xOffset="668" yOffset="81"/>
-  </outline>
-</glyph>

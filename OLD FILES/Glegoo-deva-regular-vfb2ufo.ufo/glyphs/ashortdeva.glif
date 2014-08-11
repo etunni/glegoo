@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ashortdeva" format="1">
-  <advance width="836"/>
-  <unicode hex="0904"/>
-  <outline>
-    <component  base="adeva"/>
-    <component  base="eshortsigndeva" xOffset="836"/>
-  </outline>
-</glyph>

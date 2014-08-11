@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="padeva_viramadeva_radeva" format="1">
-  <advance width="615"/>
-  <outline>
-    <component base="padeva"/>
-    <component base="viramadeva_radeva_alt" xOffset="569" yOffset="110"/>
-  </outline>
-</glyph>
