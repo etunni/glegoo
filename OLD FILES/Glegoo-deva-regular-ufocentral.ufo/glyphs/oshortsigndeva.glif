@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oshortsigndeva" format="1">
-  <advance width="300"/>
-  <outline>
-    <component base="aasigndeva"/>
-    <component base="eshortsigndeva" xOffset="300"/>
-  </outline>
-</glyph>
