@@ -11,8 +11,8 @@ UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 800
 Descent: 200
-UFOAscent: 1052
-UFODescent: -227
+UFOAscent: 1267
+UFODescent: -526
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
@@ -28,19 +28,19 @@ TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 0 0 0 0 0 0 0 0 0 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 1267
+OS2TypoAOffset: 0
+OS2TypoDescent: -526
+OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 1267
+OS2WinAOffset: 0
+OS2WinDescent: -526
+OS2WinDOffset: 0
+HheadAscent: 1267
+HheadAOffset: 0
+HheadDescent: -526
+HheadDOffset: 0
 OS2SubXSize: 700
 OS2SubYSize: 650
 OS2SubXOff: 0
