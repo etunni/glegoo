@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: Glegoo-Bold-0208
-FullName: Glegoo-Bold-0208
+FontName: Glegoo-Bold
+FullName: Glegoo Bold
 FamilyName: Glegoo
 Weight: Bold
-Copyright: 
-Version: 1.000
+Copyright: Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), Copyright 2011-13 Lohit Fonts Project contributors (http://fedorahosted.org/lohit)
+Version: 2.0.1
 FONDName: Glegoo
 ItalicAngle: 0
 UnderlinePosition: 0
@@ -183,7 +183,7 @@ ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13 contextual 0"  0 0 
  1
   SeqLookup: 0 "Single Substitution lookup 14" 
 EndFPST
-LangName: 1033 "" "" "" "" "" "Version 1.000" "" "" "" "" "" "" "" "" "" "" "" "" "Glegoo Bold" 
+LangName: 1033 "" "" "" "" "" "Version 2.0.1" "" "" "" "" "" "" "" "" "" "" "" "" "" 
 PickledData: "(dp1
 S'com.schriftgestaltung.weight'
 p2
