@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1407151040
-ModificationTime: 1407767947
+ModificationTime: 1407773077
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1023,22 +1023,21 @@ S'arrowup'
 S'arrowdown'
 S'uni2116'
 tp5
-sS'com.schriftgestaltung.fontMasterID'
-p6
-S'61C9E169-9AAB-4BE3-82CC-C7A2DA9AD305'
-p7
 sS'com.schriftgestaltung.useNiceNames'
-p8
+p6
 I00
+sS'com.schriftgestaltung.fontMasterID'
+p7
+S'61C9E169-9AAB-4BE3-82CC-C7A2DA9AD305'
+p8
 s."
-Encoding: UnicodeBmp
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 348 29 11
+WinInfo: 551 29 11
 BeginPrivate: 8
 BlueFuzz 1 1
 BlueScale 20 0.039600000000000003
@@ -1051,10 +1050,10 @@ StemSnapV 14 [103 56 70 76]
 EndPrivate
 TeXData: 1 0 0 279969 139984 93323 599785 1048576 93323 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "DVAnchor0"  "abajo-1" "DVAnchor0"  "" "DVAnchor3"  "arriba-1" 
-BeginChars: 65814 858
+BeginChars: 859 859
 
 StartChar: --DevaUnencoded
-Encoding: 65536 -1 0
+Encoding: 592 -1 0
 Width: 0
 VWidth: 0
 Flags: W
@@ -1067,7 +1066,7 @@ LayerCount: 2
 EndChar
 
 StartChar: .notdef
-Encoding: 65537 -1 1
+Encoding: 593 -1 1
 Width: 1040
 VWidth: 0
 Flags: W
@@ -1111,7 +1110,7 @@ Validated: 1
 EndChar
 
 StartChar: A
-Encoding: 65 65 2
+Encoding: 34 65 2
 Width: 669
 VWidth: 0
 Flags: W
@@ -1541,7 +1540,7 @@ Kerns2: 620 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  119 -50
 EndChar
 
 StartChar: AE
-Encoding: 198 198 3
+Encoding: 132 198 3
 Width: 974
 VWidth: 0
 Flags: W
@@ -1685,7 +1684,7 @@ Validated: 9
 EndChar
 
 StartChar: AEacute
-Encoding: 508 508 4
+Encoding: 320 508 4
 Width: 974
 VWidth: 0
 Flags: W
@@ -1850,7 +1849,7 @@ Validated: 9
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 5
+Encoding: 127 193 5
 Width: 669
 VWidth: 0
 Flags: W
@@ -1907,7 +1906,7 @@ Validated: 9
 EndChar
 
 StartChar: Abreve
-Encoding: 258 258 6
+Encoding: 192 258 6
 Width: 669
 VWidth: 0
 Flags: W
@@ -2045,7 +2044,7 @@ Validated: 9
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 7
+Encoding: 128 194 7
 Width: 669
 VWidth: 0
 Flags: W
@@ -2105,7 +2104,7 @@ Validated: 9
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 8
+Encoding: 130 196 8
 Width: 669
 VWidth: 0
 Flags: W
@@ -2176,7 +2175,7 @@ Validated: 9
 EndChar
 
 StartChar: Agrave
-Encoding: 192 192 9
+Encoding: 126 192 9
 Width: 669
 VWidth: 0
 Flags: W
@@ -2233,7 +2232,7 @@ Validated: 9
 EndChar
 
 StartChar: Amacron
-Encoding: 256 256 10
+Encoding: 190 256 10
 Width: 669
 VWidth: 0
 Flags: W
@@ -2290,7 +2289,7 @@ Validated: 9
 EndChar
 
 StartChar: Aogonek
-Encoding: 260 260 11
+Encoding: 194 260 11
 Width: 669
 VWidth: 0
 Flags: W
@@ -2357,7 +2356,7 @@ Validated: 9
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 12
+Encoding: 131 197 12
 Width: 669
 VWidth: 0
 Flags: W
@@ -2428,7 +2427,7 @@ Validated: 9
 EndChar
 
 StartChar: Aringacute
-Encoding: 506 506 13
+Encoding: 318 506 13
 Width: 669
 VWidth: 0
 Flags: W
@@ -2505,7 +2504,7 @@ Validated: 9
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 14
+Encoding: 129 195 14
 Width: 669
 VWidth: 0
 Flags: W
@@ -2657,7 +2656,7 @@ Validated: 9
 EndChar
 
 StartChar: B
-Encoding: 66 66 15
+Encoding: 35 66 15
 Width: 645
 VWidth: 0
 Flags: W
@@ -2839,7 +2838,7 @@ Validated: 9
 EndChar
 
 StartChar: C
-Encoding: 67 67 16
+Encoding: 36 67 16
 Width: 627
 VWidth: 0
 Flags: W
@@ -3220,7 +3219,7 @@ Kerns2: 2 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: C.001
-Encoding: 65538 -1 17
+Encoding: 594 -1 17
 Width: 627
 VWidth: 0
 Flags: W
@@ -3364,7 +3363,7 @@ Validated: 9
 EndChar
 
 StartChar: Cacute
-Encoding: 262 262 18
+Encoding: 196 262 18
 Width: 627
 VWidth: 0
 Flags: W
@@ -3511,7 +3510,7 @@ Validated: 9
 EndChar
 
 StartChar: Ccaron
-Encoding: 268 268 19
+Encoding: 202 268 19
 Width: 627
 VWidth: 0
 Flags: W
@@ -3661,7 +3660,7 @@ Validated: 9
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 20
+Encoding: 133 199 20
 Width: 636
 VWidth: 0
 Flags: W
@@ -3868,7 +3867,7 @@ Validated: 9
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 264 264 21
+Encoding: 198 264 21
 Width: 627
 VWidth: 0
 Flags: W
@@ -4018,7 +4017,7 @@ Validated: 9
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 266 266 22
+Encoding: 200 266 22
 Width: 627
 VWidth: 0
 Flags: W
@@ -4182,7 +4181,7 @@ Validated: 9
 EndChar
 
 StartChar: D
-Encoding: 68 68 23
+Encoding: 37 68 23
 Width: 696
 VWidth: 0
 Flags: W
@@ -4502,7 +4501,7 @@ Validated: 9
 EndChar
 
 StartChar: Dcaron
-Encoding: 270 270 24
+Encoding: 204 270 24
 Width: 696
 VWidth: 0
 Flags: W
@@ -4563,7 +4562,7 @@ Validated: 9
 EndChar
 
 StartChar: Dcroat
-Encoding: 272 272 25
+Encoding: 206 272 25
 Width: 696
 VWidth: 0
 Flags: W
@@ -4892,7 +4891,7 @@ Validated: 9
 EndChar
 
 StartChar: Delta
-Encoding: 8710 8710 26
+Encoding: 543 8710 26
 Width: 572
 VWidth: 0
 Flags: W
@@ -4928,7 +4927,7 @@ Validated: 9
 EndChar
 
 StartChar: E
-Encoding: 69 69 27
+Encoding: 38 69 27
 Width: 636
 VWidth: 0
 Flags: W
@@ -5590,7 +5589,7 @@ Validated: 9
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 28
+Encoding: 135 201 28
 Width: 636
 VWidth: 0
 Flags: W
@@ -5652,7 +5651,7 @@ Validated: 9
 EndChar
 
 StartChar: Ebreve
-Encoding: 276 276 29
+Encoding: 210 276 29
 Width: 636
 VWidth: 0
 Flags: W
@@ -5809,7 +5808,7 @@ Validated: 9
 EndChar
 
 StartChar: Ecaron
-Encoding: 282 282 30
+Encoding: 216 282 30
 Width: 636
 VWidth: 0
 Flags: W
@@ -5874,7 +5873,7 @@ Validated: 9
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 31
+Encoding: 136 202 31
 Width: 636
 VWidth: 0
 Flags: W
@@ -5940,7 +5939,7 @@ Validated: 9
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 32
+Encoding: 137 203 32
 Width: 636
 VWidth: 0
 Flags: W
@@ -6011,7 +6010,7 @@ Validated: 9
 EndChar
 
 StartChar: Edotaccent
-Encoding: 278 278 33
+Encoding: 212 278 33
 Width: 636
 VWidth: 0
 Flags: W
@@ -6076,7 +6075,7 @@ Validated: 9
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 34
+Encoding: 134 200 34
 Width: 636
 VWidth: 0
 Flags: W
@@ -6138,7 +6137,7 @@ Validated: 9
 EndChar
 
 StartChar: Emacron
-Encoding: 274 274 35
+Encoding: 208 274 35
 Width: 636
 VWidth: 0
 Flags: W
@@ -6200,7 +6199,7 @@ Validated: 9
 EndChar
 
 StartChar: Eng
-Encoding: 330 330 36
+Encoding: 264 330 36
 Width: 789
 VWidth: 0
 Flags: W
@@ -6262,7 +6261,7 @@ Validated: 9
 EndChar
 
 StartChar: Eogonek
-Encoding: 280 280 37
+Encoding: 214 280 37
 Width: 636
 VWidth: 0
 Flags: W
@@ -6330,7 +6329,7 @@ Validated: 9
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 38
+Encoding: 142 208 38
 Width: 696
 VWidth: 0
 Flags: W
@@ -6660,7 +6659,7 @@ Validated: 9
 EndChar
 
 StartChar: Euro
-Encoding: 8364 8364 39
+Encoding: 525 8364 39
 Width: 588
 VWidth: 0
 Flags: W
@@ -6725,7 +6724,7 @@ Validated: 9
 EndChar
 
 StartChar: F
-Encoding: 70 70 40
+Encoding: 39 70 40
 Width: 572
 VWidth: 0
 Flags: W
@@ -7201,7 +7200,7 @@ Kerns2: 199 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  59 -70 "
 EndChar
 
 StartChar: G
-Encoding: 71 71 41
+Encoding: 40 71 41
 Width: 681
 VWidth: 0
 Flags: W
@@ -7847,7 +7846,7 @@ Validated: 9
 EndChar
 
 StartChar: Gbreve
-Encoding: 286 286 42
+Encoding: 220 286 42
 Width: 681
 VWidth: 0
 Flags: W
@@ -8128,7 +8127,7 @@ Validated: 9
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 284 284 43
+Encoding: 218 284 43
 Width: 681
 VWidth: 0
 Flags: W
@@ -8338,7 +8337,7 @@ Validated: 9
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 288 288 44
+Encoding: 222 288 44
 Width: 681
 VWidth: 0
 Flags: W
@@ -8567,7 +8566,7 @@ Validated: 9
 EndChar
 
 StartChar: H
-Encoding: 72 72 45
+Encoding: 41 72 45
 Width: 775
 VWidth: 0
 Flags: W
@@ -8632,7 +8631,7 @@ Validated: 9
 EndChar
 
 StartChar: Hbar
-Encoding: 294 294 46
+Encoding: 228 294 46
 Width: 775
 VWidth: 0
 Flags: W
@@ -8712,7 +8711,7 @@ Validated: 9
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 292 292 47
+Encoding: 226 292 47
 Width: 775
 VWidth: 0
 Flags: W
@@ -8787,7 +8786,7 @@ Validated: 9
 EndChar
 
 StartChar: I
-Encoding: 73 73 48
+Encoding: 42 73 48
 Width: 368
 VWidth: 0
 Flags: W
@@ -8832,7 +8831,7 @@ Validated: 9
 EndChar
 
 StartChar: IJ
-Encoding: 306 306 49
+Encoding: 240 306 49
 Width: 856
 VWidth: 0
 Flags: W
@@ -8956,7 +8955,7 @@ Validated: 9
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 50
+Encoding: 139 205 50
 Width: 368
 VWidth: 0
 Flags: W
@@ -9008,7 +9007,7 @@ Validated: 9
 EndChar
 
 StartChar: Ibreve
-Encoding: 300 300 51
+Encoding: 234 300 51
 Width: 368
 VWidth: 0
 Flags: W
@@ -9139,7 +9138,7 @@ Validated: 9
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 52
+Encoding: 140 206 52
 Width: 368
 VWidth: 0
 Flags: W
@@ -9194,7 +9193,7 @@ Validated: 9
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 53
+Encoding: 141 207 53
 Width: 368
 VWidth: 0
 Flags: W
@@ -9253,7 +9252,7 @@ Validated: 9
 EndChar
 
 StartChar: Idotaccent
-Encoding: 304 304 54
+Encoding: 238 304 54
 Width: 368
 VWidth: 0
 Flags: W
@@ -9357,7 +9356,7 @@ Validated: 9
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 55
+Encoding: 138 204 55
 Width: 368
 VWidth: 0
 Flags: W
@@ -9409,7 +9408,7 @@ Validated: 9
 EndChar
 
 StartChar: Imacron
-Encoding: 298 298 56
+Encoding: 232 298 56
 Width: 368
 VWidth: 0
 Flags: W
@@ -9461,7 +9460,7 @@ Validated: 9
 EndChar
 
 StartChar: Iogonek
-Encoding: 302 302 57
+Encoding: 236 302 57
 Width: 256
 VWidth: 0
 Flags: W
@@ -9595,7 +9594,7 @@ Validated: 9
 EndChar
 
 StartChar: Itilde
-Encoding: 296 296 58
+Encoding: 230 296 58
 Width: 368
 VWidth: 0
 Flags: W
@@ -9742,7 +9741,7 @@ Validated: 9
 EndChar
 
 StartChar: J
-Encoding: 74 74 59
+Encoding: 43 74 59
 Width: 489
 VWidth: 0
 Flags: W
@@ -9789,7 +9788,7 @@ Validated: 9
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 308 308 60
+Encoding: 242 308 60
 Width: 489
 VWidth: 0
 Flags: W
@@ -9846,7 +9845,7 @@ Validated: 9
 EndChar
 
 StartChar: K
-Encoding: 75 75 61
+Encoding: 44 75 61
 Width: 660
 VWidth: 0
 Flags: W
@@ -9908,7 +9907,7 @@ Validated: 9
 EndChar
 
 StartChar: L
-Encoding: 76 76 62
+Encoding: 45 76 62
 Width: 526
 VWidth: 0
 Flags: W
@@ -9956,7 +9955,7 @@ Kerns2: 620 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  119 -60 
 EndChar
 
 StartChar: Lacute
-Encoding: 313 313 63
+Encoding: 247 313 63
 Width: 526
 VWidth: 0
 Flags: W
@@ -10010,7 +10009,7 @@ Validated: 9
 EndChar
 
 StartChar: Lcaron
-Encoding: 317 317 64
+Encoding: 251 317 64
 Width: 526
 VWidth: 0
 Flags: W
@@ -10160,7 +10159,7 @@ Validated: 9
 EndChar
 
 StartChar: Ldot
-Encoding: 319 319 65
+Encoding: 253 319 65
 Width: 526
 VWidth: 0
 Flags: W
@@ -10216,7 +10215,7 @@ Validated: 9
 EndChar
 
 StartChar: Lslash
-Encoding: 321 321 66
+Encoding: 255 321 66
 Width: 526
 VWidth: 0
 Flags: W
@@ -10271,7 +10270,7 @@ Validated: 9
 EndChar
 
 StartChar: M
-Encoding: 77 77 67
+Encoding: 46 77 67
 Width: 927
 VWidth: 0
 Flags: W
@@ -10331,7 +10330,7 @@ Validated: 9
 EndChar
 
 StartChar: N
-Encoding: 78 78 68
+Encoding: 47 78 68
 Width: 789
 VWidth: 0
 Flags: W
@@ -10386,7 +10385,7 @@ Validated: 9
 EndChar
 
 StartChar: NULL
-Encoding: 65539 -1 69
+Encoding: 595 -1 69
 Width: 0
 VWidth: 0
 Flags: W
@@ -10399,7 +10398,7 @@ LayerCount: 2
 EndChar
 
 StartChar: Nacute
-Encoding: 323 323 70
+Encoding: 257 323 70
 Width: 789
 VWidth: 0
 Flags: W
@@ -10461,7 +10460,7 @@ Validated: 9
 EndChar
 
 StartChar: Ncaron
-Encoding: 327 327 71
+Encoding: 261 327 71
 Width: 789
 VWidth: 0
 Flags: W
@@ -10526,7 +10525,7 @@ Validated: 9
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 72
+Encoding: 143 209 72
 Width: 789
 VWidth: 0
 Flags: W
@@ -10698,7 +10697,7 @@ Validated: 9
 EndChar
 
 StartChar: O
-Encoding: 79 79 73
+Encoding: 48 79 73
 Width: 685
 VWidth: 0
 Flags: W
@@ -10742,7 +10741,7 @@ Validated: 9
 EndChar
 
 StartChar: OE
-Encoding: 338 338 74
+Encoding: 272 338 74
 Width: 1009
 VWidth: 0
 Flags: W
@@ -10801,7 +10800,7 @@ Validated: 9
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 75
+Encoding: 145 211 75
 Width: 685
 VWidth: 0
 Flags: W
@@ -10852,7 +10851,7 @@ Validated: 9
 EndChar
 
 StartChar: Obreve
-Encoding: 334 334 76
+Encoding: 268 334 76
 Width: 685
 VWidth: 0
 Flags: W
@@ -11029,7 +11028,7 @@ Validated: 9
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 77
+Encoding: 146 212 77
 Width: 685
 VWidth: 0
 Flags: W
@@ -11083,7 +11082,7 @@ Validated: 9
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 78
+Encoding: 148 214 78
 Width: 685
 VWidth: 0
 Flags: W
@@ -11215,7 +11214,7 @@ Validated: 9
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 79
+Encoding: 144 210 79
 Width: 685
 VWidth: 0
 Flags: W
@@ -11266,7 +11265,7 @@ Validated: 9
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 336 336 80
+Encoding: 270 336 80
 Width: 685
 VWidth: 0
 Flags: W
@@ -11322,7 +11321,7 @@ Validated: 9
 EndChar
 
 StartChar: Omacron
-Encoding: 332 332 81
+Encoding: 266 332 81
 Width: 685
 VWidth: 0
 Flags: W
@@ -11373,7 +11372,7 @@ Validated: 9
 EndChar
 
 StartChar: Omega
-Encoding: 8486 8486 82
+Encoding: 530 8486 82
 Width: 746
 VWidth: 0
 Flags: W
@@ -11426,7 +11425,7 @@ Validated: 9
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 83
+Encoding: 150 216 83
 Width: 685
 VWidth: 0
 Flags: W
@@ -11487,7 +11486,7 @@ Validated: 9
 EndChar
 
 StartChar: Oslashacute
-Encoding: 510 510 84
+Encoding: 322 510 84
 Width: 685
 VWidth: 0
 Flags: W
@@ -11553,7 +11552,7 @@ Validated: 9
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 85
+Encoding: 147 213 85
 Width: 685
 VWidth: 0
 Flags: W
@@ -11714,7 +11713,7 @@ Validated: 9
 EndChar
 
 StartChar: P
-Encoding: 80 80 86
+Encoding: 49 80 86
 Width: 611
 VWidth: 0
 Flags: W
@@ -12049,7 +12048,7 @@ Kerns2: 3 -95 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  2 -65 "'ke
 EndChar
 
 StartChar: Q
-Encoding: 81 81 87
+Encoding: 50 81 87
 Width: 675
 VWidth: 0
 Flags: W
@@ -12413,7 +12412,7 @@ Validated: 9
 EndChar
 
 StartChar: R
-Encoding: 82 82 88
+Encoding: 51 82 88
 Width: 671
 VWidth: 0
 Flags: W
@@ -12604,7 +12603,7 @@ Validated: 9
 EndChar
 
 StartChar: R.001
-Encoding: 65540 -1 89
+Encoding: 596 -1 89
 Width: 671
 VWidth: 0
 Flags: W
@@ -12786,7 +12785,7 @@ Validated: 9
 EndChar
 
 StartChar: Racute
-Encoding: 340 340 90
+Encoding: 274 340 90
 Width: 671
 VWidth: 0
 Flags: W
@@ -12857,7 +12856,7 @@ Validated: 9
 EndChar
 
 StartChar: Rcaron
-Encoding: 344 344 91
+Encoding: 278 344 91
 Width: 671
 VWidth: 0
 Flags: W
@@ -12931,7 +12930,7 @@ Validated: 9
 EndChar
 
 StartChar: S
-Encoding: 83 83 92
+Encoding: 52 83 92
 Width: 599
 VWidth: 0
 Flags: W
@@ -13252,7 +13251,7 @@ Validated: 9
 EndChar
 
 StartChar: Sacute
-Encoding: 346 346 93
+Encoding: 280 346 93
 Width: 599
 VWidth: 0
 Flags: W
@@ -13474,7 +13473,7 @@ Validated: 9
 EndChar
 
 StartChar: Scaron
-Encoding: 352 352 94
+Encoding: 286 352 94
 Width: 625
 VWidth: 0
 Flags: W
@@ -13699,7 +13698,7 @@ Validated: 9
 EndChar
 
 StartChar: Scedilla
-Encoding: 350 350 95
+Encoding: 284 350 95
 Width: 599
 VWidth: 0
 Flags: W
@@ -13954,7 +13953,7 @@ Validated: 9
 EndChar
 
 StartChar: Scircumflex
-Encoding: 348 348 96
+Encoding: 282 348 96
 Width: 599
 VWidth: 0
 Flags: W
@@ -14179,7 +14178,7 @@ Validated: 9
 EndChar
 
 StartChar: T
-Encoding: 84 84 97
+Encoding: 53 84 97
 Width: 557
 VWidth: 0
 Flags: W
@@ -14229,7 +14228,7 @@ Kerns2: 226 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  199 -60 
 EndChar
 
 StartChar: Tbar
-Encoding: 358 358 98
+Encoding: 292 358 98
 Width: 557
 VWidth: 0
 Flags: W
@@ -14289,7 +14288,7 @@ Kerns2: 199 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: Tcaron
-Encoding: 356 356 99
+Encoding: 290 356 99
 Width: 557
 VWidth: 0
 Flags: W
@@ -14348,7 +14347,7 @@ Validated: 9
 EndChar
 
 StartChar: Thorn
-Encoding: 222 222 100
+Encoding: 156 222 100
 Width: 611
 VWidth: 0
 Flags: W
@@ -14687,7 +14686,7 @@ Validated: 9
 EndChar
 
 StartChar: U
-Encoding: 85 85 101
+Encoding: 54 85 101
 Width: 746
 VWidth: 0
 Flags: W
@@ -14740,7 +14739,7 @@ Validated: 9
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 102
+Encoding: 152 218 102
 Width: 746
 VWidth: 0
 Flags: W
@@ -14800,7 +14799,7 @@ Validated: 9
 EndChar
 
 StartChar: Ubreve
-Encoding: 364 364 103
+Encoding: 298 364 103
 Width: 746
 VWidth: 0
 Flags: W
@@ -14954,7 +14953,7 @@ Validated: 9
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 104
+Encoding: 153 219 104
 Width: 746
 VWidth: 0
 Flags: W
@@ -15017,7 +15016,7 @@ Validated: 9
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 105
+Encoding: 154 220 105
 Width: 746
 VWidth: 0
 Flags: W
@@ -15084,7 +15083,7 @@ Validated: 9
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 106
+Encoding: 151 217 106
 Width: 746
 VWidth: 0
 Flags: W
@@ -15144,7 +15143,7 @@ Validated: 9
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 368 368 107
+Encoding: 302 368 107
 Width: 746
 VWidth: 0
 Flags: W
@@ -15209,7 +15208,7 @@ Validated: 9
 EndChar
 
 StartChar: Umacron
-Encoding: 362 362 108
+Encoding: 296 362 108
 Width: 746
 VWidth: 0
 Flags: W
@@ -15269,7 +15268,7 @@ Validated: 9
 EndChar
 
 StartChar: Uogonek
-Encoding: 370 370 109
+Encoding: 304 370 109
 Width: 746
 VWidth: 0
 Flags: W
@@ -15334,7 +15333,7 @@ Validated: 9
 EndChar
 
 StartChar: Uring
-Encoding: 366 366 110
+Encoding: 300 366 110
 Width: 746
 VWidth: 0
 Flags: W
@@ -15405,7 +15404,7 @@ Validated: 9
 EndChar
 
 StartChar: Utilde
-Encoding: 360 360 111
+Encoding: 294 360 111
 Width: 746
 VWidth: 0
 Flags: W
@@ -15575,7 +15574,7 @@ Validated: 9
 EndChar
 
 StartChar: V
-Encoding: 86 86 112
+Encoding: 55 86 112
 Width: 666
 VWidth: 0
 Flags: W
@@ -15619,7 +15618,7 @@ Kerns2: 226 -120 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  199 -40
 EndChar
 
 StartChar: W
-Encoding: 87 87 113
+Encoding: 56 87 113
 Width: 920
 VWidth: 0
 Flags: W
@@ -15668,7 +15667,7 @@ Validated: 9
 EndChar
 
 StartChar: Wacute
-Encoding: 7810 7810 114
+Encoding: 483 7810 114
 Width: 920
 VWidth: 0
 Flags: W
@@ -15724,7 +15723,7 @@ Validated: 9
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 372 372 115
+Encoding: 306 372 115
 Width: 920
 VWidth: 0
 Flags: W
@@ -15783,7 +15782,7 @@ Validated: 9
 EndChar
 
 StartChar: Wdieresis
-Encoding: 7812 7812 116
+Encoding: 485 7812 116
 Width: 920
 VWidth: 0
 Flags: W
@@ -15851,7 +15850,7 @@ Validated: 9
 EndChar
 
 StartChar: Wgrave
-Encoding: 7808 7808 117
+Encoding: 481 7808 117
 Width: 920
 VWidth: 0
 Flags: W
@@ -15907,7 +15906,7 @@ Validated: 9
 EndChar
 
 StartChar: X
-Encoding: 88 88 118
+Encoding: 57 88 118
 Width: 650
 VWidth: 0
 Flags: W
@@ -16390,7 +16389,7 @@ Validated: 9
 EndChar
 
 StartChar: Y
-Encoding: 89 89 119
+Encoding: 58 89 119
 Width: 605
 VWidth: 0
 Flags: W
@@ -16486,7 +16485,7 @@ Kerns2: 226 -110 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  199 -60
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 120
+Encoding: 155 221 120
 Width: 601
 VWidth: 0
 Flags: W
@@ -16547,7 +16546,7 @@ Validated: 9
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 374 374 121
+Encoding: 308 374 121
 Width: 605
 VWidth: 0
 Flags: W
@@ -16611,7 +16610,7 @@ Validated: 9
 EndChar
 
 StartChar: Ydieresis
-Encoding: 376 376 122
+Encoding: 310 376 122
 Width: 601
 VWidth: 0
 Flags: W
@@ -16679,7 +16678,7 @@ Validated: 9
 EndChar
 
 StartChar: Ygrave
-Encoding: 7922 7922 123
+Encoding: 487 7922 123
 Width: 605
 VWidth: 0
 Flags: W
@@ -16740,7 +16739,7 @@ Validated: 9
 EndChar
 
 StartChar: Z
-Encoding: 90 90 124
+Encoding: 59 90 124
 Width: 564
 VWidth: 0
 Flags: W
@@ -17049,7 +17048,7 @@ Validated: 9
 EndChar
 
 StartChar: Zacute
-Encoding: 377 377 125
+Encoding: 311 377 125
 Width: 564
 VWidth: 0
 Flags: W
@@ -17100,7 +17099,7 @@ Validated: 9
 EndChar
 
 StartChar: Zcaron
-Encoding: 381 381 126
+Encoding: 315 381 126
 Width: 525
 VWidth: 0
 Flags: W
@@ -17154,7 +17153,7 @@ Validated: 9
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 379 379 127
+Encoding: 313 379 127
 Width: 564
 VWidth: 0
 Flags: W
@@ -17210,7 +17209,7 @@ Validated: 9
 EndChar
 
 StartChar: a
-Encoding: 97 97 128
+Encoding: 66 97 128
 Width: 608
 VWidth: 0
 Flags: W
@@ -17362,7 +17361,7 @@ Validated: 9
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 129
+Encoding: 159 225 129
 Width: 608
 VWidth: 0
 Flags: W
@@ -17536,7 +17535,7 @@ Validated: 9
 EndChar
 
 StartChar: aadeva
-Encoding: 2310 2310 130
+Encoding: 360 2310 130
 Width: 1173
 VWidth: 0
 Flags: W
@@ -18594,7 +18593,7 @@ Validated: 41
 EndChar
 
 StartChar: aasigndeva
-Encoding: 2366 2366 131
+Encoding: 416 2366 131
 Width: 316
 VWidth: 0
 Flags: W
@@ -18635,7 +18634,7 @@ Validated: 9
 EndChar
 
 StartChar: abbreviationsigndeva
-Encoding: 2416 2416 132
+Encoding: 466 2416 132
 Width: 532
 VWidth: 0
 Flags: W
@@ -18684,7 +18683,7 @@ Validated: 1
 EndChar
 
 StartChar: abreve
-Encoding: 259 259 133
+Encoding: 193 259 133
 Width: 608
 VWidth: 0
 Flags: W
@@ -18934,7 +18933,7 @@ Validated: 9
 EndChar
 
 StartChar: acandradeva
-Encoding: 2418 2418 134
+Encoding: 468 2418 134
 Width: 857
 VWidth: 0
 Flags: W
@@ -19243,7 +19242,7 @@ Validated: 41
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 135
+Encoding: 160 226 135
 Width: 608
 VWidth: 0
 Flags: W
@@ -19420,7 +19419,7 @@ Validated: 9
 EndChar
 
 StartChar: acombiningletterdeva
-Encoding: 43242 43242 136
+Encoding: 567 43242 136
 Width: 400
 VWidth: 0
 Flags: W
@@ -21671,7 +21670,7 @@ Validated: 41
 EndChar
 
 StartChar: acute
-Encoding: 180 180 137
+Encoding: 114 180 137
 Width: 314
 VWidth: 0
 Flags: W
@@ -21703,7 +21702,7 @@ Validated: 9
 EndChar
 
 StartChar: acute.case
-Encoding: 65541 -1 138
+Encoding: 597 -1 138
 Width: 314
 VWidth: 0
 Flags: W
@@ -21735,7 +21734,7 @@ Validated: 9
 EndChar
 
 StartChar: acutedeva
-Encoding: 2388 2388 139
+Encoding: 438 2388 139
 Width: 0
 VWidth: 0
 Flags: W
@@ -21835,7 +21834,7 @@ Validated: 9
 EndChar
 
 StartChar: adeva
-Encoding: 2309 2309 140
+Encoding: 359 2309 140
 Width: 857
 VWidth: 0
 Flags: W
@@ -22666,7 +22665,7 @@ Validated: 41
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 141
+Encoding: 162 228 141
 Width: 608
 VWidth: 0
 Flags: W
@@ -22822,7 +22821,7 @@ Validated: 9
 EndChar
 
 StartChar: ae
-Encoding: 230 230 142
+Encoding: 164 230 142
 Width: 894
 VWidth: 0
 Flags: W
@@ -23707,7 +23706,7 @@ Validated: 9
 EndChar
 
 StartChar: aeacute
-Encoding: 509 509 143
+Encoding: 321 509 143
 Width: 894
 VWidth: 0
 Flags: W
@@ -23866,7 +23865,7 @@ Validated: 9
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 144
+Encoding: 158 224 144
 Width: 608
 VWidth: 0
 Flags: W
@@ -24005,7 +24004,7 @@ Validated: 9
 EndChar
 
 StartChar: aideva
-Encoding: 2320 2320 145
+Encoding: 370 2320 145
 Width: 614
 VWidth: 0
 Flags: W
@@ -24103,7 +24102,7 @@ Validated: 9
 EndChar
 
 StartChar: aisign_ra_virama.alt1
-Encoding: 65542 -1 146
+Encoding: 598 -1 146
 Width: 0
 VWidth: 0
 Flags: W
@@ -24479,7 +24478,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" aisigndeva radev
 EndChar
 
 StartChar: aisign_ra_virama_anusvara
-Encoding: 65543 -1 147
+Encoding: 599 -1 147
 Width: 0
 VWidth: 0
 Flags: W
@@ -24587,7 +24586,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" aisigndeva radev
 EndChar
 
 StartChar: aisigndeva
-Encoding: 2376 2376 148
+Encoding: 426 2376 148
 Width: 0
 VWidth: 0
 Flags: W
@@ -24729,7 +24728,7 @@ Validated: 9
 EndChar
 
 StartChar: aisigndeva_anusvaradeva
-Encoding: 65544 -1 149
+Encoding: 600 -1 149
 Width: 0
 VWidth: 0
 Flags: W
@@ -24778,7 +24777,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" aisigndeva anusv
 EndChar
 
 StartChar: amacron
-Encoding: 257 257 150
+Encoding: 191 257 150
 Width: 608
 VWidth: 0
 Flags: W
@@ -24952,7 +24951,7 @@ Validated: 9
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 151
+Encoding: 7 38 151
 Width: 621
 VWidth: 0
 Flags: W
@@ -25103,7 +25102,7 @@ Validated: 1
 EndChar
 
 StartChar: anudattadeva
-Encoding: 2386 2386 152
+Encoding: 436 2386 152
 Width: 0
 VWidth: 0
 Flags: W
@@ -25133,7 +25132,7 @@ Validated: 1
 EndChar
 
 StartChar: anusvaradeva
-Encoding: 2306 2306 153
+Encoding: 356 2306 153
 Width: 0
 VWidth: 0
 Flags: W
@@ -25236,7 +25235,7 @@ Validated: 9
 EndChar
 
 StartChar: aogonek
-Encoding: 261 261 154
+Encoding: 195 261 154
 Width: 608
 VWidth: 0
 Flags: W
@@ -25486,7 +25485,7 @@ Validated: 9
 EndChar
 
 StartChar: apostrophe
-Encoding: 700 700 155
+Encoding: 328 700 155
 Width: 307
 VWidth: 0
 Flags: W
@@ -25587,7 +25586,7 @@ Validated: 9
 EndChar
 
 StartChar: apple
-Encoding: 63743 63743 156
+Encoding: 585 63743 156
 Width: 923
 VWidth: 0
 Flags: W
@@ -29512,7 +29511,7 @@ Validated: 9
 EndChar
 
 StartChar: approxequal
-Encoding: 8776 8776 157
+Encoding: 551 8776 157
 Width: 588
 VWidth: 0
 Flags: W
@@ -29763,7 +29762,7 @@ Validated: 9
 EndChar
 
 StartChar: aring
-Encoding: 229 229 158
+Encoding: 163 229 158
 Width: 608
 VWidth: 0
 Flags: W
@@ -29993,7 +29992,7 @@ Validated: 9
 EndChar
 
 StartChar: aringacute
-Encoding: 507 507 159
+Encoding: 319 507 159
 Width: 608
 VWidth: 0
 Flags: W
@@ -30329,7 +30328,7 @@ Validated: 9
 EndChar
 
 StartChar: arrowdown
-Encoding: 8595 8595 160
+Encoding: 541 8595 160
 Width: 650
 VWidth: 0
 Flags: W
@@ -30372,7 +30371,7 @@ Validated: 9
 EndChar
 
 StartChar: arrowleft
-Encoding: 8592 8592 161
+Encoding: 538 8592 161
 Width: 850
 VWidth: 0
 Flags: W
@@ -30412,7 +30411,7 @@ Validated: 9
 EndChar
 
 StartChar: arrowright
-Encoding: 8594 8594 162
+Encoding: 540 8594 162
 Width: 850
 VWidth: 0
 Flags: W
@@ -30452,7 +30451,7 @@ Validated: 9
 EndChar
 
 StartChar: arrowup
-Encoding: 8593 8593 163
+Encoding: 539 8593 163
 Width: 650
 VWidth: 0
 Flags: W
@@ -30495,7 +30494,7 @@ Validated: 9
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 164
+Encoding: 63 94 164
 Width: 588
 VWidth: 0
 Flags: W
@@ -30530,7 +30529,7 @@ Validated: 9
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 165
+Encoding: 95 126 165
 Width: 588
 VWidth: 0
 Flags: W
@@ -30723,7 +30722,7 @@ Validated: 9
 EndChar
 
 StartChar: ashortdeva
-Encoding: 2308 2308 166
+Encoding: 358 2308 166
 Width: 857
 VWidth: 0
 Flags: W
@@ -31946,7 +31945,7 @@ Validated: 41
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 167
+Encoding: 11 42 167
 Width: 562
 VWidth: 0
 Flags: W
@@ -32010,7 +32009,7 @@ Validated: 9
 EndChar
 
 StartChar: at
-Encoding: 64 64 168
+Encoding: 33 64 168
 Width: 1011
 VWidth: 0
 Flags: W
@@ -32082,7 +32081,7 @@ Validated: 9
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 169
+Encoding: 161 227 169
 Width: 608
 VWidth: 0
 Flags: W
@@ -32356,7 +32355,7 @@ Validated: 9
 EndChar
 
 StartChar: audeva
-Encoding: 2324 2324 170
+Encoding: 374 2324 170
 Width: 1173
 VWidth: 0
 Flags: W
@@ -32592,7 +32591,7 @@ Validated: 41
 EndChar
 
 StartChar: ausign_ra_virama.alt1
-Encoding: 65545 -1 171
+Encoding: 601 -1 171
 Width: 316
 VWidth: 0
 Flags: W
@@ -32650,7 +32649,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" ausigndeva radev
 EndChar
 
 StartChar: ausign_ra_virama_anusvara
-Encoding: 65546 -1 172
+Encoding: 602 -1 172
 Width: 316
 VWidth: 0
 Flags: W
@@ -32717,7 +32716,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" ausigndeva radev
 EndChar
 
 StartChar: ausigndeva
-Encoding: 2380 2380 173
+Encoding: 430 2380 173
 Width: 316
 VWidth: 0
 Flags: W
@@ -32767,7 +32766,7 @@ Validated: 9
 EndChar
 
 StartChar: ausigndeva_anusvaradeva
-Encoding: 65547 -1 174
+Encoding: 603 -1 174
 Width: 316
 VWidth: 0
 Flags: W
@@ -32887,7 +32886,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" ausigndeva anusv
 EndChar
 
 StartChar: avagrahacombiningsigndeva
-Encoding: 43249 43249 175
+Encoding: 574 43249 175
 Width: 0
 VWidth: 0
 Flags: W
@@ -32987,7 +32986,7 @@ Validated: 1
 EndChar
 
 StartChar: avagrahadeva
-Encoding: 2365 2365 176
+Encoding: 415 2365 176
 Width: 497
 VWidth: 0
 Flags: W
@@ -33559,7 +33558,7 @@ Validated: 9
 EndChar
 
 StartChar: awdeva
-Encoding: 2421 2421 177
+Encoding: 471 2421 177
 Width: 1173
 VWidth: 0
 Flags: W
@@ -34705,7 +34704,7 @@ Validated: 41
 EndChar
 
 StartChar: awsigndeva
-Encoding: 2383 2383 178
+Encoding: 433 2383 178
 Width: 316
 VWidth: 0
 Flags: W
@@ -34760,7 +34759,7 @@ Validated: 9
 EndChar
 
 StartChar: b
-Encoding: 98 98 179
+Encoding: 67 98 179
 Width: 616
 VWidth: 0
 Flags: W
@@ -35224,7 +35223,7 @@ Validated: 9
 EndChar
 
 StartChar: ba_virama_ra_viramadeva
-Encoding: 65548 -1 180
+Encoding: 604 -1 180
 Width: 407
 VWidth: 0
 Flags: W
@@ -35457,7 +35456,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" badeva_viramadeva_radeva virama
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 181
+Encoding: 61 92 181
 Width: 339
 VWidth: 0
 Flags: W
@@ -35489,7 +35488,7 @@ Validated: 9
 EndChar
 
 StartChar: badeva
-Encoding: 2348 2348 182
+Encoding: 398 2348 182
 Width: 616
 VWidth: 0
 Flags: W
@@ -35550,7 +35549,7 @@ Validated: 9
 EndChar
 
 StartChar: badeva_viramadeva
-Encoding: 65549 -1 183
+Encoding: 605 -1 183
 Width: 407
 VWidth: 0
 Flags: W
@@ -35604,7 +35603,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" badeva viramadeva
 EndChar
 
 StartChar: badeva_viramadeva_radeva
-Encoding: 65550 -1 184
+Encoding: 606 -1 184
 Width: 616
 VWidth: 0
 Flags: W
@@ -35665,7 +35664,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" badeva viramadeva_radeva
 EndChar
 
 StartChar: bar
-Encoding: 124 124 185
+Encoding: 93 124 185
 Width: 337
 VWidth: 0
 Flags: W
@@ -35702,7 +35701,7 @@ Validated: 9
 EndChar
 
 StartChar: barra
-Encoding: 65551 -1 186
+Encoding: 607 -1 186
 Width: 398
 VWidth: 0
 Flags: W
@@ -35732,7 +35731,7 @@ Validated: 9
 EndChar
 
 StartChar: bbadeva
-Encoding: 2431 2431 187
+Encoding: 480 2431 187
 Width: 616
 VWidth: 0
 Flags: W
@@ -35795,7 +35794,7 @@ Validated: 9
 EndChar
 
 StartChar: bhadeva
-Encoding: 2349 2349 188
+Encoding: 399 2349 188
 Width: 781
 VWidth: 0
 Flags: W
@@ -35932,7 +35931,7 @@ Validated: 9
 EndChar
 
 StartChar: bhadeva_viramadeva
-Encoding: 65552 -1 189
+Encoding: 608 -1 189
 Width: 521
 VWidth: 0
 Flags: W
@@ -36312,7 +36311,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" bhadeva viramadeva
 EndChar
 
 StartChar: bhadeva_viramadeva_radeva
-Encoding: 65553 -1 190
+Encoding: 609 -1 190
 Width: 781
 VWidth: 0
 Flags: W
@@ -36490,7 +36489,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" bhadeva viramadeva_radeva
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 191
+Encoding: 92 123 191
 Width: 319
 VWidth: 0
 Flags: W
@@ -36539,7 +36538,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 192
+Encoding: 94 125 192
 Width: 319
 VWidth: 0
 Flags: W
@@ -37003,7 +37002,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 193
+Encoding: 60 91 193
 Width: 313
 VWidth: 0
 Flags: W
@@ -37044,7 +37043,7 @@ Validated: 9
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 194
+Encoding: 62 93 194
 Width: 313
 VWidth: 0
 Flags: W
@@ -37085,7 +37084,7 @@ Validated: 9
 EndChar
 
 StartChar: breve
-Encoding: 728 728 195
+Encoding: 332 728 195
 Width: 425
 VWidth: 0
 Flags: W
@@ -37306,7 +37305,7 @@ Validated: 1
 EndChar
 
 StartChar: breve.case
-Encoding: 65554 -1 196
+Encoding: 610 -1 196
 Width: 425
 VWidth: 0
 Flags: W
@@ -37527,7 +37526,7 @@ Validated: 1
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 197
+Encoding: 101 166 197
 Width: 337
 VWidth: 0
 Flags: W
@@ -37569,7 +37568,7 @@ Validated: 9
 EndChar
 
 StartChar: bullet
-Encoding: 8226 8226 198
+Encoding: 500 8226 198
 Width: 276
 VWidth: 0
 Flags: W
@@ -37601,7 +37600,7 @@ Validated: 9
 EndChar
 
 StartChar: c
-Encoding: 99 99 199
+Encoding: 68 99 199
 Width: 567
 VWidth: 0
 Flags: W
@@ -38059,7 +38058,7 @@ Validated: 9
 EndChar
 
 StartChar: cacute
-Encoding: 263 263 200
+Encoding: 197 263 200
 Width: 567
 VWidth: 0
 Flags: W
@@ -38206,7 +38205,7 @@ Validated: 9
 EndChar
 
 StartChar: cadeva
-Encoding: 2330 2330 201
+Encoding: 380 2330 201
 Width: 686
 VWidth: 0
 Flags: W
@@ -38541,7 +38540,7 @@ Validated: 9
 EndChar
 
 StartChar: cadeva_viramadeva
-Encoding: 65555 -1 202
+Encoding: 611 -1 202
 Width: 487
 VWidth: 0
 Flags: W
@@ -38594,7 +38593,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" cadeva viramadeva
 EndChar
 
 StartChar: cadeva_viramadeva_cadeva
-Encoding: 65556 -1 203
+Encoding: 612 -1 203
 Width: 686
 VWidth: 0
 Flags: W
@@ -39429,7 +39428,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" cadeva viramadeva cadeva
 EndChar
 
 StartChar: cadeva_viramadeva_radeva
-Encoding: 65557 -1 204
+Encoding: 613 -1 204
 Width: 686
 VWidth: 0
 Flags: W
@@ -39489,7 +39488,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" cadeva viramadeva_radeva
 EndChar
 
 StartChar: candrabinduavagrahadeva
-Encoding: 43255 43255 205
+Encoding: 580 43255 205
 Width: 569
 VWidth: 0
 Flags: W
@@ -40616,7 +40615,7 @@ Validated: 9
 EndChar
 
 StartChar: candrabindudeva
-Encoding: 2305 2305 206
+Encoding: 355 2305 206
 Width: 0
 VWidth: 0
 Flags: W
@@ -41019,7 +41018,7 @@ Validated: 9
 EndChar
 
 StartChar: candrabindudigitthreedeva
-Encoding: 43254 43254 207
+Encoding: 579 43254 207
 Width: 569
 VWidth: 0
 Flags: W
@@ -41198,7 +41197,7 @@ Validated: 41
 EndChar
 
 StartChar: candrabindudigittwodeva
-Encoding: 43253 43253 208
+Encoding: 578 43253 208
 Width: 568
 VWidth: 0
 Flags: W
@@ -42351,7 +42350,7 @@ Validated: 41
 EndChar
 
 StartChar: candrabinduinverteddeva
-Encoding: 2304 2304 209
+Encoding: 354 2304 209
 Width: 0
 VWidth: 0
 Flags: W
@@ -42754,7 +42753,7 @@ Validated: 9
 EndChar
 
 StartChar: candrabinduviramadeva
-Encoding: 43251 43251 210
+Encoding: 576 43251 210
 Width: 570
 VWidth: 0
 Flags: W
@@ -43199,7 +43198,7 @@ Validated: 9
 EndChar
 
 StartChar: caretdeva
-Encoding: 43258 43258 211
+Encoding: 583 43258 211
 Width: 601
 VWidth: 0
 Flags: W
@@ -43234,7 +43233,7 @@ Validated: 1
 EndChar
 
 StartChar: caron
-Encoding: 711 711 212
+Encoding: 330 711 212
 Width: 371
 VWidth: 0
 Flags: W
@@ -43375,7 +43374,7 @@ Validated: 9
 EndChar
 
 StartChar: caron.case
-Encoding: 65558 -1 213
+Encoding: 614 -1 213
 Width: 371
 VWidth: 0
 Flags: W
@@ -43516,7 +43515,7 @@ Validated: 9
 EndChar
 
 StartChar: ccaron
-Encoding: 269 269 214
+Encoding: 203 269 214
 Width: 567
 VWidth: 0
 Flags: W
@@ -43666,7 +43665,7 @@ Validated: 9
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 215
+Encoding: 165 231 215
 Width: 563
 VWidth: 0
 Flags: W
@@ -43835,7 +43834,7 @@ Validated: 9
 EndChar
 
 StartChar: ccircumflex
-Encoding: 265 265 216
+Encoding: 199 265 216
 Width: 567
 VWidth: 0
 Flags: W
@@ -43985,7 +43984,7 @@ Validated: 9
 EndChar
 
 StartChar: cdotaccent
-Encoding: 267 267 217
+Encoding: 201 267 217
 Width: 567
 VWidth: 0
 Flags: W
@@ -44149,7 +44148,7 @@ Validated: 9
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 218
+Encoding: 118 184 218
 Width: 299
 VWidth: 0
 Flags: W
@@ -44434,7 +44433,7 @@ Validated: 9
 EndChar
 
 StartChar: cent
-Encoding: 162 162 219
+Encoding: 97 162 219
 Width: 580
 VWidth: 0
 Flags: W
@@ -44490,7 +44489,7 @@ Validated: 9
 EndChar
 
 StartChar: chadeva
-Encoding: 2331 2331 220
+Encoding: 381 2331 220
 Width: 774
 VWidth: 0
 Flags: W
@@ -44563,7 +44562,7 @@ Validated: 9
 EndChar
 
 StartChar: chadeva_viramadeva
-Encoding: 65559 -1 221
+Encoding: 615 -1 221
 Width: 774
 VWidth: 0
 Flags: W
@@ -45467,7 +45466,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" chadeva viramadeva
 EndChar
 
 StartChar: chadeva_viramadeva_vadeva
-Encoding: 65560 -1 222
+Encoding: 616 -1 222
 Width: 747
 VWidth: 0
 Flags: W
@@ -46800,7 +46799,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" cadeva viramadeva vadeva
 EndChar
 
 StartChar: circumflex
-Encoding: 710 710 223
+Encoding: 329 710 223
 Width: 401
 VWidth: 0
 Flags: W
@@ -46835,7 +46834,7 @@ Validated: 9
 EndChar
 
 StartChar: circumflex.case
-Encoding: 65561 -1 224
+Encoding: 617 -1 224
 Width: 401
 VWidth: 0
 Flags: W
@@ -46870,7 +46869,7 @@ Validated: 9
 EndChar
 
 StartChar: colon
-Encoding: 58 58 225
+Encoding: 27 58 225
 Width: 238
 VWidth: 0
 Flags: W
@@ -46912,7 +46911,7 @@ Validated: 9
 EndChar
 
 StartChar: comma
-Encoding: 44 44 226
+Encoding: 13 44 226
 Width: 234
 VWidth: 0
 Flags: W
@@ -47013,7 +47012,7 @@ Validated: 9
 EndChar
 
 StartChar: commaaccent
-Encoding: 65562 -1 227
+Encoding: 618 -1 227
 Width: 300
 VWidth: 0
 Flags: W
@@ -47114,7 +47113,7 @@ Validated: 9
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 228
+Encoding: 104 169 228
 Width: 739
 VWidth: 0
 Flags: W
@@ -47175,7 +47174,7 @@ Validated: 9
 EndChar
 
 StartChar: currency
-Encoding: 164 164 229
+Encoding: 99 164 229
 Width: 597
 VWidth: 0
 Flags: W
@@ -47239,7 +47238,7 @@ Validated: 9
 EndChar
 
 StartChar: d
-Encoding: 100 100 230
+Encoding: 69 100 230
 Width: 636
 VWidth: 0
 Flags: W
@@ -47642,7 +47641,7 @@ Validated: 9
 EndChar
 
 StartChar: d.alt
-Encoding: 65563 -1 231
+Encoding: 619 -1 231
 Width: 636
 VWidth: 0
 Flags: W
@@ -48043,7 +48042,7 @@ Validated: 9
 EndChar
 
 StartChar: da_ddha_ra_yadeva
-Encoding: 65564 -1 232
+Encoding: 620 -1 232
 Width: 1441
 VWidth: 0
 Flags: W
@@ -49773,7 +49772,7 @@ Ligature2: "'cjct' Conjunct Forms lookup 11 subtable" dadeva_viramadeva_dhadeva 
 EndChar
 
 StartChar: dadeva
-Encoding: 2342 2342 233
+Encoding: 392 2342 233
 Width: 614
 VWidth: 0
 Flags: W
@@ -50335,7 +50334,7 @@ Validated: 41
 EndChar
 
 StartChar: dadeva_rvocalicsigndeva
-Encoding: 65565 -1 234
+Encoding: 621 -1 234
 Width: 614
 VWidth: 0
 Flags: W
@@ -50511,7 +50510,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 27 subtable" dadeva rvocalics
 EndChar
 
 StartChar: dadeva_viramadeva
-Encoding: 65566 -1 235
+Encoding: 622 -1 235
 Width: 614
 VWidth: 0
 Flags: W
@@ -50581,7 +50580,7 @@ Ligature2: "'haln' Halant Forms lookup 0 subtable" dadeva viramadeva
 EndChar
 
 StartChar: dadeva_viramadeva_badeva
-Encoding: 65567 -1 236
+Encoding: 623 -1 236
 Width: 614
 VWidth: 0
 Flags: W
@@ -50721,7 +50720,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva badeva
 EndChar
 
 StartChar: dadeva_viramadeva_bhadeva
-Encoding: 65568 -1 237
+Encoding: 624 -1 237
 Width: 826
 VWidth: 0
 Flags: W
@@ -51703,7 +51702,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva bhadeva
 EndChar
 
 StartChar: dadeva_viramadeva_dadeva
-Encoding: 65569 -1 238
+Encoding: 625 -1 238
 Width: 638
 VWidth: 0
 Flags: W
@@ -52599,7 +52598,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva dadeva
 EndChar
 
 StartChar: dadeva_viramadeva_dhadeva
-Encoding: 65570 -1 239
+Encoding: 626 -1 239
 Width: 796
 VWidth: 0
 Flags: W
@@ -53715,7 +53714,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva dhadeva
 EndChar
 
 StartChar: dadeva_viramadeva_gadeva
-Encoding: 65571 -1 240
+Encoding: 627 -1 240
 Width: 614
 VWidth: 0
 Flags: W
@@ -54566,7 +54565,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva gadeva
 EndChar
 
 StartChar: dadeva_viramadeva_ghadeva
-Encoding: 65572 -1 241
+Encoding: 628 -1 241
 Width: 714
 VWidth: 0
 Flags: W
@@ -55797,7 +55796,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva ghadeva
 EndChar
 
 StartChar: dadeva_viramadeva_madeva
-Encoding: 65573 -1 242
+Encoding: 629 -1 242
 Width: 837
 VWidth: 0
 Flags: W
@@ -55940,7 +55939,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva madeva
 EndChar
 
 StartChar: dadeva_viramadeva_nadeva
-Encoding: 65574 -1 243
+Encoding: 630 -1 243
 Width: 614
 VWidth: 0
 Flags: W
@@ -56007,7 +56006,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva nadeva
 EndChar
 
 StartChar: dadeva_viramadeva_radeva
-Encoding: 65575 -1 244
+Encoding: 631 -1 244
 Width: 614
 VWidth: 0
 Flags: W
@@ -56133,7 +56132,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" dadeva viramadeva_radeva
 EndChar
 
 StartChar: dadeva_viramadeva_vadeva
-Encoding: 65576 -1 245
+Encoding: 632 -1 245
 Width: 614
 VWidth: 0
 Flags: W
@@ -57056,7 +57055,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva vadeva
 EndChar
 
 StartChar: dadeva_viramadeva_yadeva
-Encoding: 65577 -1 246
+Encoding: 633 -1 246
 Width: 837
 VWidth: 0
 Flags: W
@@ -57373,7 +57372,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" dadeva viramadeva yadeva
 EndChar
 
 StartChar: dagger
-Encoding: 8224 8224 247
+Encoding: 498 8224 247
 Width: 463
 VWidth: 0
 Flags: W
@@ -57691,7 +57690,7 @@ Validated: 9
 EndChar
 
 StartChar: daggerdbl
-Encoding: 8225 8225 248
+Encoding: 499 8225 248
 Width: 463
 VWidth: 0
 Flags: W
@@ -57760,7 +57759,7 @@ Validated: 9
 EndChar
 
 StartChar: danda
-Encoding: 2404 2404 249
+Encoding: 454 2404 249
 Width: 383
 VWidth: 0
 Flags: W
@@ -57797,7 +57796,7 @@ Validated: 1
 EndChar
 
 StartChar: dbldanda
-Encoding: 2405 2405 250
+Encoding: 455 2405 250
 Width: 608
 VWidth: 0
 Flags: W
@@ -57968,7 +57967,7 @@ Validated: 1
 EndChar
 
 StartChar: dcaron
-Encoding: 271 271 251
+Encoding: 205 271 251
 Width: 680
 VWidth: 0
 Flags: W
@@ -58239,7 +58238,7 @@ Validated: 9
 EndChar
 
 StartChar: dcroat
-Encoding: 273 273 252
+Encoding: 207 273 252
 Width: 636
 VWidth: 0
 Flags: W
@@ -58410,7 +58409,7 @@ Validated: 9
 EndChar
 
 StartChar: ddadeva
-Encoding: 2337 2337 253
+Encoding: 387 2337 253
 Width: 614
 VWidth: 0
 Flags: W
@@ -59034,7 +59033,7 @@ Validated: 9
 EndChar
 
 StartChar: ddadeva_viramadeva
-Encoding: 65578 -1 254
+Encoding: 634 -1 254
 Width: 614
 VWidth: 0
 Flags: W
@@ -59105,7 +59104,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ddadeva viramadeva
 EndChar
 
 StartChar: ddadeva_viramadeva_ddadeva
-Encoding: 65579 -1 255
+Encoding: 635 -1 255
 Width: 624
 VWidth: 0
 Flags: W
@@ -60131,7 +60130,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ddadeva viramadeva ddadeva
 EndChar
 
 StartChar: ddadeva_viramadeva_ddhadeva
-Encoding: 65580 -1 256
+Encoding: 636 -1 256
 Width: 624
 VWidth: 0
 Flags: W
@@ -60757,7 +60756,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ddadeva viramadeva ddhadev
 EndChar
 
 StartChar: ddadeva_viramadeva_yadeva
-Encoding: 65581 -1 257
+Encoding: 637 -1 257
 Width: 1306
 VWidth: 0
 Flags: W
@@ -62023,7 +62022,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ddadeva viramadeva yadeva
 EndChar
 
 StartChar: dddadeva
-Encoding: 2430 2430 258
+Encoding: 479 2430 258
 Width: 614
 VWidth: 0
 Flags: W
@@ -62092,7 +62091,7 @@ Validated: 9
 EndChar
 
 StartChar: dddhadeva
-Encoding: 2396 2396 259
+Encoding: 446 2396 259
 Width: 614
 VWidth: 0
 Flags: W
@@ -62165,7 +62164,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" ddadeva nuktadeva
 EndChar
 
 StartChar: ddhadeva
-Encoding: 2338 2338 260
+Encoding: 388 2338 260
 Width: 657
 VWidth: 0
 Flags: W
@@ -63071,7 +63070,7 @@ Validated: 5
 EndChar
 
 StartChar: ddhadeva_viramadeva
-Encoding: 65582 -1 261
+Encoding: 638 -1 261
 Width: 657
 VWidth: 0
 Flags: W
@@ -63282,7 +63281,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ddhadeva viramadeva
 EndChar
 
 StartChar: ddhadeva_viramadeva_ddhadeva
-Encoding: 65583 -1 262
+Encoding: 639 -1 262
 Width: 614
 VWidth: 0
 Flags: W
@@ -64000,7 +63999,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ddhadeva viramadeva ddhade
 EndChar
 
 StartChar: ddhadeva_viramadeva_yadeva
-Encoding: 65584 -1 263
+Encoding: 640 -1 263
 Width: 1339
 VWidth: 0
 Flags: W
@@ -65240,7 +65239,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ddhadeva viramadeva yadeva
 EndChar
 
 StartChar: degree
-Encoding: 176 176 264
+Encoding: 110 176 264
 Width: 425
 VWidth: 0
 Flags: W
@@ -65284,7 +65283,7 @@ Validated: 9
 EndChar
 
 StartChar: dhadeva
-Encoding: 2343 2343 265
+Encoding: 393 2343 265
 Width: 698
 VWidth: 0
 Flags: W
@@ -65478,7 +65477,7 @@ Validated: 9
 EndChar
 
 StartChar: dhadeva_viramadeva
-Encoding: 65585 -1 266
+Encoding: 641 -1 266
 Width: 496
 VWidth: 0
 Flags: W
@@ -65635,7 +65634,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" dhadeva viramadeva
 EndChar
 
 StartChar: dhadeva_viramadeva_radeva
-Encoding: 65586 -1 267
+Encoding: 642 -1 267
 Width: 698
 VWidth: 0
 Flags: W
@@ -65831,7 +65830,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" dhadeva viramadeva_radeva
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 268
+Encoding: 103 168 268
 Width: 347
 VWidth: 0
 Flags: W
@@ -65873,7 +65872,7 @@ Validated: 1
 EndChar
 
 StartChar: dieresis.case
-Encoding: 65587 -1 269
+Encoding: 643 -1 269
 Width: 347
 VWidth: 0
 Flags: W
@@ -65915,7 +65914,7 @@ Validated: 1
 EndChar
 
 StartChar: divide
-Encoding: 247 247 270
+Encoding: 181 247 270
 Width: 588
 VWidth: 0
 Flags: W
@@ -65962,7 +65961,7 @@ Validated: 9
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 271
+Encoding: 5 36 271
 Width: 588
 VWidth: 0
 Flags: W
@@ -66506,7 +66505,7 @@ Validated: 9
 EndChar
 
 StartChar: dotaccent
-Encoding: 729 729 272
+Encoding: 333 729 272
 Width: 274
 VWidth: 0
 Flags: W
@@ -66541,7 +66540,7 @@ Validated: 9
 EndChar
 
 StartChar: dotaccent.case
-Encoding: 65588 -1 273
+Encoding: 644 -1 273
 Width: 274
 VWidth: 0
 Flags: W
@@ -66576,7 +66575,7 @@ Validated: 9
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 274
+Encoding: 239 305 274
 Width: 336
 VWidth: 0
 Flags: W
@@ -66619,7 +66618,7 @@ Validated: 9
 EndChar
 
 StartChar: dottedcircle
-Encoding: 9676 9676 275
+Encoding: 556 9676 275
 Width: 1006
 VWidth: 0
 Flags: W
@@ -68382,7 +68381,7 @@ Validated: 9
 EndChar
 
 StartChar: doublecandrabinduviramadeva
-Encoding: 43252 43252 276
+Encoding: 577 43252 276
 Width: 570
 VWidth: 0
 Flags: W
@@ -68455,7 +68454,7 @@ Validated: 9
 EndChar
 
 StartChar: e
-Encoding: 101 101 277
+Encoding: 70 101 277
 Width: 592
 VWidth: 0
 Flags: W
@@ -68760,7 +68759,7 @@ Validated: 9
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 278
+Encoding: 167 233 278
 Width: 586
 VWidth: 0
 Flags: W
@@ -68817,7 +68816,7 @@ Validated: 9
 EndChar
 
 StartChar: ebreve
-Encoding: 277 277 279
+Encoding: 211 277 279
 Width: 592
 VWidth: 0
 Flags: W
@@ -68983,7 +68982,7 @@ Validated: 9
 EndChar
 
 StartChar: ecandradeva
-Encoding: 2317 2317 280
+Encoding: 367 2317 280
 Width: 614
 VWidth: 0
 Flags: W
@@ -69086,7 +69085,7 @@ Validated: 9
 EndChar
 
 StartChar: ecandralongsigndeva
-Encoding: 2389 2389 281
+Encoding: 439 2389 281
 Width: 0
 VWidth: 0
 Flags: W
@@ -69133,7 +69132,7 @@ Validated: 1
 EndChar
 
 StartChar: ecandrasigndeva
-Encoding: 2373 2373 282
+Encoding: 423 2373 282
 Width: 0
 VWidth: 0
 Flags: W
@@ -69417,7 +69416,7 @@ Validated: 1
 EndChar
 
 StartChar: ecaron
-Encoding: 283 283 283
+Encoding: 217 283 283
 Width: 592
 VWidth: 0
 Flags: W
@@ -69477,7 +69476,7 @@ Validated: 9
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 284
+Encoding: 168 234 284
 Width: 586
 VWidth: 0
 Flags: W
@@ -69537,7 +69536,7 @@ Validated: 9
 EndChar
 
 StartChar: edeva
-Encoding: 2319 2319 285
+Encoding: 369 2319 285
 Width: 614
 VWidth: 0
 Flags: W
@@ -69630,7 +69629,7 @@ Validated: 9
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 286
+Encoding: 169 235 286
 Width: 586
 VWidth: 0
 Flags: W
@@ -69694,7 +69693,7 @@ Validated: 9
 EndChar
 
 StartChar: edotaccent
-Encoding: 279 279 287
+Encoding: 213 279 287
 Width: 592
 VWidth: 0
 Flags: W
@@ -69753,7 +69752,7 @@ Validated: 9
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 288
+Encoding: 166 232 288
 Width: 586
 VWidth: 0
 Flags: W
@@ -69810,7 +69809,7 @@ Validated: 9
 EndChar
 
 StartChar: eight
-Encoding: 56 56 289
+Encoding: 25 56 289
 Width: 588
 VWidth: 0
 Flags: W
@@ -70396,7 +70395,7 @@ Validated: 1
 EndChar
 
 StartChar: eight.denominator
-Encoding: 65589 -1 290
+Encoding: 645 -1 290
 Width: 420
 VWidth: 0
 Flags: W
@@ -70982,7 +70981,7 @@ Validated: 1
 EndChar
 
 StartChar: eight.numerator
-Encoding: 65590 -1 291
+Encoding: 646 -1 291
 Width: 420
 VWidth: 0
 Flags: W
@@ -71568,7 +71567,7 @@ Validated: 1
 EndChar
 
 StartChar: eightcombiningdigitdeva
-Encoding: 43240 43240 292
+Encoding: 565 43240 292
 Width: 0
 VWidth: 0
 Flags: W
@@ -71848,7 +71847,7 @@ Validated: 1
 EndChar
 
 StartChar: eightdeva
-Encoding: 2414 2414 293
+Encoding: 464 2414 293
 Width: 602
 VWidth: 0
 Flags: W
@@ -72473,7 +72472,7 @@ Substitution2: "'locl' Localized Forms lookup 3 subtable" eightdeva.np
 EndChar
 
 StartChar: eightdeva.np
-Encoding: 65591 -1 294
+Encoding: 647 -1 294
 Width: 602
 VWidth: 0
 Flags: W
@@ -72958,7 +72957,7 @@ Validated: 1
 EndChar
 
 StartChar: eightinferior
-Encoding: 8328 8328 295
+Encoding: 521 8328 295
 Width: 420
 VWidth: 0
 Flags: W
@@ -73544,7 +73543,7 @@ Validated: 1
 EndChar
 
 StartChar: eightsuperior
-Encoding: 8312 8312 296
+Encoding: 511 8312 296
 Width: 420
 VWidth: 0
 Flags: W
@@ -74130,7 +74129,7 @@ Validated: 1
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 297
+Encoding: 501 8230 297
 Width: 713
 VWidth: 0
 Flags: W
@@ -74179,7 +74178,7 @@ Validated: 1
 EndChar
 
 StartChar: emacron
-Encoding: 275 275 298
+Encoding: 209 275 298
 Width: 592
 VWidth: 0
 Flags: W
@@ -74236,7 +74235,7 @@ Validated: 9
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 299
+Encoding: 491 8212 299
 Width: 913
 VWidth: 0
 Flags: W
@@ -74333,7 +74332,7 @@ Validated: 9
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 300
+Encoding: 490 8211 300
 Width: 580
 VWidth: 0
 Flags: W
@@ -74363,7 +74362,7 @@ Validated: 9
 EndChar
 
 StartChar: eng
-Encoding: 331 331 301
+Encoding: 265 331 301
 Width: 693
 VWidth: 0
 Flags: W
@@ -74484,7 +74483,7 @@ Validated: 9
 EndChar
 
 StartChar: eogonek
-Encoding: 281 281 302
+Encoding: 215 281 302
 Width: 592
 VWidth: 0
 Flags: W
@@ -74546,7 +74545,7 @@ Validated: 9
 EndChar
 
 StartChar: eprishthamatrasigndeva
-Encoding: 2382 2382 303
+Encoding: 432 2382 303
 Width: 316
 VWidth: 0
 Flags: W
@@ -74585,7 +74584,7 @@ Validated: 9
 EndChar
 
 StartChar: equal
-Encoding: 61 61 304
+Encoding: 30 61 304
 Width: 588
 VWidth: 0
 Flags: W
@@ -74749,7 +74748,7 @@ Validated: 9
 EndChar
 
 StartChar: eshortdeva
-Encoding: 2318 2318 305
+Encoding: 368 2318 305
 Width: 614
 VWidth: 0
 Flags: W
@@ -74806,7 +74805,7 @@ Validated: 41
 EndChar
 
 StartChar: eshortsigndeva
-Encoding: 2374 2374 306
+Encoding: 424 2374 306
 Width: 0
 VWidth: 0
 Flags: W
@@ -74945,7 +74944,7 @@ Validated: 41
 EndChar
 
 StartChar: esign_ra_virama.alt1
-Encoding: 65592 -1 307
+Encoding: 648 -1 307
 Width: 0
 VWidth: 0
 Flags: W
@@ -75236,7 +75235,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" esigndeva radeva
 EndChar
 
 StartChar: esign_ra_virama_anusvara
-Encoding: 65593 -1 308
+Encoding: 649 -1 308
 Width: 0
 VWidth: 0
 Flags: W
@@ -75290,7 +75289,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" esigndeva radeva
 EndChar
 
 StartChar: esigndeva
-Encoding: 2375 2375 309
+Encoding: 425 2375 309
 Width: 0
 VWidth: 0
 Flags: W
@@ -75323,7 +75322,7 @@ Validated: 9
 EndChar
 
 StartChar: esigndeva_anusvaradeva
-Encoding: 65594 -1 310
+Encoding: 650 -1 310
 Width: 0
 VWidth: 0
 Flags: W
@@ -75369,7 +75368,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" esigndeva anusva
 EndChar
 
 StartChar: eslash
-Encoding: 65595 -1 311
+Encoding: 651 -1 311
 Width: 310
 VWidth: 0
 Flags: W
@@ -75401,7 +75400,7 @@ Validated: 9
 EndChar
 
 StartChar: eslash.001
-Encoding: 65596 -1 312
+Encoding: 652 -1 312
 Width: 218
 VWidth: 0
 Flags: W
@@ -75433,7 +75432,7 @@ Validated: 9
 EndChar
 
 StartChar: estimated
-Encoding: 8494 8494 313
+Encoding: 531 8494 313
 Width: 600
 VWidth: 0
 Flags: W
@@ -75483,7 +75482,7 @@ Validated: 1
 EndChar
 
 StartChar: eth
-Encoding: 240 240 314
+Encoding: 174 240 314
 Width: 608
 VWidth: 0
 Flags: W
@@ -75541,7 +75540,7 @@ Validated: 9
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 315
+Encoding: 2 33 315
 Width: 315
 VWidth: 0
 Flags: W
@@ -75802,7 +75801,7 @@ Validated: 9
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 316
+Encoding: 96 161 316
 Width: 315
 VWidth: 0
 Flags: W
@@ -76063,7 +76062,7 @@ Validated: 9
 EndChar
 
 StartChar: f
-Encoding: 102 102 317
+Encoding: 71 102 317
 Width: 357
 VWidth: 0
 Flags: W
@@ -76118,7 +76117,7 @@ Validated: 9
 EndChar
 
 StartChar: f_f
-Encoding: 64256 64256 318
+Encoding: 586 64256 318
 Width: 715
 VWidth: 0
 Flags: W
@@ -76196,7 +76195,7 @@ Validated: 9
 EndChar
 
 StartChar: f_f_i
-Encoding: 64259 64259 319
+Encoding: 589 64259 319
 Width: 1050
 VWidth: 0
 Flags: W
@@ -76292,7 +76291,7 @@ Validated: 9
 EndChar
 
 StartChar: f_f_l
-Encoding: 64260 64260 320
+Encoding: 590 64260 320
 Width: 1040
 VWidth: 0
 Flags: W
@@ -76455,7 +76454,7 @@ Validated: 9
 EndChar
 
 StartChar: fadeva
-Encoding: 2398 2398 321
+Encoding: 448 2398 321
 Width: 907
 VWidth: 0
 Flags: W
@@ -76693,7 +76692,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" phadeva nuktadeva
 EndChar
 
 StartChar: fadeva_viramadeva
-Encoding: 65597 -1 322
+Encoding: 653 -1 322
 Width: 718
 VWidth: 0
 Flags: W
@@ -76835,7 +76834,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" fadeva viramadeva
 EndChar
 
 StartChar: fi
-Encoding: 64257 64257 323
+Encoding: 587 64257 323
 Width: 678
 VWidth: 0
 Flags: W
@@ -76908,7 +76907,7 @@ Validated: 9
 EndChar
 
 StartChar: five
-Encoding: 53 53 324
+Encoding: 22 53 324
 Width: 588
 VWidth: 0
 Flags: W
@@ -77314,7 +77313,7 @@ Validated: 9
 EndChar
 
 StartChar: five.denominator
-Encoding: 65598 -1 325
+Encoding: 654 -1 325
 Width: 420
 VWidth: 0
 Flags: W
@@ -77658,7 +77657,7 @@ Validated: 9
 EndChar
 
 StartChar: five.numerator
-Encoding: 65599 -1 326
+Encoding: 655 -1 326
 Width: 420
 VWidth: 0
 Flags: W
@@ -78002,7 +78001,7 @@ Validated: 9
 EndChar
 
 StartChar: fivecombiningdigitdeva
-Encoding: 43237 43237 327
+Encoding: 562 43237 327
 Width: 0
 VWidth: 0
 Flags: W
@@ -78057,7 +78056,7 @@ Validated: 9
 EndChar
 
 StartChar: fivedeva
-Encoding: 2411 2411 328
+Encoding: 461 2411 328
 Width: 535
 VWidth: 0
 Flags: W
@@ -78630,7 +78629,7 @@ Substitution2: "'locl' Localized Forms lookup 3 subtable" fivedeva.np
 EndChar
 
 StartChar: fivedeva.np
-Encoding: 65600 -1 329
+Encoding: 656 -1 329
 Width: 531
 VWidth: 0
 Flags: W
@@ -79439,7 +79438,7 @@ Validated: 41
 EndChar
 
 StartChar: fiveeighths
-Encoding: 8541 8541 330
+Encoding: 536 8541 330
 Width: 987
 VWidth: 0
 Flags: W
@@ -79776,7 +79775,7 @@ Validated: 9
 EndChar
 
 StartChar: fiveinferior
-Encoding: 8325 8325 331
+Encoding: 518 8325 331
 Width: 420
 VWidth: 0
 Flags: W
@@ -80120,7 +80119,7 @@ Validated: 9
 EndChar
 
 StartChar: fivesuperior
-Encoding: 8309 8309 332
+Encoding: 508 8309 332
 Width: 420
 VWidth: 0
 Flags: W
@@ -80464,7 +80463,7 @@ Validated: 9
 EndChar
 
 StartChar: fl
-Encoding: 64258 64258 333
+Encoding: 588 64258 333
 Width: 668
 VWidth: 0
 Flags: W
@@ -80594,7 +80593,7 @@ Validated: 9
 EndChar
 
 StartChar: florin
-Encoding: 402 402 334
+Encoding: 317 402 334
 Width: 588
 VWidth: 0
 Flags: W
@@ -80647,7 +80646,7 @@ Validated: 9
 EndChar
 
 StartChar: four
-Encoding: 52 52 335
+Encoding: 21 52 335
 Width: 584
 VWidth: 0
 Flags: W
@@ -80863,7 +80862,7 @@ Validated: 9
 EndChar
 
 StartChar: four.denominator
-Encoding: 65601 -1 336
+Encoding: 657 -1 336
 Width: 415
 VWidth: 0
 Flags: W
@@ -81079,7 +81078,7 @@ Validated: 9
 EndChar
 
 StartChar: four.numerator
-Encoding: 65602 -1 337
+Encoding: 658 -1 337
 Width: 415
 VWidth: 0
 Flags: W
@@ -81295,7 +81294,7 @@ Validated: 9
 EndChar
 
 StartChar: fourcombiningdigitdeva
-Encoding: 43236 43236 338
+Encoding: 561 43236 338
 Width: 0
 VWidth: 0
 Flags: W
@@ -81352,7 +81351,7 @@ Validated: 1
 EndChar
 
 StartChar: fourdeva
-Encoding: 2410 2410 339
+Encoding: 460 2410 339
 Width: 658
 VWidth: 0
 Flags: W
@@ -82145,7 +82144,7 @@ Validated: 1
 EndChar
 
 StartChar: fourinferior
-Encoding: 8324 8324 340
+Encoding: 517 8324 340
 Width: 415
 VWidth: 0
 Flags: W
@@ -82361,7 +82360,7 @@ Validated: 9
 EndChar
 
 StartChar: foursuperior
-Encoding: 8308 8308 341
+Encoding: 507 8308 341
 Width: 415
 VWidth: 0
 Flags: W
@@ -82577,7 +82576,7 @@ Validated: 9
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 342
+Encoding: 505 8260 342
 Width: 283
 VWidth: 0
 Flags: W
@@ -82609,7 +82608,7 @@ Validated: 9
 EndChar
 
 StartChar: franc
-Encoding: 8355 8355 343
+Encoding: 523 8355 343
 Width: 494
 VWidth: 0
 Flags: W
@@ -82672,7 +82671,7 @@ Validated: 9
 EndChar
 
 StartChar: g
-Encoding: 103 103 344
+Encoding: 72 103 344
 Width: 587
 VWidth: 0
 Flags: W
@@ -83381,7 +83380,7 @@ Validated: 9
 EndChar
 
 StartChar: gadeva
-Encoding: 2327 2327 345
+Encoding: 377 2327 345
 Width: 658
 VWidth: 0
 Flags: W
@@ -83950,7 +83949,7 @@ Validated: 9
 EndChar
 
 StartChar: gadeva_viramadeva
-Encoding: 65603 -1 346
+Encoding: 659 -1 346
 Width: 331
 VWidth: 0
 Flags: W
@@ -84259,7 +84258,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" gadeva viramadeva
 EndChar
 
 StartChar: gadeva_viramadeva_nadeva
-Encoding: 65604 -1 347
+Encoding: 660 -1 347
 Width: 658
 VWidth: 0
 Flags: W
@@ -84370,7 +84369,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" gadeva viramadeva nadeva
 EndChar
 
 StartChar: gadeva_viramadeva_radeva
-Encoding: 65605 -1 348
+Encoding: 661 -1 348
 Width: 658
 VWidth: 0
 Flags: W
@@ -84477,7 +84476,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" gadeva viramadeva_radeva
 EndChar
 
 StartChar: gapfillerdeva
-Encoding: 43257 43257 349
+Encoding: 582 43257 349
 Width: 795
 VWidth: 0
 Flags: W
@@ -84718,7 +84717,7 @@ Validated: 9
 EndChar
 
 StartChar: gbreve
-Encoding: 287 287 350
+Encoding: 221 287 350
 Width: 587
 VWidth: 0
 Flags: W
@@ -85037,7 +85036,7 @@ Validated: 9
 EndChar
 
 StartChar: gcircumflex
-Encoding: 285 285 351
+Encoding: 219 285 351
 Width: 587
 VWidth: 0
 Flags: W
@@ -85281,7 +85280,7 @@ Validated: 9
 EndChar
 
 StartChar: gdotaccent
-Encoding: 289 289 352
+Encoding: 223 289 352
 Width: 587
 VWidth: 0
 Flags: W
@@ -85544,7 +85543,7 @@ Validated: 9
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 353
+Encoding: 157 223 353
 Width: 655
 VWidth: 0
 Flags: W
@@ -85748,7 +85747,7 @@ Validated: 9
 EndChar
 
 StartChar: ggadeva
-Encoding: 2427 2427 354
+Encoding: 476 2427 354
 Width: 658
 VWidth: 0
 Flags: W
@@ -85801,7 +85800,7 @@ Validated: 9
 EndChar
 
 StartChar: ghadeva
-Encoding: 2328 2328 355
+Encoding: 378 2328 355
 Width: 687
 VWidth: 0
 Flags: W
@@ -85865,7 +85864,7 @@ Validated: 9
 EndChar
 
 StartChar: ghadeva_viramadeva
-Encoding: 65606 -1 356
+Encoding: 662 -1 356
 Width: 505
 VWidth: 0
 Flags: W
@@ -85987,7 +85986,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ghadeva viramadeva
 EndChar
 
 StartChar: ghadeva_viramadeva_radeva
-Encoding: 65607 -1 357
+Encoding: 663 -1 357
 Width: 687
 VWidth: 0
 Flags: W
@@ -86055,7 +86054,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" ghadeva viramadeva_radeva
 EndChar
 
 StartChar: ghhadeva
-Encoding: 2394 2394 358
+Encoding: 444 2394 358
 Width: 658
 VWidth: 0
 Flags: W
@@ -86166,7 +86165,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" gadeva nuktadeva
 EndChar
 
 StartChar: ghhadeva_viramadeva
-Encoding: 65608 -1 359
+Encoding: 664 -1 359
 Width: 331
 VWidth: 0
 Flags: W
@@ -86258,7 +86257,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ghhadeva viramadeva
 EndChar
 
 StartChar: glottalstopdeva
-Encoding: 2429 2429 360
+Encoding: 478 2429 360
 Width: 571
 VWidth: 0
 Flags: W
@@ -86635,7 +86634,7 @@ Validated: 9
 EndChar
 
 StartChar: glyph244
-Encoding: 65609 -1 361
+Encoding: 665 -1 361
 Width: 0
 VWidth: 0
 Flags: W
@@ -87071,7 +87070,7 @@ Validated: 9
 EndChar
 
 StartChar: grave
-Encoding: 96 96 362
+Encoding: 65 96 362
 Width: 314
 VWidth: 0
 Flags: W
@@ -87103,7 +87102,7 @@ Validated: 1
 EndChar
 
 StartChar: grave.case
-Encoding: 65610 -1 363
+Encoding: 666 -1 363
 Width: 314
 VWidth: 0
 Flags: W
@@ -87135,7 +87134,7 @@ Validated: 1
 EndChar
 
 StartChar: gravedeva
-Encoding: 2387 2387 364
+Encoding: 437 2387 364
 Width: 0
 VWidth: 0
 Flags: W
@@ -87235,7 +87234,7 @@ Validated: 1
 EndChar
 
 StartChar: greater
-Encoding: 62 62 365
+Encoding: 31 62 365
 Width: 588
 VWidth: 0
 Flags: W
@@ -87270,7 +87269,7 @@ Validated: 9
 EndChar
 
 StartChar: greaterequal
-Encoding: 8805 8805 366
+Encoding: 554 8805 366
 Width: 588
 VWidth: 0
 Flags: W
@@ -87310,7 +87309,7 @@ Validated: 9
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 367
+Encoding: 106 171 367
 Width: 536
 VWidth: 0
 Flags: W
@@ -87558,7 +87557,7 @@ Validated: 1
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 368
+Encoding: 121 187 368
 Width: 536
 VWidth: 0
 Flags: W
@@ -87601,7 +87600,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 8249 8249 369
+Encoding: 503 8249 369
 Width: 313
 VWidth: 0
 Flags: W
@@ -87636,7 +87635,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglright
-Encoding: 8250 8250 370
+Encoding: 504 8250 370
 Width: 313
 VWidth: 0
 Flags: W
@@ -87671,7 +87670,7 @@ Validated: 1
 EndChar
 
 StartChar: h
-Encoding: 104 104 371
+Encoding: 73 104 371
 Width: 691
 VWidth: 0
 Flags: W
@@ -87730,7 +87729,7 @@ Validated: 9
 EndChar
 
 StartChar: h.alt
-Encoding: 65611 -1 372
+Encoding: 667 -1 372
 Width: 691
 VWidth: 0
 Flags: W
@@ -87787,7 +87786,7 @@ Validated: 9
 EndChar
 
 StartChar: hadeva
-Encoding: 2361 2361 373
+Encoding: 411 2361 373
 Width: 638
 VWidth: 0
 Flags: W
@@ -88447,7 +88446,7 @@ Validated: 9
 EndChar
 
 StartChar: hadeva_rvocalicdeva
-Encoding: 65612 -1 374
+Encoding: 668 -1 374
 Width: 622
 VWidth: 0
 Flags: W
@@ -89264,7 +89263,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 27 subtable" hadeva rvocalics
 EndChar
 
 StartChar: hadeva_viramadeva
-Encoding: 65613 -1 375
+Encoding: 669 -1 375
 Width: 638
 VWidth: 0
 Flags: W
@@ -89827,7 +89826,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" hadeva viramadeva
 EndChar
 
 StartChar: hadeva_viramadeva_ladeva
-Encoding: 65614 -1 376
+Encoding: 670 -1 376
 Width: 709
 VWidth: 0
 Flags: W
@@ -89911,7 +89910,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva ladeva.m
 EndChar
 
 StartChar: hadeva_viramadeva_madeva
-Encoding: 65615 -1 377
+Encoding: 671 -1 377
 Width: 837
 VWidth: 0
 Flags: W
@@ -90870,7 +90869,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva madeva
 EndChar
 
 StartChar: hadeva_viramadeva_nadeva
-Encoding: 65616 -1 378
+Encoding: 672 -1 378
 Width: 709
 VWidth: 0
 Flags: W
@@ -91658,7 +91657,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva nadeva
 EndChar
 
 StartChar: hadeva_viramadeva_nnadeva
-Encoding: 65617 -1 379
+Encoding: 673 -1 379
 Width: 749
 VWidth: 0
 Flags: W
@@ -92305,7 +92304,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva nnadeva
 EndChar
 
 StartChar: hadeva_viramadeva_radeva
-Encoding: 65618 -1 380
+Encoding: 674 -1 380
 Width: 638
 VWidth: 0
 Flags: W
@@ -93066,7 +93065,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva radeva
 EndChar
 
 StartChar: hadeva_viramadeva_vadeva
-Encoding: 65619 -1 381
+Encoding: 675 -1 381
 Width: 709
 VWidth: 0
 Flags: W
@@ -94215,7 +94214,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva vadeva
 EndChar
 
 StartChar: hadeva_viramadeva_yadeva
-Encoding: 65620 -1 382
+Encoding: 676 -1 382
 Width: 915
 VWidth: 0
 Flags: W
@@ -95457,7 +95456,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" hadeva viramadeva yadeva
 EndChar
 
 StartChar: hbar
-Encoding: 295 295 383
+Encoding: 229 295 383
 Width: 528
 VWidth: 0
 Flags: W
@@ -95524,7 +95523,7 @@ Validated: 9
 EndChar
 
 StartChar: hcircumflex
-Encoding: 293 293 384
+Encoding: 227 293 384
 Width: 691
 VWidth: 0
 Flags: W
@@ -95593,7 +95592,7 @@ Validated: 9
 EndChar
 
 StartChar: headstrokedeva
-Encoding: 43259 43259 385
+Encoding: 584 43259 385
 Width: 681
 VWidth: 0
 Flags: W
@@ -95623,7 +95622,7 @@ Validated: 1
 EndChar
 
 StartChar: highspacingdotdeva
-Encoding: 2417 2417 386
+Encoding: 467 2417 386
 Width: 240
 VWidth: 0
 Flags: W
@@ -95725,7 +95724,7 @@ Validated: 9
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 733 733 387
+Encoding: 337 733 387
 Width: 547
 VWidth: 0
 Flags: W
@@ -95762,7 +95761,7 @@ Validated: 9
 EndChar
 
 StartChar: hungarumlaut.case
-Encoding: 65621 -1 388
+Encoding: 677 -1 388
 Width: 547
 VWidth: 0
 Flags: W
@@ -95799,7 +95798,7 @@ Validated: 9
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 389
+Encoding: 14 45 389
 Width: 492
 VWidth: 0
 Flags: W
@@ -95829,7 +95828,7 @@ Validated: 9
 EndChar
 
 StartChar: i
-Encoding: 105 105 390
+Encoding: 74 105 390
 Width: 336
 VWidth: 0
 Flags: W
@@ -95879,7 +95878,7 @@ Validated: 9
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 391
+Encoding: 171 237 391
 Width: 336
 VWidth: 0
 Flags: W
@@ -95929,7 +95928,7 @@ Validated: 9
 EndChar
 
 StartChar: ibreve
-Encoding: 301 301 392
+Encoding: 235 301 392
 Width: 336
 VWidth: 0
 Flags: W
@@ -96085,7 +96084,7 @@ Validated: 9
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 393
+Encoding: 172 238 393
 Width: 336
 VWidth: 0
 Flags: W
@@ -96138,7 +96137,7 @@ Validated: 9
 EndChar
 
 StartChar: ideva
-Encoding: 2311 2311 394
+Encoding: 361 2311 394
 Width: 614
 VWidth: 0
 Flags: W
@@ -96877,7 +96876,7 @@ Validated: 9
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 395
+Encoding: 173 239 395
 Width: 336
 VWidth: 0
 Flags: W
@@ -96934,7 +96933,7 @@ Validated: 9
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 396
+Encoding: 170 236 396
 Width: 336
 VWidth: 0
 Flags: W
@@ -96984,7 +96983,7 @@ Validated: 9
 EndChar
 
 StartChar: iideva
-Encoding: 2312 2312 397
+Encoding: 362 2312 397
 Width: 610
 VWidth: 0
 Flags: HW
@@ -97106,7 +97105,7 @@ Validated: 9
 EndChar
 
 StartChar: iisign_ra_virama_anusvara
-Encoding: 65622 -1 398
+Encoding: 678 -1 398
 Width: 316
 VWidth: 0
 Flags: W
@@ -97259,7 +97258,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 26 subtable" iisigndeva radeva
 EndChar
 
 StartChar: iisign_ra_virama_anusvara.alt1
-Encoding: 65623 -1 399
+Encoding: 679 -1 399
 Width: 316
 VWidth: 0
 Flags: W
@@ -97452,7 +97451,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 26 subtable" iisigndeva.alt1 r
 EndChar
 
 StartChar: iisigndeva
-Encoding: 2368 2368 400
+Encoding: 418 2368 400
 Width: 316
 VWidth: 0
 Flags: W
@@ -97625,7 +97624,7 @@ Substitution2: "Single Substitution lookup 29 subtable" iisigndeva.alt1
 EndChar
 
 StartChar: iisigndeva.alt1
-Encoding: 65624 -1 401
+Encoding: 680 -1 401
 Width: 316
 VWidth: 0
 Flags: W
@@ -97678,7 +97677,7 @@ Validated: 9
 EndChar
 
 StartChar: iisigndeva_anusvaradeva
-Encoding: 65625 -1 402
+Encoding: 681 -1 402
 Width: 316
 VWidth: 0
 Flags: W
@@ -97864,7 +97863,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 26 subtable" iisigndeva anusva
 EndChar
 
 StartChar: iisigndeva_anusvaradeva.alt1
-Encoding: 65626 -1 403
+Encoding: 682 -1 403
 Width: 317
 VWidth: 0
 Flags: W
@@ -98049,7 +98048,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 26 subtable" iisigndeva.alt1 a
 EndChar
 
 StartChar: iisigndeva_ra_virama
-Encoding: 65627 -1 404
+Encoding: 683 -1 404
 Width: 316
 VWidth: 0
 Flags: W
@@ -98173,7 +98172,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 26 subtable" iisigndeva radeva
 EndChar
 
 StartChar: iisigndeva_ra_virama.alt1
-Encoding: 65628 -1 405
+Encoding: 684 -1 405
 Width: 316
 VWidth: 0
 Flags: W
@@ -98750,7 +98749,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 26 subtable" iisigndeva.alt1 r
 EndChar
 
 StartChar: ij
-Encoding: 307 307 406
+Encoding: 241 307 406
 Width: 657
 VWidth: 0
 Flags: W
@@ -98892,7 +98891,7 @@ Validated: 9
 EndChar
 
 StartChar: imacron
-Encoding: 299 299 407
+Encoding: 233 299 407
 Width: 336
 VWidth: 0
 Flags: W
@@ -98942,7 +98941,7 @@ Validated: 9
 EndChar
 
 StartChar: infinity
-Encoding: 8734 8734 408
+Encoding: 549 8734 408
 Width: 630
 VWidth: 0
 Flags: W
@@ -98997,7 +98996,7 @@ Validated: 1
 EndChar
 
 StartChar: inr_currency
-Encoding: 8377 8377 409
+Encoding: 526 8377 409
 Width: 577
 VWidth: 0
 Flags: W
@@ -99052,7 +99051,7 @@ Validated: 9
 EndChar
 
 StartChar: integral
-Encoding: 8747 8747 410
+Encoding: 550 8747 410
 Width: 451
 VWidth: 0
 Flags: W
@@ -99097,7 +99096,7 @@ Validated: 9
 EndChar
 
 StartChar: iogonek
-Encoding: 303 303 411
+Encoding: 237 303 411
 Width: 245
 VWidth: 0
 Flags: W
@@ -99251,7 +99250,7 @@ Validated: 9
 EndChar
 
 StartChar: isign_ra_virama
-Encoding: 65629 -1 412
+Encoding: 685 -1 412
 Width: 316
 VWidth: 0
 Flags: W
@@ -99630,7 +99629,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva radeva_v
 EndChar
 
 StartChar: isign_ra_virama.alt1
-Encoding: 65630 -1 413
+Encoding: 686 -1 413
 Width: 316
 VWidth: 0
 Flags: W
@@ -100409,7 +100408,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt1 rad
 EndChar
 
 StartChar: isign_ra_virama.alt2
-Encoding: 65631 -1 414
+Encoding: 687 -1 414
 Width: 316
 VWidth: 0
 Flags: W
@@ -100625,7 +100624,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt2 rad
 EndChar
 
 StartChar: isign_ra_virama.alt3
-Encoding: 65632 -1 415
+Encoding: 688 -1 415
 Width: 316
 VWidth: 0
 Flags: W
@@ -101147,7 +101146,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt3 rad
 EndChar
 
 StartChar: isign_ra_virama.alt4
-Encoding: 65633 -1 416
+Encoding: 689 -1 416
 Width: 316
 VWidth: 0
 Flags: W
@@ -101363,7 +101362,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt4 rad
 EndChar
 
 StartChar: isign_ra_virama.ja
-Encoding: 65634 -1 417
+Encoding: 690 -1 417
 Width: 316
 VWidth: 0
 Flags: W
@@ -101578,7 +101577,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.tha rade
 EndChar
 
 StartChar: isign_ra_virama.tha
-Encoding: 65635 -1 418
+Encoding: 691 -1 418
 Width: 316
 VWidth: 0
 Flags: W
@@ -101793,7 +101792,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.tha rade
 EndChar
 
 StartChar: isign_ra_virama_anusvara
-Encoding: 65636 -1 419
+Encoding: 692 -1 419
 Width: 316
 VWidth: 0
 Flags: W
@@ -102008,7 +102007,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva radeva_v
 EndChar
 
 StartChar: isign_ra_virama_anusvara.alt1
-Encoding: 65637 -1 420
+Encoding: 693 -1 420
 Width: 316
 VWidth: 0
 Flags: W
@@ -102282,7 +102281,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt1 rad
 EndChar
 
 StartChar: isign_ra_virama_anusvara.alt2
-Encoding: 65638 -1 421
+Encoding: 694 -1 421
 Width: 316
 VWidth: 0
 Flags: W
@@ -102557,7 +102556,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt2 rad
 EndChar
 
 StartChar: isign_ra_virama_anusvara.alt3
-Encoding: 65639 -1 422
+Encoding: 695 -1 422
 Width: 316
 VWidth: 0
 Flags: W
@@ -102803,7 +102802,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt3 rad
 EndChar
 
 StartChar: isign_ra_virama_anusvara.alt4
-Encoding: 65640 -1 423
+Encoding: 696 -1 423
 Width: 316
 VWidth: 0
 Flags: W
@@ -103078,7 +103077,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt4 rad
 EndChar
 
 StartChar: isign_ra_virama_anusvara.ja
-Encoding: 65641 -1 424
+Encoding: 697 -1 424
 Width: 316
 VWidth: 0
 Flags: W
@@ -103352,7 +103351,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.tha rade
 EndChar
 
 StartChar: isign_ra_virama_anusvara.tha
-Encoding: 65642 -1 425
+Encoding: 698 -1 425
 Width: 316
 VWidth: 0
 Flags: W
@@ -103626,7 +103625,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.tha rade
 EndChar
 
 StartChar: isigndeva
-Encoding: 2367 2367 426
+Encoding: 417 2367 426
 Width: 316
 VWidth: 0
 Flags: W
@@ -103760,7 +103759,7 @@ Substitution2: "Single Substitution lookup 14 subtable" isigndeva.alt1
 EndChar
 
 StartChar: isigndeva.alt1
-Encoding: 65643 -1 427
+Encoding: 699 -1 427
 Width: 316
 VWidth: 0
 Flags: W
@@ -104323,7 +104322,7 @@ Validated: 9
 EndChar
 
 StartChar: isigndeva.alt2
-Encoding: 65644 -1 428
+Encoding: 700 -1 428
 Width: 316
 VWidth: 0
 Flags: W
@@ -104452,7 +104451,7 @@ Substitution2: "Single Substitution lookup 34 subtable" isigndeva.alt1
 EndChar
 
 StartChar: isigndeva.alt3
-Encoding: 65645 -1 429
+Encoding: 701 -1 429
 Width: 316
 VWidth: 0
 Flags: W
@@ -104915,7 +104914,7 @@ Validated: 9
 EndChar
 
 StartChar: isigndeva.alt4
-Encoding: 65646 -1 430
+Encoding: 702 -1 430
 Width: 316
 VWidth: 0
 Flags: W
@@ -105043,7 +105042,7 @@ Validated: 9
 EndChar
 
 StartChar: isigndeva.ja
-Encoding: 65647 -1 431
+Encoding: 703 -1 431
 Width: 316
 VWidth: 0
 Flags: W
@@ -105171,7 +105170,7 @@ Validated: 9
 EndChar
 
 StartChar: isigndeva.tha
-Encoding: 65648 -1 432
+Encoding: 704 -1 432
 Width: 316
 VWidth: 0
 Flags: W
@@ -105868,7 +105867,7 @@ Validated: 9
 EndChar
 
 StartChar: isigndeva_anusvara.alt1
-Encoding: 65649 -1 433
+Encoding: 705 -1 433
 Width: 316
 VWidth: 0
 Flags: W
@@ -106083,7 +106082,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt1 anu
 EndChar
 
 StartChar: isigndeva_anusvara.alt2
-Encoding: 65650 -1 434
+Encoding: 706 -1 434
 Width: 316
 VWidth: 0
 Flags: W
@@ -106237,7 +106236,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt2 anu
 EndChar
 
 StartChar: isigndeva_anusvara.tha
-Encoding: 65651 -1 435
+Encoding: 707 -1 435
 Width: 316
 VWidth: 0
 Flags: W
@@ -106392,7 +106391,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.tha anus
 EndChar
 
 StartChar: isigndeva_anusvaradeva
-Encoding: 65652 -1 436
+Encoding: 708 -1 436
 Width: 316
 VWidth: 0
 Flags: W
@@ -106608,7 +106607,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva anusvara
 EndChar
 
 StartChar: isigndeva_anusvaradeva.alt3
-Encoding: 65653 -1 437
+Encoding: 709 -1 437
 Width: 316
 VWidth: 0
 Flags: W
@@ -107158,7 +107157,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt3 anu
 EndChar
 
 StartChar: isigndeva_anusvaradeva.alt4
-Encoding: 65654 -1 438
+Encoding: 710 -1 438
 Width: 316
 VWidth: 0
 Flags: W
@@ -107373,7 +107372,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.alt4 anu
 EndChar
 
 StartChar: isigndeva_anusvaradeva.ja
-Encoding: 65655 -1 439
+Encoding: 711 -1 439
 Width: 316
 VWidth: 0
 Flags: W
@@ -107528,7 +107527,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 24 subtable" isigndeva.ja anusv
 EndChar
 
 StartChar: itilde
-Encoding: 297 297 440
+Encoding: 231 297 440
 Width: 336
 VWidth: 0
 Flags: W
@@ -107673,7 +107672,7 @@ Validated: 9
 EndChar
 
 StartChar: j
-Encoding: 106 106 441
+Encoding: 75 106 441
 Width: 322
 VWidth: 0
 Flags: W
@@ -108154,7 +108153,7 @@ Validated: 9
 EndChar
 
 StartChar: j.alt
-Encoding: 65656 -1 442
+Encoding: 712 -1 442
 Width: 322
 VWidth: 0
 Flags: W
@@ -108197,7 +108196,7 @@ Validated: 9
 EndChar
 
 StartChar: ja_virama_ja_viramadeva
-Encoding: 65657 -1 443
+Encoding: 713 -1 443
 Width: 680
 VWidth: 0
 Flags: W
@@ -108325,7 +108324,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" jadeva_viramadeva 
 EndChar
 
 StartChar: ja_virama_nya_virama_radeva
-Encoding: 65658 -1 444
+Encoding: 714 -1 444
 Width: 735
 VWidth: 0
 Flags: W
@@ -108399,7 +108398,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" jadeva_viramadeva_nyadeva 
 EndChar
 
 StartChar: ja_virama_nya_viramadeva
-Encoding: 65659 -1 445
+Encoding: 715 -1 445
 Width: 614
 VWidth: 0
 Flags: W
@@ -109085,7 +109084,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" jadeva_viramadeva_nyadeva viram
 EndChar
 
 StartChar: jadeva
-Encoding: 2332 2332 446
+Encoding: 382 2332 446
 Width: 837
 VWidth: 0
 Flags: W
@@ -109144,7 +109143,7 @@ Validated: 9
 EndChar
 
 StartChar: jadeva_viramadeva
-Encoding: 65660 -1 447
+Encoding: 716 -1 447
 Width: 626
 VWidth: 0
 Flags: W
@@ -109739,7 +109738,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" jadeva viramadeva
 EndChar
 
 StartChar: jadeva_viramadeva_jadeva
-Encoding: 65661 -1 448
+Encoding: 717 -1 448
 Width: 887
 VWidth: 0
 Flags: W
@@ -110599,7 +110598,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" jadeva viramadeva jadeva
 EndChar
 
 StartChar: jadeva_viramadeva_nyadeva
-Encoding: 65662 -1 449
+Encoding: 718 -1 449
 Width: 735
 VWidth: 0
 Flags: W
@@ -110997,7 +110996,7 @@ Ligature2: "'akhn' Akhand lookup 6 subtable" jadeva viramadeva nyadeva
 EndChar
 
 StartChar: jadeva_viramadeva_radeva
-Encoding: 65663 -1 450
+Encoding: 719 -1 450
 Width: 837
 VWidth: 0
 Flags: W
@@ -111062,7 +111061,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" jadeva viramadeva_radeva
 EndChar
 
 StartChar: jcircumflex
-Encoding: 309 309 451
+Encoding: 243 309 451
 Width: 322
 VWidth: 0
 Flags: W
@@ -111115,7 +111114,7 @@ Validated: 9
 EndChar
 
 StartChar: jhadeva
-Encoding: 2333 2333 452
+Encoding: 383 2333 452
 Width: 735
 VWidth: 0
 Flags: W
@@ -112124,7 +112123,7 @@ Substitution2: "'locl' Localized Forms lookup 3 subtable" jhadeva.np
 EndChar
 
 StartChar: jhadeva.np
-Encoding: 65664 -1 453
+Encoding: 720 -1 453
 Width: 1051
 VWidth: 0
 Flags: W
@@ -112508,7 +112507,7 @@ Validated: 9
 EndChar
 
 StartChar: jhadeva_viramadeva
-Encoding: 65665 -1 454
+Encoding: 721 -1 454
 Width: 552
 VWidth: 0
 Flags: W
@@ -112576,7 +112575,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" jhadeva viramadeva
 EndChar
 
 StartChar: jhadeva_viramadeva_radeva
-Encoding: 65666 -1 455
+Encoding: 722 -1 455
 Width: 735
 VWidth: 0
 Flags: W
@@ -112657,7 +112656,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" jhadeva viramadeva_radeva
 EndChar
 
 StartChar: jjadeva
-Encoding: 2428 2428 456
+Encoding: 477 2428 456
 Width: 837
 VWidth: 0
 Flags: W
@@ -112719,7 +112718,7 @@ Validated: 9
 EndChar
 
 StartChar: k
-Encoding: 107 107 457
+Encoding: 76 107 457
 Width: 604
 VWidth: 0
 Flags: W
@@ -112781,7 +112780,7 @@ Validated: 9
 EndChar
 
 StartChar: ka_virama_ssa_virama_radeva
-Encoding: 65667 -1 458
+Encoding: 723 -1 458
 Width: 784
 VWidth: 0
 Flags: W
@@ -113766,7 +113765,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" kadeva_viramadeva_ssadeva 
 EndChar
 
 StartChar: ka_virama_ssa_viramadeva
-Encoding: 65668 -1 459
+Encoding: 724 -1 459
 Width: 590
 VWidth: 0
 Flags: W
@@ -113957,7 +113956,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" kadeva_viramadeva_ssadeva viram
 EndChar
 
 StartChar: kacombiningletterdeva
-Encoding: 43244 43244 460
+Encoding: 569 43244 460
 Width: 0
 VWidth: 0
 Flags: W
@@ -114973,7 +114972,7 @@ Validated: 9
 EndChar
 
 StartChar: kadeva
-Encoding: 2325 2325 461
+Encoding: 375 2325 461
 Width: 885
 VWidth: 0
 Flags: W
@@ -115969,7 +115968,7 @@ Validated: 9
 EndChar
 
 StartChar: kadeva_viramadeva
-Encoding: 65669 -1 462
+Encoding: 725 -1 462
 Width: 724
 VWidth: 0
 Flags: W
@@ -116576,7 +116575,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" kadeva viramadeva
 EndChar
 
 StartChar: kadeva_viramadeva_kadeva
-Encoding: 65670 -1 463
+Encoding: 726 -1 463
 Width: 926
 VWidth: 0
 Flags: W
@@ -116976,7 +116975,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" kadeva viramadeva kadeva
 EndChar
 
 StartChar: kadeva_viramadeva_ladeva
-Encoding: 65671 -1 464
+Encoding: 727 -1 464
 Width: 885
 VWidth: 0
 Flags: W
@@ -117341,7 +117340,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" kadeva viramadeva ladeva.m
 EndChar
 
 StartChar: kadeva_viramadeva_radeva
-Encoding: 65672 -1 465
+Encoding: 728 -1 465
 Width: 926
 VWidth: 0
 Flags: W
@@ -117411,7 +117410,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" kadeva viramadeva_radeva
 EndChar
 
 StartChar: kadeva_viramadeva_radeva.np
-Encoding: 65673 -1 466
+Encoding: 729 -1 466
 Width: 932
 VWidth: 0
 Flags: W
@@ -118133,7 +118132,7 @@ Ligature2: "'locl' Localized Forms lookup 4 subtable" kadeva viramadeva radeva
 EndChar
 
 StartChar: kadeva_viramadeva_ssadeva
-Encoding: 65674 -1 467
+Encoding: 730 -1 467
 Width: 751
 VWidth: 0
 Flags: W
@@ -119327,7 +119326,7 @@ Ligature2: "'akhn' Akhand lookup 6 subtable" kadeva viramadeva ssadeva
 EndChar
 
 StartChar: kadeva_viramadeva_tadeva
-Encoding: 65675 -1 468
+Encoding: 731 -1 468
 Width: 967
 VWidth: 0
 Flags: W
@@ -120075,7 +120074,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" kadeva_viramadeva 
 EndChar
 
 StartChar: kadeva_viramadeva_vadeva
-Encoding: 65676 -1 469
+Encoding: 732 -1 469
 Width: 926
 VWidth: 0
 Flags: W
@@ -120250,7 +120249,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" kadeva viramadeva vadeva
 EndChar
 
 StartChar: kgreenlandic
-Encoding: 312 312 470
+Encoding: 246 312 470
 Width: 640
 VWidth: 0
 Flags: W
@@ -120310,7 +120309,7 @@ Validated: 9
 EndChar
 
 StartChar: khadeva
-Encoding: 2326 2326 471
+Encoding: 376 2326 471
 Width: 1063
 VWidth: 0
 Flags: W
@@ -120764,7 +120763,7 @@ Validated: 9
 EndChar
 
 StartChar: khadeva_viramadeva
-Encoding: 65677 -1 472
+Encoding: 733 -1 472
 Width: 854
 VWidth: 0
 Flags: W
@@ -120892,7 +120891,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" khadeva viramadeva
 EndChar
 
 StartChar: khadeva_viramadeva_radeva
-Encoding: 65678 -1 473
+Encoding: 734 -1 473
 Width: 1063
 VWidth: 0
 Flags: W
@@ -121153,7 +121152,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" khadeva viramadeva_radeva
 EndChar
 
 StartChar: khhadeva
-Encoding: 2393 2393 474
+Encoding: 443 2393 474
 Width: 1063
 VWidth: 0
 Flags: W
@@ -121421,7 +121420,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" khadeva nuktadeva
 EndChar
 
 StartChar: khhadeva_viramadeva
-Encoding: 65679 -1 475
+Encoding: 735 -1 475
 Width: 854
 VWidth: 0
 Flags: W
@@ -121568,7 +121567,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" khhadeva viramadeva
 EndChar
 
 StartChar: l
-Encoding: 108 108 476
+Encoding: 77 108 476
 Width: 326
 VWidth: 0
 Flags: W
@@ -121736,7 +121735,7 @@ Validated: 9
 EndChar
 
 StartChar: lacute
-Encoding: 314 314 477
+Encoding: 248 314 477
 Width: 326
 VWidth: 0
 Flags: W
@@ -121786,7 +121785,7 @@ Validated: 9
 EndChar
 
 StartChar: ladeva
-Encoding: 2354 2354 478
+Encoding: 404 2354 478
 Width: 838
 VWidth: 0
 Flags: W
@@ -121907,7 +121906,7 @@ Substitution2: "'locl' Localized Forms lookup 1 subtable" ladeva.mr
 EndChar
 
 StartChar: ladeva.mr
-Encoding: 65680 -1 479
+Encoding: 736 -1 479
 Width: 918
 VWidth: 0
 Flags: W
@@ -122037,7 +122036,7 @@ Validated: 9
 EndChar
 
 StartChar: ladeva_viramadeva
-Encoding: 65681 -1 480
+Encoding: 737 -1 480
 Width: 629
 VWidth: 0
 Flags: W
@@ -122158,7 +122157,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ladeva.mr viramadeva
 EndChar
 
 StartChar: ladeva_viramadeva_ladeva
-Encoding: 65682 -1 481
+Encoding: 738 -1 481
 Width: 837
 VWidth: 0
 Flags: W
@@ -122459,7 +122458,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ladeva.mr viramadeva ladev
 EndChar
 
 StartChar: ladeva_viramadeva_radeva
-Encoding: 65683 -1 482
+Encoding: 739 -1 482
 Width: 838
 VWidth: 0
 Flags: W
@@ -122584,7 +122583,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" ladeva.mr viramadeva_radev
 EndChar
 
 StartChar: lcaron
-Encoding: 318 318 483
+Encoding: 252 318 483
 Width: 369
 VWidth: 0
 Flags: W
@@ -122730,7 +122729,7 @@ Validated: 9
 EndChar
 
 StartChar: ldot
-Encoding: 320 320 484
+Encoding: 254 320 484
 Width: 346
 VWidth: 0
 Flags: W
@@ -122782,7 +122781,7 @@ Validated: 9
 EndChar
 
 StartChar: less
-Encoding: 60 60 485
+Encoding: 29 60 485
 Width: 588
 VWidth: 0
 Flags: W
@@ -122817,7 +122816,7 @@ Validated: 9
 EndChar
 
 StartChar: lessequal
-Encoding: 8804 8804 486
+Encoding: 553 8804 486
 Width: 588
 VWidth: 0
 Flags: W
@@ -122857,7 +122856,7 @@ Validated: 9
 EndChar
 
 StartChar: lira
-Encoding: 8356 8356 487
+Encoding: 524 8356 487
 Width: 588
 VWidth: 0
 Flags: W
@@ -122924,7 +122923,7 @@ Validated: 9
 EndChar
 
 StartChar: lladeva
-Encoding: 2355 2355 488
+Encoding: 405 2355 488
 Width: 814
 VWidth: 0
 Flags: W
@@ -124132,7 +124131,7 @@ Validated: 9
 EndChar
 
 StartChar: lladeva_viramadeva
-Encoding: 65684 -1 489
+Encoding: 740 -1 489
 Width: 721
 VWidth: 0
 Flags: W
@@ -124197,7 +124196,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" lladeva viramadeva
 EndChar
 
 StartChar: llladeva
-Encoding: 2356 2356 490
+Encoding: 406 2356 490
 Width: 814
 VWidth: 0
 Flags: W
@@ -124277,7 +124276,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" lladeva nuktadeva
 EndChar
 
 StartChar: llladeva_viramadeva
-Encoding: 65685 -1 491
+Encoding: 741 -1 491
 Width: 721
 VWidth: 0
 Flags: W
@@ -124351,7 +124350,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" llladeva viramadeva
 EndChar
 
 StartChar: llvocalicdeva
-Encoding: 2401 2401 492
+Encoding: 451 2401 492
 Width: 918
 VWidth: 0
 Flags: W
@@ -125315,7 +125314,7 @@ Validated: 9
 EndChar
 
 StartChar: llvocalicsigndeva
-Encoding: 2403 2403 493
+Encoding: 453 2403 493
 Width: 36
 VWidth: 0
 Flags: W
@@ -125923,7 +125922,7 @@ Validated: 9
 EndChar
 
 StartChar: logicalnot
-Encoding: 172 172 494
+Encoding: 107 172 494
 Width: 588
 VWidth: 0
 Flags: W
@@ -125962,7 +125961,7 @@ Validated: 9
 EndChar
 
 StartChar: lozenge
-Encoding: 9674 9674 495
+Encoding: 555 9674 495
 Width: 572
 VWidth: 0
 Flags: W
@@ -126001,7 +126000,7 @@ Validated: 9
 EndChar
 
 StartChar: lslash
-Encoding: 322 322 496
+Encoding: 256 322 496
 Width: 326
 VWidth: 0
 Flags: W
@@ -126052,7 +126051,7 @@ Validated: 9
 EndChar
 
 StartChar: lvocalicdeva
-Encoding: 2316 2316 497
+Encoding: 366 2316 497
 Width: 918
 VWidth: 0
 Flags: W
@@ -126837,7 +126836,7 @@ Validated: 41
 EndChar
 
 StartChar: lvocalicsigndeva
-Encoding: 2402 2402 498
+Encoding: 452 2402 498
 Width: 24
 VWidth: 0
 Flags: W
@@ -127616,7 +127615,7 @@ Validated: 9
 EndChar
 
 StartChar: m
-Encoding: 109 109 499
+Encoding: 78 109 499
 Width: 1030
 VWidth: 0
 Flags: W
@@ -127750,7 +127749,7 @@ Validated: 9
 EndChar
 
 StartChar: macron
-Encoding: 175 175 500
+Encoding: 109 175 500
 Width: 362
 VWidth: 0
 Flags: W
@@ -127780,7 +127779,7 @@ Validated: 9
 EndChar
 
 StartChar: macron.case
-Encoding: 65686 -1 501
+Encoding: 742 -1 501
 Width: 362
 VWidth: 0
 Flags: W
@@ -127810,7 +127809,7 @@ Validated: 9
 EndChar
 
 StartChar: madeva
-Encoding: 2350 2350 502
+Encoding: 400 2350 502
 Width: 672
 VWidth: 0
 Flags: W
@@ -127935,7 +127934,7 @@ Validated: 9
 EndChar
 
 StartChar: madeva_viramadeva
-Encoding: 65687 -1 503
+Encoding: 743 -1 503
 Width: 364
 VWidth: 0
 Flags: W
@@ -128304,7 +128303,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" madeva viramadeva
 EndChar
 
 StartChar: madeva_viramadeva_radeva
-Encoding: 65688 -1 504
+Encoding: 744 -1 504
 Width: 672
 VWidth: 0
 Flags: W
@@ -128827,7 +128826,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" madeva viramadeva_radeva
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 505
+Encoding: 546 8722 505
 Width: 588
 VWidth: 0
 Flags: W
@@ -128984,7 +128983,7 @@ Validated: 9
 EndChar
 
 StartChar: mu
-Encoding: 181 181 506
+Encoding: 115 181 506
 Width: 641
 VWidth: 0
 Flags: W
@@ -129294,7 +129293,7 @@ Validated: 1
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 507
+Encoding: 149 215 507
 Width: 588
 VWidth: 0
 Flags: W
@@ -129334,7 +129333,7 @@ Validated: 9
 EndChar
 
 StartChar: n
-Encoding: 110 110 508
+Encoding: 79 110 508
 Width: 697
 VWidth: 0
 Flags: W
@@ -129443,7 +129442,7 @@ Validated: 9
 EndChar
 
 StartChar: nacombiningletterdeva
-Encoding: 43245 43245 509
+Encoding: 570 43245 509
 Width: 0
 VWidth: 0
 Flags: W
@@ -129554,7 +129553,7 @@ Validated: 9
 EndChar
 
 StartChar: nacute
-Encoding: 324 324 510
+Encoding: 258 324 510
 Width: 697
 VWidth: 0
 Flags: W
@@ -129680,7 +129679,7 @@ Validated: 9
 EndChar
 
 StartChar: nadeva
-Encoding: 2344 2344 511
+Encoding: 394 2344 511
 Width: 654
 VWidth: 0
 Flags: W
@@ -130058,7 +130057,7 @@ Validated: 9
 EndChar
 
 StartChar: nadeva_viramadeva
-Encoding: 65689 -1 512
+Encoding: 745 -1 512
 Width: 417
 VWidth: 0
 Flags: W
@@ -130315,7 +130314,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" nadeva viramadeva
 EndChar
 
 StartChar: nadeva_viramadeva_alt
-Encoding: 65690 -1 513
+Encoding: 746 -1 513
 Width: 0
 VWidth: 0
 Flags: W
@@ -130533,7 +130532,7 @@ Validated: 41
 EndChar
 
 StartChar: nadeva_viramadeva_nadeva
-Encoding: 65691 -1 514
+Encoding: 747 -1 514
 Width: 685
 VWidth: 0
 Flags: W
@@ -131299,7 +131298,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" nadeva viramadeva nadeva
 EndChar
 
 StartChar: nadeva_viramadeva_radeva
-Encoding: 65692 -1 515
+Encoding: 748 -1 515
 Width: 654
 VWidth: 0
 Flags: W
@@ -131406,7 +131405,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" nadeva viramadeva_radeva
 EndChar
 
 StartChar: napostrophe
-Encoding: 329 329 516
+Encoding: 263 329 516
 Width: 808
 VWidth: 0
 Flags: W
@@ -131618,7 +131617,7 @@ Validated: 9
 EndChar
 
 StartChar: ncaron
-Encoding: 328 328 517
+Encoding: 262 328 517
 Width: 697
 VWidth: 0
 Flags: W
@@ -131747,7 +131746,7 @@ Validated: 9
 EndChar
 
 StartChar: nep_jha_virama
-Encoding: 65693 -1 518
+Encoding: 749 -1 518
 Width: 868
 VWidth: 0
 Flags: W
@@ -131902,7 +131901,7 @@ Validated: 9
 EndChar
 
 StartChar: nga_virama_ka_virama_ssadeva
-Encoding: 65694 -1 519
+Encoding: 750 -1 519
 Width: 842
 VWidth: 0
 Flags: W
@@ -133561,7 +133560,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ngadeva viramadeva kadeva 
 EndChar
 
 StartChar: nga_virama_ka_viramadeva
-Encoding: 65695 -1 520
+Encoding: 751 -1 520
 Width: 787
 VWidth: 0
 Flags: W
@@ -135149,7 +135148,7 @@ Validated: 9
 EndChar
 
 StartChar: ngadeva
-Encoding: 2329 2329 521
+Encoding: 379 2329 521
 Width: 753
 VWidth: 0
 Flags: W
@@ -135986,7 +135985,7 @@ Validated: 9
 EndChar
 
 StartChar: ngadeva_viramadeva
-Encoding: 65696 -1 522
+Encoding: 752 -1 522
 Width: 753
 VWidth: 0
 Flags: W
@@ -136156,7 +136155,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ngadeva viramadeva
 EndChar
 
 StartChar: ngadeva_viramadeva_gadeva
-Encoding: 65697 -1 523
+Encoding: 753 -1 523
 Width: 787
 VWidth: 0
 Flags: W
@@ -137274,7 +137273,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ngadeva viramadeva gadeva
 EndChar
 
 StartChar: ngadeva_viramadeva_ghadeva
-Encoding: 65698 -1 524
+Encoding: 754 -1 524
 Width: 787
 VWidth: 0
 Flags: W
@@ -137649,7 +137648,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ngadeva viramadeva ghadeva
 EndChar
 
 StartChar: ngadeva_viramadeva_kadeva
-Encoding: 65699 -1 525
+Encoding: 755 -1 525
 Width: 787
 VWidth: 0
 Flags: W
@@ -137936,7 +137935,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ngadeva viramadeva kadeva
 EndChar
 
 StartChar: ngadeva_viramadeva_khadeva
-Encoding: 65700 -1 526
+Encoding: 756 -1 526
 Width: 787
 VWidth: 0
 Flags: W
@@ -138226,7 +138225,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ngadeva viramadeva khadeva
 EndChar
 
 StartChar: ngadeva_viramadeva_madeva
-Encoding: 65701 -1 527
+Encoding: 757 -1 527
 Width: 787
 VWidth: 0
 Flags: W
@@ -138526,7 +138525,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ngadeva viramadeva madeva
 EndChar
 
 StartChar: nine
-Encoding: 57 57 528
+Encoding: 26 57 528
 Width: 588
 VWidth: 0
 Flags: W
@@ -139236,7 +139235,7 @@ Validated: 9
 EndChar
 
 StartChar: nine.denominator
-Encoding: 65702 -1 529
+Encoding: 758 -1 529
 Width: 421
 VWidth: 0
 Flags: W
@@ -139884,7 +139883,7 @@ Validated: 41
 EndChar
 
 StartChar: nine.numerator
-Encoding: 65703 -1 530
+Encoding: 759 -1 530
 Width: 421
 VWidth: 0
 Flags: W
@@ -140532,7 +140531,7 @@ Validated: 41
 EndChar
 
 StartChar: ninecombiningdigitdeva
-Encoding: 43241 43241 531
+Encoding: 566 43241 531
 Width: 0
 VWidth: 0
 Flags: W
@@ -140587,7 +140586,7 @@ Validated: 9
 EndChar
 
 StartChar: ninedeva
-Encoding: 2415 2415 532
+Encoding: 465 2415 532
 Width: 600
 VWidth: 0
 Flags: W
@@ -141099,7 +141098,7 @@ Validated: 9
 EndChar
 
 StartChar: nineinferior
-Encoding: 8329 8329 533
+Encoding: 522 8329 533
 Width: 421
 VWidth: 0
 Flags: W
@@ -141747,7 +141746,7 @@ Validated: 41
 EndChar
 
 StartChar: ninesuperior
-Encoding: 8313 8313 534
+Encoding: 512 8313 534
 Width: 421
 VWidth: 0
 Flags: W
@@ -142395,7 +142394,7 @@ Validated: 41
 EndChar
 
 StartChar: nnadeva
-Encoding: 2339 2339 535
+Encoding: 389 2339 535
 Width: 933
 VWidth: 0
 Flags: W
@@ -142782,7 +142781,7 @@ Validated: 9
 EndChar
 
 StartChar: nnadeva_viramadeva
-Encoding: 65704 -1 536
+Encoding: 760 -1 536
 Width: 618
 VWidth: 0
 Flags: W
@@ -143102,7 +143101,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" nnadeva viramadeva
 EndChar
 
 StartChar: nnadeva_viramadeva_radeva
-Encoding: 65705 -1 537
+Encoding: 761 -1 537
 Width: 933
 VWidth: 0
 Flags: W
@@ -143237,7 +143236,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" nnadeva viramadeva_radeva
 EndChar
 
 StartChar: nnnadeva
-Encoding: 2345 2345 538
+Encoding: 395 2345 538
 Width: 654
 VWidth: 0
 Flags: W
@@ -143358,7 +143357,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" nadeva nuktadeva
 EndChar
 
 StartChar: nnnadeva_viramadeva
-Encoding: 65706 -1 539
+Encoding: 762 -1 539
 Width: 417
 VWidth: 0
 Flags: W
@@ -143411,7 +143410,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" nnnadeva viramadeva
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 12 12 540
+Encoding: 0 12 540
 Width: 0
 VWidth: 0
 Flags: W
@@ -143424,7 +143423,7 @@ LayerCount: 2
 EndChar
 
 StartChar: notequal
-Encoding: 8800 8800 541
+Encoding: 552 8800 541
 Width: 588
 VWidth: 0
 Flags: W
@@ -143476,7 +143475,7 @@ Validated: 9
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 542
+Encoding: 175 241 542
 Width: 660
 VWidth: 0
 Flags: W
@@ -143687,7 +143686,7 @@ Validated: 9
 EndChar
 
 StartChar: nuktadeva
-Encoding: 2364 2364 543
+Encoding: 414 2364 543
 Width: 0
 VWidth: 0
 Flags: W
@@ -143722,7 +143721,7 @@ Validated: 9
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 544
+Encoding: 4 35 544
 Width: 812
 VWidth: 0
 Flags: W
@@ -143787,7 +143786,7 @@ Validated: 9
 EndChar
 
 StartChar: nyadeva
-Encoding: 2334 2334 545
+Encoding: 384 2334 545
 Width: 837
 VWidth: 0
 Flags: W
@@ -144173,7 +144172,7 @@ Validated: 41
 EndChar
 
 StartChar: nyadeva_viramadeva
-Encoding: 65707 -1 546
+Encoding: 763 -1 546
 Width: 545
 VWidth: 0
 Flags: W
@@ -144222,7 +144221,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" nyadeva viramadeva
 EndChar
 
 StartChar: nyadeva_viramadeva_cadeva
-Encoding: 65708 -1 547
+Encoding: 764 -1 547
 Width: 847
 VWidth: 0
 Flags: W
@@ -145413,7 +145412,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" nyadeva viramadeva cadeva
 EndChar
 
 StartChar: nyadeva_viramadeva_jadeva
-Encoding: 65709 -1 548
+Encoding: 765 -1 548
 Width: 847
 VWidth: 0
 Flags: W
@@ -145689,7 +145688,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" nyadeva viramadeva jadeva
 EndChar
 
 StartChar: nyadeva_viramadeva_radeva
-Encoding: 65710 -1 549
+Encoding: 766 -1 549
 Width: 749
 VWidth: 0
 Flags: W
@@ -145814,7 +145813,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" nyadeva viramadeva_radeva
 EndChar
 
 StartChar: o
-Encoding: 111 111 550
+Encoding: 80 111 550
 Width: 608
 VWidth: 0
 Flags: W
@@ -145858,7 +145857,7 @@ Validated: 9
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 551
+Encoding: 177 243 551
 Width: 608
 VWidth: 0
 Flags: W
@@ -145909,7 +145908,7 @@ Validated: 9
 EndChar
 
 StartChar: obreve
-Encoding: 335 335 552
+Encoding: 269 335 552
 Width: 608
 VWidth: 0
 Flags: W
@@ -146086,7 +146085,7 @@ Validated: 9
 EndChar
 
 StartChar: ocandradeva
-Encoding: 2321 2321 553
+Encoding: 371 2321 553
 Width: 1173
 VWidth: 0
 Flags: W
@@ -147280,7 +147279,7 @@ Validated: 41
 EndChar
 
 StartChar: ocandrasigndeva
-Encoding: 2377 2377 554
+Encoding: 427 2377 554
 Width: 316
 VWidth: 0
 Flags: W
@@ -147334,7 +147333,7 @@ Validated: 9
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 555
+Encoding: 178 244 555
 Width: 608
 VWidth: 0
 Flags: W
@@ -147388,7 +147387,7 @@ Validated: 9
 EndChar
 
 StartChar: odeva
-Encoding: 2323 2323 556
+Encoding: 373 2323 556
 Width: 1173
 VWidth: 0
 Flags: W
@@ -148562,7 +148561,7 @@ Validated: 41
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 557
+Encoding: 180 246 557
 Width: 608
 VWidth: 0
 Flags: W
@@ -148620,7 +148619,7 @@ Validated: 9
 EndChar
 
 StartChar: oe
-Encoding: 339 339 558
+Encoding: 273 339 558
 Width: 974
 VWidth: 0
 Flags: W
@@ -148683,7 +148682,7 @@ Validated: 9
 EndChar
 
 StartChar: oedeva
-Encoding: 2419 2419 559
+Encoding: 469 2419 559
 Width: 857
 VWidth: 0
 Flags: W
@@ -148896,7 +148895,7 @@ Validated: 41
 EndChar
 
 StartChar: oesigndeva
-Encoding: 2362 2362 560
+Encoding: 412 2362 560
 Width: 0
 VWidth: 0
 Flags: W
@@ -148934,7 +148933,7 @@ Validated: 9
 EndChar
 
 StartChar: ogonek
-Encoding: 731 731 561
+Encoding: 335 731 561
 Width: 332
 VWidth: 0
 Flags: W
@@ -148977,7 +148976,7 @@ Validated: 9
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 562
+Encoding: 176 242 562
 Width: 608
 VWidth: 0
 Flags: W
@@ -149028,7 +149027,7 @@ Validated: 9
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 337 337 563
+Encoding: 271 337 563
 Width: 513
 VWidth: 0
 Flags: W
@@ -149084,7 +149083,7 @@ Validated: 9
 EndChar
 
 StartChar: omacron
-Encoding: 333 333 564
+Encoding: 267 333 564
 Width: 608
 VWidth: 0
 Flags: W
@@ -149135,7 +149134,7 @@ Validated: 9
 EndChar
 
 StartChar: omdeva
-Encoding: 2384 2384 565
+Encoding: 434 2384 565
 Width: 984
 VWidth: 0
 Flags: W
@@ -149375,7 +149374,7 @@ Validated: 41
 EndChar
 
 StartChar: one
-Encoding: 49 49 566
+Encoding: 18 49 566
 Width: 588
 VWidth: 0
 Flags: W
@@ -149419,7 +149418,7 @@ Validated: 9
 EndChar
 
 StartChar: one.denominator
-Encoding: 65711 -1 567
+Encoding: 767 -1 567
 Width: 419
 VWidth: 0
 Flags: W
@@ -149505,7 +149504,7 @@ Validated: 9
 EndChar
 
 StartChar: one.numerator
-Encoding: 65712 -1 568
+Encoding: 768 -1 568
 Width: 419
 VWidth: 0
 Flags: W
@@ -149591,7 +149590,7 @@ Validated: 9
 EndChar
 
 StartChar: onecombiningdigitdeva
-Encoding: 43233 43233 569
+Encoding: 558 43233 569
 Width: 4
 VWidth: 0
 Flags: W
@@ -150400,7 +150399,7 @@ Validated: 9
 EndChar
 
 StartChar: onedeva
-Encoding: 2407 2407 570
+Encoding: 457 2407 570
 Width: 613
 VWidth: 0
 Flags: W
@@ -151209,7 +151208,7 @@ Validated: 9
 EndChar
 
 StartChar: oneeighth
-Encoding: 8539 8539 571
+Encoding: 534 8539 571
 Width: 987
 VWidth: 0
 Flags: W
@@ -151366,7 +151365,7 @@ Validated: 9
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 572
+Encoding: 123 189 572
 Width: 987
 VWidth: 0
 Flags: W
@@ -151519,7 +151518,7 @@ Validated: 9
 EndChar
 
 StartChar: oneinferior
-Encoding: 8321 8321 573
+Encoding: 514 8321 573
 Width: 419
 VWidth: 0
 Flags: W
@@ -151605,7 +151604,7 @@ Validated: 9
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 574
+Encoding: 122 188 574
 Width: 987
 VWidth: 0
 Flags: W
@@ -151760,7 +151759,7 @@ Validated: 9
 EndChar
 
 StartChar: onesuperior
-Encoding: 185 185 575
+Encoding: 119 185 575
 Width: 419
 VWidth: 0
 Flags: W
@@ -151846,7 +151845,7 @@ Validated: 9
 EndChar
 
 StartChar: onethird
-Encoding: 8531 8531 576
+Encoding: 532 8531 576
 Width: 987
 VWidth: 0
 Flags: W
@@ -152027,7 +152026,7 @@ Validated: 9
 EndChar
 
 StartChar: ooedeva
-Encoding: 2420 2420 577
+Encoding: 470 2420 577
 Width: 1173
 VWidth: 0
 Flags: W
@@ -152260,7 +152259,7 @@ Validated: 41
 EndChar
 
 StartChar: ooesigndeva
-Encoding: 2363 2363 578
+Encoding: 413 2363 578
 Width: 316
 VWidth: 0
 Flags: W
@@ -152307,7 +152306,7 @@ Validated: 9
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 579
+Encoding: 105 170 579
 Width: 424
 VWidth: 0
 Flags: W
@@ -152444,7 +152443,7 @@ Validated: 9
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 580
+Encoding: 120 186 580
 Width: 425
 VWidth: 0
 Flags: W
@@ -152495,7 +152494,7 @@ Validated: 9
 EndChar
 
 StartChar: oshortdeva
-Encoding: 2322 2322 581
+Encoding: 372 2322 581
 Width: 1173
 VWidth: 0
 Flags: W
@@ -152730,7 +152729,7 @@ Validated: 41
 EndChar
 
 StartChar: oshortsigndeva
-Encoding: 2378 2378 582
+Encoding: 428 2378 582
 Width: 316
 VWidth: 0
 Flags: W
@@ -152779,7 +152778,7 @@ Validated: 41
 EndChar
 
 StartChar: osign_ra_virama.alt1
-Encoding: 65713 -1 583
+Encoding: 769 -1 583
 Width: 316
 VWidth: 0
 Flags: W
@@ -152910,7 +152909,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" osigndeva radeva
 EndChar
 
 StartChar: osign_ra_virama_anusvara
-Encoding: 65714 -1 584
+Encoding: 770 -1 584
 Width: 316
 VWidth: 0
 Flags: W
@@ -153080,7 +153079,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" osigndeva radeva
 EndChar
 
 StartChar: osigndeva
-Encoding: 2379 2379 585
+Encoding: 429 2379 585
 Width: 316
 VWidth: 0
 Flags: W
@@ -153127,7 +153126,7 @@ Validated: 9
 EndChar
 
 StartChar: osigndeva_anusvaradeva
-Encoding: 65715 -1 586
+Encoding: 771 -1 586
 Width: 316
 VWidth: 0
 Flags: W
@@ -153244,7 +153243,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" osigndeva anusva
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 587
+Encoding: 182 248 587
 Width: 608
 VWidth: 0
 Flags: W
@@ -153305,7 +153304,7 @@ Validated: 9
 EndChar
 
 StartChar: oslashacute
-Encoding: 511 511 588
+Encoding: 323 511 588
 Width: 608
 VWidth: 0
 Flags: W
@@ -153371,7 +153370,7 @@ Validated: 9
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 589
+Encoding: 179 245 589
 Width: 608
 VWidth: 0
 Flags: W
@@ -153532,7 +153531,7 @@ Validated: 9
 EndChar
 
 StartChar: p
-Encoding: 112 112 590
+Encoding: 81 112 590
 Width: 636
 VWidth: 0
 Flags: W
@@ -154397,7 +154396,7 @@ Validated: 9
 EndChar
 
 StartChar: pacombiningletterdeva
-Encoding: 43246 43246 591
+Encoding: 571 43246 591
 Width: 302
 VWidth: 0
 Flags: W
@@ -154452,7 +154451,7 @@ Validated: 9
 EndChar
 
 StartChar: padeva
-Encoding: 2346 2346 592
+Encoding: 396 2346 592
 Width: 638
 VWidth: 0
 Flags: W
@@ -154507,7 +154506,7 @@ Validated: 9
 EndChar
 
 StartChar: padeva_viramadeva
-Encoding: 65716 -1 593
+Encoding: 772 -1 593
 Width: 390
 VWidth: 0
 Flags: W
@@ -154553,7 +154552,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" padeva viramadeva
 EndChar
 
 StartChar: padeva_viramadeva_ladeva
-Encoding: 65717 -1 594
+Encoding: 773 -1 594
 Width: 686
 VWidth: 0
 Flags: W
@@ -155487,7 +155486,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" padeva viramadeva ladeva.m
 EndChar
 
 StartChar: padeva_viramadeva_radeva
-Encoding: 65718 -1 595
+Encoding: 774 -1 595
 Width: 638
 VWidth: 0
 Flags: W
@@ -155542,7 +155541,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" padeva viramadeva_radeva
 EndChar
 
 StartChar: padeva_viramadeva_tadeva
-Encoding: 65719 -1 596
+Encoding: 775 -1 596
 Width: 666
 VWidth: 0
 Flags: W
@@ -155695,7 +155694,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" padeva viramadeva tadeva
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 597
+Encoding: 116 182 597
 Width: 508
 VWidth: 0
 Flags: W
@@ -155741,7 +155740,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 598
+Encoding: 9 40 598
 Width: 313
 VWidth: 0
 Flags: W
@@ -155937,7 +155936,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 599
+Encoding: 10 41 599
 Width: 313
 VWidth: 0
 Flags: W
@@ -156133,7 +156132,7 @@ Validated: 1
 EndChar
 
 StartChar: partialdiff
-Encoding: 8706 8706 600
+Encoding: 542 8706 600
 Width: 615
 VWidth: 0
 Flags: W
@@ -156182,7 +156181,7 @@ Validated: 9
 EndChar
 
 StartChar: percent
-Encoding: 37 37 601
+Encoding: 6 37 601
 Width: 987
 VWidth: 0
 Flags: W
@@ -156253,7 +156252,7 @@ Validated: 9
 EndChar
 
 StartChar: period
-Encoding: 46 46 602
+Encoding: 15 46 602
 Width: 238
 VWidth: 0
 Flags: W
@@ -156419,7 +156418,7 @@ Validated: 9
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 603
+Encoding: 117 183 603
 Width: 238
 VWidth: 0
 Flags: W
@@ -156454,7 +156453,7 @@ Validated: 9
 EndChar
 
 StartChar: perthousand
-Encoding: 8240 8240 604
+Encoding: 502 8240 604
 Width: 1378
 VWidth: 0
 Flags: W
@@ -156539,7 +156538,7 @@ Validated: 9
 EndChar
 
 StartChar: phadeva
-Encoding: 2347 2347 605
+Encoding: 397 2347 605
 Width: 907
 VWidth: 0
 Flags: W
@@ -157118,7 +157117,7 @@ Validated: 9
 EndChar
 
 StartChar: phadeva_radeva_nuktadeva
-Encoding: 65720 -1 606
+Encoding: 776 -1 606
 Width: 907
 VWidth: 0
 Flags: W
@@ -157199,7 +157198,7 @@ Validated: 9
 EndChar
 
 StartChar: phadeva_viramadeva
-Encoding: 65721 -1 607
+Encoding: 777 -1 607
 Width: 718
 VWidth: 0
 Flags: W
@@ -157741,7 +157740,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" phadeva viramadeva
 EndChar
 
 StartChar: phadeva_viramadeva_ladeva
-Encoding: 65722 -1 608
+Encoding: 778 -1 608
 Width: 907
 VWidth: 0
 Flags: W
@@ -158967,7 +158966,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" phadeva viramadeva ladeva.
 EndChar
 
 StartChar: phadeva_viramadeva_radeva
-Encoding: 65723 -1 609
+Encoding: 779 -1 609
 Width: 907
 VWidth: 0
 Flags: W
@@ -159042,7 +159041,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" phadeva viramadeva_radeva
 EndChar
 
 StartChar: pi
-Encoding: 960 960 610
+Encoding: 353 960 610
 Width: 651
 VWidth: 0
 Flags: W
@@ -159089,7 +159088,7 @@ Validated: 9
 EndChar
 
 StartChar: plus
-Encoding: 43 43 611
+Encoding: 12 43 611
 Width: 588
 VWidth: 0
 Flags: W
@@ -159136,7 +159135,7 @@ Validated: 9
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 612
+Encoding: 111 177 612
 Width: 588
 VWidth: 0
 Flags: W
@@ -159188,7 +159187,7 @@ Validated: 9
 EndChar
 
 StartChar: product
-Encoding: 8719 8719 613
+Encoding: 544 8719 613
 Width: 701
 VWidth: 0
 Flags: W
@@ -159235,7 +159234,7 @@ Validated: 9
 EndChar
 
 StartChar: pushpikadeva
-Encoding: 43256 43256 614
+Encoding: 581 43256 614
 Width: 795
 VWidth: 0
 Flags: W
@@ -159300,7 +159299,7 @@ Validated: 9
 EndChar
 
 StartChar: q
-Encoding: 113 113 615
+Encoding: 82 113 615
 Width: 636
 VWidth: 0
 Flags: W
@@ -159676,7 +159675,7 @@ Validated: 9
 EndChar
 
 StartChar: qadeva
-Encoding: 2392 2392 616
+Encoding: 442 2392 616
 Width: 885
 VWidth: 0
 Flags: W
@@ -159845,7 +159844,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" kadeva nuktadeva
 EndChar
 
 StartChar: qadeva_viramadeva
-Encoding: 65724 -1 617
+Encoding: 780 -1 617
 Width: 724
 VWidth: 0
 Flags: W
@@ -159998,7 +159997,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" qadeva viramadeva
 EndChar
 
 StartChar: question
-Encoding: 63 63 618
+Encoding: 32 63 618
 Width: 484
 VWidth: 0
 Flags: W
@@ -160687,7 +160686,7 @@ Validated: 9
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 619
+Encoding: 125 191 619
 Width: 484
 VWidth: 0
 Flags: W
@@ -160739,7 +160738,7 @@ Validated: 9
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 620
+Encoding: 3 34 620
 Width: 416
 VWidth: 0
 Flags: W
@@ -160912,7 +160911,7 @@ Kerns2: 59 -130 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  3 -140 "
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 621
+Encoding: 497 8222 621
 Width: 402
 VWidth: 0
 Flags: W
@@ -161089,7 +161088,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 622
+Encoding: 495 8220 622
 Width: 455
 VWidth: 0
 Flags: W
@@ -161266,7 +161265,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 623
+Encoding: 496 8221 623
 Width: 455
 VWidth: 0
 Flags: W
@@ -161443,7 +161442,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 624
+Encoding: 492 8216 624
 Width: 287
 VWidth: 0
 Flags: W
@@ -161544,7 +161543,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 625
+Encoding: 493 8217 625
 Width: 275
 VWidth: 0
 Flags: W
@@ -161645,7 +161644,7 @@ Validated: 1
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 626
+Encoding: 494 8218 626
 Width: 234
 VWidth: 0
 Flags: W
@@ -161746,7 +161745,7 @@ Validated: 9
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 627
+Encoding: 8 39 627
 Width: 240
 VWidth: 0
 Flags: W
@@ -161997,7 +161996,7 @@ Validated: 9
 EndChar
 
 StartChar: r
-Encoding: 114 114 628
+Encoding: 83 114 628
 Width: 427
 VWidth: 0
 Flags: W
@@ -162108,7 +162107,7 @@ Kerns2: 226 -70 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: racombiningletterdeva
-Encoding: 43247 43247 629
+Encoding: 572 43247 629
 Width: 277
 VWidth: 0
 Flags: W
@@ -162493,7 +162492,7 @@ Validated: 9
 EndChar
 
 StartChar: racute
-Encoding: 341 341 630
+Encoding: 275 341 630
 Width: 427
 VWidth: 0
 Flags: W
@@ -162625,7 +162624,7 @@ Validated: 9
 EndChar
 
 StartChar: radeva
-Encoding: 2352 2352 631
+Encoding: 402 2352 631
 Width: 557
 VWidth: 0
 Flags: W
@@ -162677,7 +162676,7 @@ Validated: 9
 EndChar
 
 StartChar: radeva_usigndeva
-Encoding: 65725 -1 632
+Encoding: 781 -1 632
 Width: 850
 VWidth: 0
 Flags: W
@@ -162927,7 +162926,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 30 subtable" radeva usigndeva
 EndChar
 
 StartChar: radeva_uusigndeva
-Encoding: 65726 -1 633
+Encoding: 782 -1 633
 Width: 956
 VWidth: 0
 Flags: W
@@ -163644,7 +163643,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 30 subtable" radeva uusigndeva
 EndChar
 
 StartChar: radeva_viramadeva
-Encoding: 65727 -1 634
+Encoding: 783 -1 634
 Width: 0
 VWidth: 0
 Flags: W
@@ -163962,7 +163961,7 @@ Ligature2: "'rphf' Reph Form lookup 7 subtable" radeva viramadeva
 EndChar
 
 StartChar: radeva_viramadeva.alt
-Encoding: 65728 -1 635
+Encoding: 784 -1 635
 Width: 315
 VWidth: 0
 Flags: W
@@ -164004,7 +164003,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" radeva viramadeva zerowidthjoin
 EndChar
 
 StartChar: radeva_viramadeva_anusvaradeva
-Encoding: 65729 -1 636
+Encoding: 785 -1 636
 Width: 0
 VWidth: 0
 Flags: W
@@ -164271,7 +164270,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 25 subtable" radeva_viramadev
 EndChar
 
 StartChar: radical
-Encoding: 8730 8730 637
+Encoding: 548 8730 637
 Width: 566
 VWidth: 0
 Flags: W
@@ -164807,7 +164806,7 @@ Validated: 9
 EndChar
 
 StartChar: rcaron
-Encoding: 345 345 638
+Encoding: 279 345 638
 Width: 427
 VWidth: 0
 Flags: W
@@ -164942,7 +164941,7 @@ Validated: 9
 EndChar
 
 StartChar: registered
-Encoding: 174 174 639
+Encoding: 108 174 639
 Width: 739
 VWidth: 0
 Flags: W
@@ -165011,7 +165010,7 @@ Validated: 9
 EndChar
 
 StartChar: rhadeva
-Encoding: 2397 2397 640
+Encoding: 447 2397 640
 Width: 657
 VWidth: 0
 Flags: W
@@ -165224,7 +165223,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" ddhadeva nuktadeva
 EndChar
 
 StartChar: ring
-Encoding: 730 730 641
+Encoding: 334 730 641
 Width: 274
 VWidth: 0
 Flags: W
@@ -165268,7 +165267,7 @@ Validated: 9
 EndChar
 
 StartChar: ring.case
-Encoding: 65730 -1 642
+Encoding: 786 -1 642
 Width: 274
 VWidth: 0
 Flags: W
@@ -165312,7 +165311,7 @@ Validated: 9
 EndChar
 
 StartChar: ringacute
-Encoding: 65731 -1 643
+Encoding: 787 -1 643
 Width: 274
 VWidth: 0
 Flags: W
@@ -165362,7 +165361,7 @@ Validated: 9
 EndChar
 
 StartChar: ringacute.case
-Encoding: 65732 -1 644
+Encoding: 788 -1 644
 Width: 274
 VWidth: 0
 Flags: W
@@ -165412,7 +165411,7 @@ Validated: 9
 EndChar
 
 StartChar: rradeva
-Encoding: 2353 2353 645
+Encoding: 403 2353 645
 Width: 557
 VWidth: 0
 Flags: W
@@ -165471,7 +165470,7 @@ Validated: 9
 EndChar
 
 StartChar: rrvocalicdeva
-Encoding: 2400 2400 646
+Encoding: 450 2400 646
 Width: 945
 VWidth: 0
 Flags: W
@@ -166297,7 +166296,7 @@ Validated: 41
 EndChar
 
 StartChar: rrvocalicsigndeva
-Encoding: 2372 2372 647
+Encoding: 422 2372 647
 Width: 0
 VWidth: 0
 Flags: W
@@ -166917,7 +166916,7 @@ Validated: 9
 EndChar
 
 StartChar: rvocalicdeva
-Encoding: 2315 2315 648
+Encoding: 365 2315 648
 Width: 998
 VWidth: 0
 Flags: W
@@ -167537,7 +167536,7 @@ Validated: 41
 EndChar
 
 StartChar: rvocalicsigndeva
-Encoding: 2371 2371 649
+Encoding: 421 2371 649
 Width: 0
 VWidth: 0
 Flags: W
@@ -167878,7 +167877,7 @@ Validated: 9
 EndChar
 
 StartChar: s
-Encoding: 115 115 650
+Encoding: 84 115 650
 Width: 568
 VWidth: 0
 Flags: W
@@ -168603,7 +168602,7 @@ Validated: 9
 EndChar
 
 StartChar: sa_virama_ta_virama_radeva
-Encoding: 65733 -1 651
+Encoding: 789 -1 651
 Width: 1201
 VWidth: 0
 Flags: W
@@ -169430,7 +169429,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" sadeva_viramadeva 
 EndChar
 
 StartChar: sacute
-Encoding: 347 347 652
+Encoding: 281 347 652
 Width: 568
 VWidth: 0
 Flags: W
@@ -169652,7 +169651,7 @@ Validated: 9
 EndChar
 
 StartChar: sadeva
-Encoding: 2360 2360 653
+Encoding: 410 2360 653
 Width: 913
 VWidth: 0
 Flags: W
@@ -170465,7 +170464,7 @@ Validated: 9
 EndChar
 
 StartChar: sadeva_viramadeva
-Encoding: 65734 -1 654
+Encoding: 790 -1 654
 Width: 615
 VWidth: 0
 Flags: W
@@ -170573,7 +170572,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" sadeva viramadeva
 EndChar
 
 StartChar: sadeva_viramadeva_radeva
-Encoding: 65735 -1 655
+Encoding: 791 -1 655
 Width: 913
 VWidth: 0
 Flags: W
@@ -170733,7 +170732,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" sadeva viramadeva_radeva
 EndChar
 
 StartChar: scaron
-Encoding: 353 353 656
+Encoding: 287 353 656
 Width: 568
 VWidth: 0
 Flags: W
@@ -170958,7 +170957,7 @@ Validated: 9
 EndChar
 
 StartChar: scedilla
-Encoding: 351 351 657
+Encoding: 285 351 657
 Width: 568
 VWidth: 0
 Flags: W
@@ -171213,7 +171212,7 @@ Validated: 9
 EndChar
 
 StartChar: scircumflex
-Encoding: 349 349 658
+Encoding: 283 349 658
 Width: 568
 VWidth: 0
 Flags: W
@@ -171438,7 +171437,7 @@ Validated: 9
 EndChar
 
 StartChar: section
-Encoding: 167 167 659
+Encoding: 102 167 659
 Width: 576
 VWidth: 0
 Flags: W
@@ -171554,7 +171553,7 @@ Validated: 9
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 660
+Encoding: 28 59 660
 Width: 234
 VWidth: 0
 Flags: W
@@ -171660,7 +171659,7 @@ Validated: 9
 EndChar
 
 StartChar: seven
-Encoding: 55 55 661
+Encoding: 24 55 661
 Width: 588
 VWidth: 0
 Flags: W
@@ -171868,7 +171867,7 @@ Validated: 9
 EndChar
 
 StartChar: seven.denominator
-Encoding: 65736 -1 662
+Encoding: 792 -1 662
 Width: 420
 VWidth: 0
 Flags: W
@@ -172071,7 +172070,7 @@ Validated: 9
 EndChar
 
 StartChar: seven.numerator
-Encoding: 65737 -1 663
+Encoding: 793 -1 663
 Width: 420
 VWidth: 0
 Flags: W
@@ -172274,7 +172273,7 @@ Validated: 9
 EndChar
 
 StartChar: sevencombiningdigitdeva
-Encoding: 43239 43239 664
+Encoding: 564 43239 664
 Width: 0
 VWidth: 0
 Flags: W
@@ -173011,7 +173010,7 @@ Validated: 1
 EndChar
 
 StartChar: sevendeva
-Encoding: 2413 2413 665
+Encoding: 463 2413 665
 Width: 692
 VWidth: 0
 Flags: W
@@ -173751,7 +173750,7 @@ Validated: 1
 EndChar
 
 StartChar: seveneighths
-Encoding: 8542 8542 666
+Encoding: 537 8542 666
 Width: 987
 VWidth: 0
 Flags: W
@@ -173828,7 +173827,7 @@ Validated: 9
 EndChar
 
 StartChar: seveninferior
-Encoding: 8327 8327 667
+Encoding: 520 8327 667
 Width: 420
 VWidth: 0
 Flags: W
@@ -174031,7 +174030,7 @@ Validated: 9
 EndChar
 
 StartChar: sevensuperior
-Encoding: 8311 8311 668
+Encoding: 510 8311 668
 Width: 420
 VWidth: 0
 Flags: W
@@ -174234,7 +174233,7 @@ Validated: 9
 EndChar
 
 StartChar: sha_virama_rvocalicdeva
-Encoding: 65738 -1 669
+Encoding: 794 -1 669
 Width: 766
 VWidth: 0
 Flags: W
@@ -174383,7 +174382,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" shadeva.mr rvocali
 EndChar
 
 StartChar: shadeva
-Encoding: 2358 2358 670
+Encoding: 408 2358 670
 Width: 779
 VWidth: 0
 Flags: W
@@ -174837,7 +174836,7 @@ Substitution2: "'locl' Localized Forms lookup 1 subtable" shadeva.mr
 EndChar
 
 StartChar: shadeva.mr
-Encoding: 65739 -1 671
+Encoding: 795 -1 671
 Width: 734
 VWidth: 0
 Flags: W
@@ -174900,7 +174899,7 @@ Validated: 41
 EndChar
 
 StartChar: shadeva_viramadeva
-Encoding: 65740 -1 672
+Encoding: 796 -1 672
 Width: 489
 VWidth: 0
 Flags: W
@@ -175318,7 +175317,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" shadeva viramadeva
 EndChar
 
 StartChar: shadeva_viramadeva.mr
-Encoding: 65741 -1 673
+Encoding: 797 -1 673
 Width: 503
 VWidth: 0
 Flags: W
@@ -175908,7 +175907,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" shadeva.mr viramadeva
 EndChar
 
 StartChar: shadeva_viramadeva_alt
-Encoding: 65742 -1 674
+Encoding: 798 -1 674
 Width: 506
 VWidth: 0
 Flags: W
@@ -176231,7 +176230,7 @@ Validated: 9
 EndChar
 
 StartChar: shadeva_viramadeva_cadeva
-Encoding: 65743 -1 675
+Encoding: 799 -1 675
 Width: 730
 VWidth: 0
 Flags: W
@@ -177480,7 +177479,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" shadeva.mr viramadeva cade
 EndChar
 
 StartChar: shadeva_viramadeva_ladeva
-Encoding: 65744 -1 676
+Encoding: 800 -1 676
 Width: 908
 VWidth: 0
 Flags: W
@@ -178395,7 +178394,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" shadeva.mr viramadeva lade
 EndChar
 
 StartChar: shadeva_viramadeva_nadeva
-Encoding: 65745 -1 677
+Encoding: 801 -1 677
 Width: 730
 VWidth: 0
 Flags: W
@@ -179587,7 +179586,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" shadeva.mr viramadeva nade
 EndChar
 
 StartChar: shadeva_viramadeva_radeva
-Encoding: 65746 -1 678
+Encoding: 802 -1 678
 Width: 730
 VWidth: 0
 Flags: W
@@ -180172,7 +180171,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" shadeva_viramadeva_alt rad
 EndChar
 
 StartChar: shadeva_viramadeva_vadeva
-Encoding: 65747 -1 679
+Encoding: 803 -1 679
 Width: 731
 VWidth: 0
 Flags: W
@@ -181071,7 +181070,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" shadeva.mr viramadeva vade
 EndChar
 
 StartChar: six
-Encoding: 54 54 680
+Encoding: 23 54 680
 Width: 588
 VWidth: 0
 Flags: W
@@ -181439,7 +181438,7 @@ Validated: 9
 EndChar
 
 StartChar: six.denominator
-Encoding: 65748 -1 681
+Encoding: 804 -1 681
 Width: 420
 VWidth: 0
 Flags: W
@@ -181745,7 +181744,7 @@ Validated: 9
 EndChar
 
 StartChar: six.numerator
-Encoding: 65749 -1 682
+Encoding: 805 -1 682
 Width: 420
 VWidth: 0
 Flags: W
@@ -182051,7 +182050,7 @@ Validated: 9
 EndChar
 
 StartChar: sixcombiningdigitdeva
-Encoding: 43238 43238 683
+Encoding: 563 43238 683
 Width: 0
 VWidth: 0
 Flags: W
@@ -182161,7 +182160,7 @@ Validated: 41
 EndChar
 
 StartChar: sixdeva
-Encoding: 2412 2412 684
+Encoding: 462 2412 684
 Width: 674
 VWidth: 0
 Flags: W
@@ -182942,7 +182941,7 @@ Validated: 41
 EndChar
 
 StartChar: sixinferior
-Encoding: 8326 8326 685
+Encoding: 519 8326 685
 Width: 420
 VWidth: 0
 Flags: W
@@ -183248,7 +183247,7 @@ Validated: 9
 EndChar
 
 StartChar: sixsuperior
-Encoding: 8310 8310 686
+Encoding: 509 8310 686
 Width: 420
 VWidth: 0
 Flags: W
@@ -183554,7 +183553,7 @@ Validated: 9
 EndChar
 
 StartChar: slash
-Encoding: 47 47 687
+Encoding: 16 47 687
 Width: 339
 VWidth: 0
 Flags: W
@@ -183586,7 +183585,7 @@ Validated: 9
 EndChar
 
 StartChar: space
-Encoding: 32 32 688
+Encoding: 1 32 688
 Width: 267
 VWidth: 0
 Flags: W
@@ -183599,7 +183598,7 @@ LayerCount: 2
 EndChar
 
 StartChar: spacingcandrabindudeva
-Encoding: 43250 43250 689
+Encoding: 575 43250 689
 Width: 569
 VWidth: 0
 Flags: W
@@ -183645,7 +183644,7 @@ Validated: 9
 EndChar
 
 StartChar: ssadeva
-Encoding: 2359 2359 690
+Encoding: 409 2359 690
 Width: 638
 VWidth: 0
 Flags: W
@@ -183704,7 +183703,7 @@ Validated: 9
 EndChar
 
 StartChar: ssadeva_viramadeva
-Encoding: 65750 -1 691
+Encoding: 806 -1 691
 Width: 390
 VWidth: 0
 Flags: W
@@ -183753,7 +183752,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ssadeva viramadeva
 EndChar
 
 StartChar: ssadeva_viramadeva_radeva
-Encoding: 65751 -1 692
+Encoding: 807 -1 692
 Width: 638
 VWidth: 0
 Flags: W
@@ -183812,7 +183811,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" ssadeva viramadeva_radeva
 EndChar
 
 StartChar: ssadeva_viramadeva_ttadeva
-Encoding: 65752 -1 693
+Encoding: 808 -1 693
 Width: 696
 VWidth: 0
 Flags: W
@@ -183876,7 +183875,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" ssadeva_viramadeva
 EndChar
 
 StartChar: ssadeva_viramadeva_tthadeva
-Encoding: 65753 -1 694
+Encoding: 809 -1 694
 Width: 696
 VWidth: 0
 Flags: W
@@ -184066,7 +184065,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" ssadeva_viramadeva
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 695
+Encoding: 98 163 695
 Width: 588
 VWidth: 0
 Flags: W
@@ -184124,7 +184123,7 @@ Validated: 9
 EndChar
 
 StartChar: summation
-Encoding: 8721 8721 696
+Encoding: 545 8721 696
 Width: 559
 VWidth: 0
 Flags: W
@@ -184164,7 +184163,7 @@ Validated: 9
 EndChar
 
 StartChar: t
-Encoding: 116 116 697
+Encoding: 85 116 697
 Width: 372
 VWidth: 0
 Flags: W
@@ -184215,7 +184214,7 @@ Validated: 9
 EndChar
 
 StartChar: ta_virama_ra_viramadeva
-Encoding: 65754 -1 698
+Encoding: 810 -1 698
 Width: 475
 VWidth: 0
 Flags: W
@@ -184696,7 +184695,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" tadeva_viramadeva_radeva virama
 EndChar
 
 StartChar: ta_virama_ta_viramadeva
-Encoding: 65755 -1 699
+Encoding: 811 -1 699
 Width: 490
 VWidth: 0
 Flags: W
@@ -185050,7 +185049,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" tadeva_viramadeva 
 EndChar
 
 StartChar: tadeva
-Encoding: 2340 2340 700
+Encoding: 390 2340 700
 Width: 692
 VWidth: 0
 Flags: W
@@ -185166,7 +185165,7 @@ Validated: 9
 EndChar
 
 StartChar: tadeva_viramadeva
-Encoding: 65756 -1 701
+Encoding: 812 -1 701
 Width: 464
 VWidth: 0
 Flags: W
@@ -185458,7 +185457,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" tadeva viramadeva
 EndChar
 
 StartChar: tadeva_viramadeva_radeva
-Encoding: 65757 -1 702
+Encoding: 813 -1 702
 Width: 662
 VWidth: 0
 Flags: W
@@ -185513,7 +185512,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" tadeva viramadeva_radeva
 EndChar
 
 StartChar: tadeva_viramadeva_tadeva
-Encoding: 65758 -1 703
+Encoding: 814 -1 703
 Width: 698
 VWidth: 0
 Flags: W
@@ -186026,7 +186025,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 12 subtable" tadeva_viramadeva 
 EndChar
 
 StartChar: tbar
-Encoding: 359 359 704
+Encoding: 293 359 704
 Width: 372
 VWidth: 0
 Flags: W
@@ -186087,7 +186086,7 @@ Validated: 9
 EndChar
 
 StartChar: tcaron
-Encoding: 357 357 705
+Encoding: 291 357 705
 Width: 372
 VWidth: 0
 Flags: W
@@ -186239,7 +186238,7 @@ Validated: 9
 EndChar
 
 StartChar: thadeva
-Encoding: 2341 2341 706
+Encoding: 391 2341 706
 Width: 728
 VWidth: 0
 Flags: W
@@ -187235,7 +187234,7 @@ Validated: 9
 EndChar
 
 StartChar: thadeva_viramadeva
-Encoding: 65759 -1 707
+Encoding: 815 -1 707
 Width: 555
 VWidth: 0
 Flags: W
@@ -187852,7 +187851,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" thadeva viramadeva
 EndChar
 
 StartChar: thadeva_viramadeva_radeva
-Encoding: 65760 -1 708
+Encoding: 816 -1 708
 Width: 728
 VWidth: 0
 Flags: W
@@ -187989,7 +187988,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" thadeva viramadeva_radeva
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 709
+Encoding: 188 254 709
 Width: 628
 VWidth: 0
 Flags: W
@@ -188661,7 +188660,7 @@ Validated: 9
 EndChar
 
 StartChar: three
-Encoding: 51 51 710
+Encoding: 20 51 710
 Width: 588
 VWidth: 0
 Flags: W
@@ -188777,7 +188776,7 @@ Validated: 9
 EndChar
 
 StartChar: three.denominator
-Encoding: 65761 -1 711
+Encoding: 817 -1 711
 Width: 420
 VWidth: 0
 Flags: W
@@ -188831,7 +188830,7 @@ Validated: 9
 EndChar
 
 StartChar: three.numerator
-Encoding: 65762 -1 712
+Encoding: 818 -1 712
 Width: 420
 VWidth: 0
 Flags: W
@@ -188885,7 +188884,7 @@ Validated: 9
 EndChar
 
 StartChar: threecombiningdigitdeva
-Encoding: 43235 43235 713
+Encoding: 560 43235 713
 Width: 0
 VWidth: 0
 Flags: W
@@ -188939,7 +188938,7 @@ Validated: 41
 EndChar
 
 StartChar: threedeva
-Encoding: 2409 2409 714
+Encoding: 459 2409 714
 Width: 673
 VWidth: 0
 Flags: W
@@ -189672,7 +189671,7 @@ Validated: 41
 EndChar
 
 StartChar: threeeighths
-Encoding: 8540 8540 715
+Encoding: 535 8540 715
 Width: 987
 VWidth: 0
 Flags: W
@@ -189927,7 +189926,7 @@ Validated: 9
 EndChar
 
 StartChar: threeinferior
-Encoding: 8323 8323 716
+Encoding: 516 8323 716
 Width: 420
 VWidth: 0
 Flags: W
@@ -189981,7 +189980,7 @@ Validated: 9
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 717
+Encoding: 124 190 717
 Width: 987
 VWidth: 0
 Flags: W
@@ -190066,7 +190065,7 @@ Validated: 9
 EndChar
 
 StartChar: threesuperior
-Encoding: 179 179 718
+Encoding: 113 179 718
 Width: 420
 VWidth: 0
 Flags: W
@@ -190120,7 +190119,7 @@ Validated: 9
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 719
+Encoding: 336 732 719
 Width: 410
 VWidth: 0
 Flags: W
@@ -190212,7 +190211,7 @@ Validated: 9
 EndChar
 
 StartChar: tilde.case
-Encoding: 65763 -1 720
+Encoding: 819 -1 720
 Width: 410
 VWidth: 0
 Flags: W
@@ -190304,7 +190303,7 @@ Validated: 9
 EndChar
 
 StartChar: trademark
-Encoding: 8482 8482 721
+Encoding: 529 8482 721
 Width: 987
 VWidth: 0
 Flags: W
@@ -190363,7 +190362,7 @@ Validated: 9
 EndChar
 
 StartChar: ttadeva
-Encoding: 2335 2335 722
+Encoding: 385 2335 722
 Width: 614
 VWidth: 0
 Flags: W
@@ -190419,7 +190418,7 @@ Validated: 9
 EndChar
 
 StartChar: ttadeva_viramadeva
-Encoding: 65764 -1 723
+Encoding: 820 -1 723
 Width: 614
 VWidth: 0
 Flags: W
@@ -190975,7 +190974,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" ttadeva viramadeva
 EndChar
 
 StartChar: ttadeva_viramadeva_ttadeva
-Encoding: 65765 -1 724
+Encoding: 821 -1 724
 Width: 614
 VWidth: 0
 Flags: W
@@ -191047,7 +191046,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ttadeva viramadeva ttadeva
 EndChar
 
 StartChar: ttadeva_viramadeva_tthadeva
-Encoding: 65766 -1 725
+Encoding: 822 -1 725
 Width: 614
 VWidth: 0
 Flags: W
@@ -191388,7 +191387,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ttadeva viramadeva tthadev
 EndChar
 
 StartChar: ttadeva_viramadeva_vadeva
-Encoding: 65767 -1 726
+Encoding: 823 -1 726
 Width: 614
 VWidth: 0
 Flags: W
@@ -191737,7 +191736,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ttadeva viramadeva vadeva
 EndChar
 
 StartChar: ttadeva_viramadeva_yadeva
-Encoding: 65768 -1 727
+Encoding: 824 -1 727
 Width: 1306
 VWidth: 0
 Flags: W
@@ -192825,7 +192824,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" ttadeva viramadeva yadeva
 EndChar
 
 StartChar: tthadeva
-Encoding: 2336 2336 728
+Encoding: 386 2336 728
 Width: 661
 VWidth: 0
 Flags: W
@@ -192884,7 +192883,7 @@ Validated: 9
 EndChar
 
 StartChar: tthadeva_viraamdeva_tthadeva
-Encoding: 65769 -1 729
+Encoding: 825 -1 729
 Width: 661
 VWidth: 0
 Flags: W
@@ -192962,7 +192961,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" tthadeva viramadeva tthade
 EndChar
 
 StartChar: tthadeva_viraamdeva_yadeva
-Encoding: 65770 -1 730
+Encoding: 826 -1 730
 Width: 1353
 VWidth: 0
 Flags: W
@@ -194122,7 +194121,7 @@ Ligature2: "'locl' Localized Forms lookup 2 subtable" tthadeva viramadeva yadeva
 EndChar
 
 StartChar: tthadeva_viramadeva
-Encoding: 65771 -1 731
+Encoding: 827 -1 731
 Width: 661
 VWidth: 0
 Flags: W
@@ -194189,7 +194188,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" tthadeva viramadeva
 EndChar
 
 StartChar: two
-Encoding: 50 50 732
+Encoding: 19 50 732
 Width: 588
 VWidth: 0
 Flags: W
@@ -194492,7 +194491,7 @@ Validated: 9
 EndChar
 
 StartChar: two.denominator
-Encoding: 65772 -1 733
+Encoding: 828 -1 733
 Width: 420
 VWidth: 0
 Flags: W
@@ -194793,7 +194792,7 @@ Validated: 9
 EndChar
 
 StartChar: two.numerator
-Encoding: 65773 -1 734
+Encoding: 829 -1 734
 Width: 420
 VWidth: 0
 Flags: W
@@ -195094,7 +195093,7 @@ Validated: 9
 EndChar
 
 StartChar: twocombiningdigitdeva
-Encoding: 43234 43234 735
+Encoding: 559 43234 735
 Width: 0
 VWidth: 0
 Flags: W
@@ -195613,7 +195612,7 @@ Validated: 41
 EndChar
 
 StartChar: twodeva
-Encoding: 2408 2408 736
+Encoding: 458 2408 736
 Width: 571
 VWidth: 0
 Flags: W
@@ -196131,7 +196130,7 @@ Validated: 41
 EndChar
 
 StartChar: twoinferior
-Encoding: 8322 8322 737
+Encoding: 515 8322 737
 Width: 420
 VWidth: 0
 Flags: W
@@ -196432,7 +196431,7 @@ Validated: 9
 EndChar
 
 StartChar: twosuperior
-Encoding: 178 178 738
+Encoding: 112 178 738
 Width: 420
 VWidth: 0
 Flags: W
@@ -196733,7 +196732,7 @@ Validated: 9
 EndChar
 
 StartChar: twothirds
-Encoding: 8532 8532 739
+Encoding: 533 8532 739
 Width: 987
 VWidth: 0
 Flags: W
@@ -196816,7 +196815,7 @@ Validated: 9
 EndChar
 
 StartChar: u
-Encoding: 117 117 740
+Encoding: 86 117 740
 Width: 696
 VWidth: 0
 Flags: W
@@ -197513,7 +197512,7 @@ Validated: 9
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 741
+Encoding: 184 250 741
 Width: 696
 VWidth: 0
 Flags: W
@@ -197636,7 +197635,7 @@ Validated: 9
 EndChar
 
 StartChar: ubreve
-Encoding: 365 365 742
+Encoding: 299 365 742
 Width: 696
 VWidth: 0
 Flags: W
@@ -197823,7 +197822,7 @@ Validated: 9
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 743
+Encoding: 185 251 743
 Width: 696
 VWidth: 0
 Flags: W
@@ -197949,7 +197948,7 @@ Validated: 9
 EndChar
 
 StartChar: ucombiningletterdeva
-Encoding: 43243 43243 744
+Encoding: 568 43243 744
 Width: 277
 VWidth: 0
 Flags: W
@@ -198653,7 +198652,7 @@ Validated: 9
 EndChar
 
 StartChar: udattadeva
-Encoding: 2385 2385 745
+Encoding: 435 2385 745
 Width: 0
 VWidth: 0
 Flags: W
@@ -198691,7 +198690,7 @@ Validated: 1
 EndChar
 
 StartChar: udeva
-Encoding: 2313 2313 746
+Encoding: 363 2313 746
 Width: 601
 VWidth: 0
 Flags: W
@@ -199223,7 +199222,7 @@ Validated: 9
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 747
+Encoding: 186 252 747
 Width: 696
 VWidth: 0
 Flags: W
@@ -199362,7 +199361,7 @@ Validated: 9
 EndChar
 
 StartChar: uedeva
-Encoding: 2422 2422 748
+Encoding: 472 2422 748
 Width: 857
 VWidth: 0
 Flags: W
@@ -199578,7 +199577,7 @@ Validated: 41
 EndChar
 
 StartChar: uesigndeva
-Encoding: 2390 2390 749
+Encoding: 440 2390 749
 Width: 0
 VWidth: 0
 Flags: W
@@ -199891,7 +199890,7 @@ Validated: 1
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 750
+Encoding: 183 249 750
 Width: 696
 VWidth: 0
 Flags: W
@@ -200014,7 +200013,7 @@ Validated: 9
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 369 369 751
+Encoding: 303 369 751
 Width: 696
 VWidth: 0
 Flags: W
@@ -200142,7 +200141,7 @@ Validated: 9
 EndChar
 
 StartChar: umacron
-Encoding: 363 363 752
+Encoding: 297 363 752
 Width: 696
 VWidth: 0
 Flags: W
@@ -200266,7 +200265,7 @@ Validated: 9
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 753
+Encoding: 64 95 753
 Width: 580
 VWidth: 0
 Flags: W
@@ -200296,7 +200295,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0122
-Encoding: 290 290 754
+Encoding: 224 290 754
 Width: 681
 VWidth: 0
 Flags: W
@@ -200609,7 +200608,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0123
-Encoding: 291 291 755
+Encoding: 225 291 755
 Width: 587
 VWidth: 0
 Flags: W
@@ -200962,7 +200961,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0136
-Encoding: 310 310 756
+Encoding: 244 310 756
 Width: 660
 VWidth: 0
 Flags: W
@@ -201127,7 +201126,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0137
-Encoding: 311 311 757
+Encoding: 245 311 757
 Width: 604
 VWidth: 0
 Flags: W
@@ -201307,7 +201306,7 @@ Validated: 9
 EndChar
 
 StartChar: uni013B
-Encoding: 315 315 758
+Encoding: 249 315 758
 Width: 526
 VWidth: 0
 Flags: W
@@ -201457,7 +201456,7 @@ Validated: 9
 EndChar
 
 StartChar: uni013C
-Encoding: 316 316 759
+Encoding: 250 316 759
 Width: 326
 VWidth: 0
 Flags: W
@@ -201561,7 +201560,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0145
-Encoding: 325 325 760
+Encoding: 259 325 760
 Width: 789
 VWidth: 0
 Flags: W
@@ -201734,7 +201733,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0146
-Encoding: 326 326 761
+Encoding: 260 326 761
 Width: 697
 VWidth: 0
 Flags: W
@@ -201946,7 +201945,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0156
-Encoding: 342 342 762
+Encoding: 276 342 762
 Width: 671
 VWidth: 0
 Flags: W
@@ -202142,7 +202141,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0157
-Encoding: 343 343 763
+Encoding: 277 343 763
 Width: 427
 VWidth: 0
 Flags: W
@@ -202276,7 +202275,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0162
-Encoding: 354 354 764
+Encoding: 288 354 764
 Width: 557
 VWidth: 0
 Flags: W
@@ -202415,7 +202414,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0163
-Encoding: 355 355 765
+Encoding: 289 355 765
 Width: 372
 VWidth: 0
 Flags: W
@@ -202554,7 +202553,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0218
-Encoding: 536 536 766
+Encoding: 324 536 766
 Width: 599
 VWidth: 0
 Flags: W
@@ -202877,7 +202876,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0219
-Encoding: 537 537 767
+Encoding: 325 537 767
 Width: 568
 VWidth: 0
 Flags: W
@@ -203200,7 +203199,7 @@ Validated: 9
 EndChar
 
 StartChar: uni021A
-Encoding: 538 538 768
+Encoding: 326 538 768
 Width: 557
 VWidth: 0
 Flags: W
@@ -203310,7 +203309,7 @@ Validated: 9
 EndChar
 
 StartChar: uni021B
-Encoding: 539 539 769
+Encoding: 327 539 769
 Width: 339
 VWidth: 0
 Flags: W
@@ -203494,7 +203493,7 @@ Validated: 9
 EndChar
 
 StartChar: uni02C9
-Encoding: 713 713 770
+Encoding: 331 713 770
 Width: 362
 VWidth: 0
 Flags: W
@@ -203524,7 +203523,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0394
-Encoding: 916 916 771
+Encoding: 350 916 771
 Width: 572
 VWidth: 0
 Flags: W
@@ -203560,7 +203559,7 @@ Validated: 9
 EndChar
 
 StartChar: uni03A9
-Encoding: 937 937 772
+Encoding: 351 937 772
 Width: 746
 VWidth: 0
 Flags: W
@@ -203613,7 +203612,7 @@ Validated: 9
 EndChar
 
 StartChar: uni03BC
-Encoding: 956 956 773
+Encoding: 352 956 773
 Width: 641
 VWidth: 0
 Flags: W
@@ -203923,7 +203922,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2113
-Encoding: 8467 8467 774
+Encoding: 527 8467 774
 Width: 330
 VWidth: 0
 Flags: W
@@ -203964,7 +203963,7 @@ Validated: 9
 EndChar
 
 StartChar: uni2116
-Encoding: 8470 8470 775
+Encoding: 528 8470 775
 Width: 1254
 VWidth: 0
 Flags: W
@@ -204134,7 +204133,7 @@ Validated: 9
 EndChar
 
 StartChar: uni2215
-Encoding: 8725 8725 776
+Encoding: 547 8725 776
 Width: 283
 VWidth: 0
 Flags: W
@@ -204166,7 +204165,7 @@ Validated: 9
 EndChar
 
 StartChar: uogonek
-Encoding: 371 371 777
+Encoding: 305 371 777
 Width: 696
 VWidth: 0
 Flags: W
@@ -204326,7 +204325,7 @@ Validated: 9
 EndChar
 
 StartChar: uring
-Encoding: 367 367 778
+Encoding: 301 367 778
 Width: 696
 VWidth: 0
 Flags: W
@@ -204490,7 +204489,7 @@ Validated: 9
 EndChar
 
 StartChar: usigndeva
-Encoding: 2369 2369 779
+Encoding: 419 2369 779
 Width: -13
 VWidth: 0
 Flags: W
@@ -204957,7 +204956,7 @@ Validated: 9
 EndChar
 
 StartChar: utilde
-Encoding: 361 361 780
+Encoding: 295 361 780
 Width: 696
 VWidth: 0
 Flags: W
@@ -205165,7 +205164,7 @@ Validated: 9
 EndChar
 
 StartChar: uudeva
-Encoding: 2314 2314 781
+Encoding: 364 2314 781
 Width: 878
 VWidth: 0
 Flags: W
@@ -205292,7 +205291,7 @@ Validated: 9
 EndChar
 
 StartChar: uuedeva
-Encoding: 2423 2423 782
+Encoding: 473 2423 782
 Width: 857
 VWidth: 0
 Flags: W
@@ -205551,7 +205550,7 @@ Validated: 41
 EndChar
 
 StartChar: uuesigndeva
-Encoding: 2391 2391 783
+Encoding: 441 2391 783
 Width: 0
 VWidth: 0
 Flags: W
@@ -205877,7 +205876,7 @@ Validated: 1
 EndChar
 
 StartChar: uusigndeva
-Encoding: 2370 2370 784
+Encoding: 420 2370 784
 Width: 0
 VWidth: 0
 Flags: W
@@ -206310,7 +206309,7 @@ Validated: 9
 EndChar
 
 StartChar: v
-Encoding: 118 118 785
+Encoding: 87 118 785
 Width: 572
 VWidth: 0
 Flags: W
@@ -206852,7 +206851,7 @@ Validated: 9
 EndChar
 
 StartChar: vadeva
-Encoding: 2357 2357 786
+Encoding: 407 2357 786
 Width: 616
 VWidth: 0
 Flags: W
@@ -207303,7 +207302,7 @@ Validated: 9
 EndChar
 
 StartChar: vadeva_viramadeva
-Encoding: 65774 -1 787
+Encoding: 830 -1 787
 Width: 407
 VWidth: 0
 Flags: W
@@ -207687,7 +207686,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" vadeva viramadeva
 EndChar
 
 StartChar: vadeva_viramadeva_radeva
-Encoding: 65775 -1 788
+Encoding: 831 -1 788
 Width: 616
 VWidth: 0
 Flags: W
@@ -207745,7 +207744,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" vadeva viramadeva_radeva
 EndChar
 
 StartChar: vattudeva_ulowdeva
-Encoding: 65776 -1 789
+Encoding: 832 -1 789
 Width: 0
 VWidth: 0
 Flags: W
@@ -207953,7 +207952,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 27 subtable" viramadeva_radev
 EndChar
 
 StartChar: vattudeva_uulowdeva
-Encoding: 65777 -1 790
+Encoding: 833 -1 790
 Width: 0
 VWidth: 0
 Flags: W
@@ -208315,7 +208314,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 27 subtable" viramadeva_radev
 EndChar
 
 StartChar: vicombiningletterdeva
-Encoding: 43248 43248 791
+Encoding: 573 43248 791
 Width: 0
 VWidth: 0
 Flags: W
@@ -208388,7 +208387,7 @@ Validated: 9
 EndChar
 
 StartChar: viramadeva
-Encoding: 2381 2381 792
+Encoding: 431 2381 792
 Width: 0
 VWidth: 0
 Flags: W
@@ -208688,7 +208687,7 @@ Validated: 9
 EndChar
 
 StartChar: viramadeva_radeva
-Encoding: 65778 -1 793
+Encoding: 834 -1 793
 Width: 0
 VWidth: 0
 Flags: W
@@ -208832,7 +208831,7 @@ Ligature2: "'blwf' Below Base Forms lookup 8 subtable" viramadeva radeva
 EndChar
 
 StartChar: viramadeva_radeva_alt
-Encoding: 65779 -1 794
+Encoding: 835 -1 794
 Width: 0
 VWidth: 0
 Flags: W
@@ -208931,7 +208930,7 @@ Validated: 9
 EndChar
 
 StartChar: visargadeva
-Encoding: 2307 2307 795
+Encoding: 357 2307 795
 Width: 372
 VWidth: 0
 Flags: W
@@ -209228,7 +209227,7 @@ Validated: 9
 EndChar
 
 StartChar: w
-Encoding: 119 119 796
+Encoding: 88 119 796
 Width: 786
 VWidth: 0
 Flags: W
@@ -209383,7 +209382,7 @@ Validated: 9
 EndChar
 
 StartChar: wacute
-Encoding: 7811 7811 797
+Encoding: 484 7811 797
 Width: 786
 VWidth: 0
 Flags: W
@@ -209439,7 +209438,7 @@ Validated: 9
 EndChar
 
 StartChar: wcircumflex
-Encoding: 373 373 798
+Encoding: 307 373 798
 Width: 786
 VWidth: 0
 Flags: W
@@ -209498,7 +209497,7 @@ Validated: 9
 EndChar
 
 StartChar: wdieresis
-Encoding: 7813 7813 799
+Encoding: 486 7813 799
 Width: 786
 VWidth: 0
 Flags: W
@@ -209566,7 +209565,7 @@ Validated: 9
 EndChar
 
 StartChar: wgrave
-Encoding: 7809 7809 800
+Encoding: 482 7809 800
 Width: 786
 VWidth: 0
 Flags: W
@@ -209622,7 +209621,7 @@ Validated: 9
 EndChar
 
 StartChar: x
-Encoding: 120 120 801
+Encoding: 89 120 801
 Width: 577
 VWidth: 0
 Flags: W
@@ -209933,7 +209932,7 @@ Validated: 9
 EndChar
 
 StartChar: y
-Encoding: 121 121 802
+Encoding: 90 121 802
 Width: 572
 VWidth: 0
 Flags: W
@@ -210228,7 +210227,7 @@ Validated: 9
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 803
+Encoding: 187 253 803
 Width: 572
 VWidth: 0
 Flags: W
@@ -210283,7 +210282,7 @@ Validated: 9
 EndChar
 
 StartChar: yadeva
-Encoding: 2351 2351 804
+Encoding: 401 2351 804
 Width: 685
 VWidth: 0
 Flags: W
@@ -210814,7 +210813,7 @@ Validated: 9
 EndChar
 
 StartChar: yadeva_alt
-Encoding: 65780 -1 805
+Encoding: 836 -1 805
 Width: 813
 VWidth: 0
 Flags: W
@@ -211151,7 +211150,7 @@ Validated: 9
 EndChar
 
 StartChar: yadeva_viramadeva
-Encoding: 65781 -1 806
+Encoding: 837 -1 806
 Width: 493
 VWidth: 0
 Flags: W
@@ -211593,7 +211592,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" yadeva viramadeva
 EndChar
 
 StartChar: yadeva_viramadeva_radeva
-Encoding: 65782 -1 807
+Encoding: 838 -1 807
 Width: 685
 VWidth: 0
 Flags: W
@@ -211728,7 +211727,7 @@ Ligature2: "'vatu' Vattu Variants lookup 10 subtable" yadeva viramadeva_radeva
 EndChar
 
 StartChar: yaheavydeva
-Encoding: 2426 2426 808
+Encoding: 475 2426 808
 Width: 692
 VWidth: 0
 Flags: W
@@ -212353,7 +212352,7 @@ Validated: 9
 EndChar
 
 StartChar: ycircumflex
-Encoding: 375 375 809
+Encoding: 309 375 809
 Width: 572
 VWidth: 0
 Flags: W
@@ -212411,7 +212410,7 @@ Validated: 9
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 810
+Encoding: 189 255 810
 Width: 572
 VWidth: 0
 Flags: W
@@ -212478,7 +212477,7 @@ Validated: 9
 EndChar
 
 StartChar: yen
-Encoding: 165 165 811
+Encoding: 100 165 811
 Width: 588
 VWidth: 0
 Flags: W
@@ -212538,7 +212537,7 @@ Validated: 9
 EndChar
 
 StartChar: ygrave
-Encoding: 7923 7923 812
+Encoding: 488 7923 812
 Width: 572
 VWidth: 0
 Flags: W
@@ -212593,7 +212592,7 @@ Validated: 9
 EndChar
 
 StartChar: yyadeva
-Encoding: 2399 2399 813
+Encoding: 449 2399 813
 Width: 685
 VWidth: 0
 Flags: W
@@ -212731,7 +212730,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" yadeva nuktadeva
 EndChar
 
 StartChar: z
-Encoding: 122 122 814
+Encoding: 91 122 814
 Width: 510
 VWidth: 0
 Flags: W
@@ -212780,7 +212779,7 @@ Validated: 9
 EndChar
 
 StartChar: zacute
-Encoding: 378 378 815
+Encoding: 312 378 815
 Width: 540
 VWidth: 0
 Flags: W
@@ -212836,7 +212835,7 @@ Validated: 9
 EndChar
 
 StartChar: zadeva
-Encoding: 2395 2395 816
+Encoding: 445 2395 816
 Width: 837
 VWidth: 0
 Flags: W
@@ -212985,7 +212984,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5 subtable" jadeva nuktadeva
 EndChar
 
 StartChar: zadeva_viramadeva
-Encoding: 65783 -1 817
+Encoding: 839 -1 817
 Width: 626
 VWidth: 0
 Flags: W
@@ -213046,7 +213045,7 @@ Ligature2: "'half' Half Forms lookup 9 subtable" zadeva viramadeva
 EndChar
 
 StartChar: zcaron
-Encoding: 382 382 818
+Encoding: 316 382 818
 Width: 540
 VWidth: 0
 Flags: W
@@ -213105,7 +213104,7 @@ Validated: 9
 EndChar
 
 StartChar: zdotaccent
-Encoding: 380 380 819
+Encoding: 314 380 819
 Width: 540
 VWidth: 0
 Flags: W
@@ -213163,7 +213162,7 @@ Validated: 9
 EndChar
 
 StartChar: zero
-Encoding: 48 48 820
+Encoding: 17 48 820
 Width: 588
 VWidth: 0
 Flags: W
@@ -213462,7 +213461,7 @@ Validated: 9
 EndChar
 
 StartChar: zero.denominator
-Encoding: 65784 -1 821
+Encoding: 840 -1 821
 Width: 420
 VWidth: 0
 Flags: W
@@ -213761,7 +213760,7 @@ Validated: 9
 EndChar
 
 StartChar: zero.numerator
-Encoding: 65785 -1 822
+Encoding: 841 -1 822
 Width: 420
 VWidth: 0
 Flags: W
@@ -214060,7 +214059,7 @@ Validated: 9
 EndChar
 
 StartChar: zerocombiningdigitdeva
-Encoding: 43232 43232 823
+Encoding: 557 43232 823
 Width: 0
 VWidth: 0
 Flags: W
@@ -214105,7 +214104,7 @@ Validated: 9
 EndChar
 
 StartChar: zerodeva
-Encoding: 2406 2406 824
+Encoding: 456 2406 824
 Width: 597
 VWidth: 0
 Flags: W
@@ -214149,7 +214148,7 @@ Validated: 9
 EndChar
 
 StartChar: zeroinferior
-Encoding: 8320 8320 825
+Encoding: 513 8320 825
 Width: 420
 VWidth: 0
 Flags: W
@@ -214448,7 +214447,7 @@ Validated: 9
 EndChar
 
 StartChar: zerosuperior
-Encoding: 8304 8304 826
+Encoding: 506 8304 826
 Width: 420
 VWidth: 0
 Flags: W
@@ -214747,7 +214746,7 @@ Validated: 9
 EndChar
 
 StartChar: zerowidthjoiner
-Encoding: 65279 65279 827
+Encoding: 591 65279 827
 Width: 0
 VWidth: 0
 Flags: W
@@ -214786,7 +214785,7 @@ Validated: 1
 EndChar
 
 StartChar: zerowidthnonjoiner
-Encoding: 8204 8204 828
+Encoding: 489 8204 828
 Width: 0
 VWidth: 0
 Flags: W
@@ -214823,7 +214822,7 @@ Validated: 1
 EndChar
 
 StartChar: zhadeva
-Encoding: 2425 2425 829
+Encoding: 474 2425 829
 Width: 837
 VWidth: 0
 Flags: W
@@ -215052,7 +215051,7 @@ Validated: 9
 EndChar
 
 StartChar: zhadeva.np
-Encoding: 65786 -1 830
+Encoding: 842 -1 830
 Width: 879
 VWidth: 0
 Flags: W
@@ -216180,7 +216179,7 @@ Validated: 41
 EndChar
 
 StartChar: acutecomb
-Encoding: 769 769 831
+Encoding: 339 769 831
 Width: 314
 VWidth: 0
 Flags: W
@@ -216188,7 +216187,7 @@ LayerCount: 2
 EndChar
 
 StartChar: acutecomb.case
-Encoding: 65788 -1 832
+Encoding: 843 -1 832
 Width: 314
 VWidth: 0
 Flags: W
@@ -216196,7 +216195,7 @@ LayerCount: 2
 EndChar
 
 StartChar: acutecombdeva
-Encoding: 65789 -1 833
+Encoding: 844 -1 833
 Width: 0
 VWidth: 0
 Flags: W
@@ -216204,7 +216203,7 @@ LayerCount: 2
 EndChar
 
 StartChar: brevecomb
-Encoding: 774 774 834
+Encoding: 343 774 834
 Width: 425
 VWidth: 0
 Flags: W
@@ -216212,7 +216211,7 @@ LayerCount: 2
 EndChar
 
 StartChar: brevecomb.case
-Encoding: 65791 -1 835
+Encoding: 845 -1 835
 Width: 425
 VWidth: 0
 Flags: W
@@ -216220,7 +216219,7 @@ LayerCount: 2
 EndChar
 
 StartChar: caroncomb
-Encoding: 780 780 836
+Encoding: 348 780 836
 Width: 371
 VWidth: 0
 Flags: W
@@ -216228,7 +216227,7 @@ LayerCount: 2
 EndChar
 
 StartChar: caroncomb.case
-Encoding: 65793 -1 837
+Encoding: 846 -1 837
 Width: 371
 VWidth: 0
 Flags: W
@@ -216236,7 +216235,7 @@ LayerCount: 2
 EndChar
 
 StartChar: cedillacomb
-Encoding: 807 807 838
+Encoding: 349 807 838
 Width: 299
 VWidth: 0
 Flags: W
@@ -216244,7 +216243,7 @@ LayerCount: 2
 EndChar
 
 StartChar: circumflexcomb
-Encoding: 770 770 839
+Encoding: 340 770 839
 Width: 401
 VWidth: 0
 Flags: W
@@ -216252,7 +216251,7 @@ LayerCount: 2
 EndChar
 
 StartChar: circumflexcomb.case
-Encoding: 65796 -1 840
+Encoding: 847 -1 840
 Width: 401
 VWidth: 0
 Flags: W
@@ -216260,7 +216259,7 @@ LayerCount: 2
 EndChar
 
 StartChar: dieresiscomb
-Encoding: 776 776 841
+Encoding: 345 776 841
 Width: 308
 VWidth: 0
 Flags: W
@@ -216268,7 +216267,7 @@ LayerCount: 2
 EndChar
 
 StartChar: dieresiscomb.case
-Encoding: 65798 -1 842
+Encoding: 848 -1 842
 Width: 308
 VWidth: 0
 Flags: W
@@ -216276,7 +216275,7 @@ LayerCount: 2
 EndChar
 
 StartChar: dotaccentcomb
-Encoding: 775 775 843
+Encoding: 344 775 843
 Width: 274
 VWidth: 0
 Flags: W
@@ -216284,7 +216283,7 @@ LayerCount: 2
 EndChar
 
 StartChar: dotaccentcomb.case
-Encoding: 65800 -1 844
+Encoding: 849 -1 844
 Width: 274
 VWidth: 0
 Flags: W
@@ -216292,7 +216291,7 @@ LayerCount: 2
 EndChar
 
 StartChar: gravecomb
-Encoding: 768 768 845
+Encoding: 338 768 845
 Width: 314
 VWidth: 0
 Flags: W
@@ -216300,7 +216299,7 @@ LayerCount: 2
 EndChar
 
 StartChar: gravecomb.case
-Encoding: 65802 -1 846
+Encoding: 850 -1 846
 Width: 314
 VWidth: 0
 Flags: W
@@ -216308,7 +216307,7 @@ LayerCount: 2
 EndChar
 
 StartChar: gravecombdeva
-Encoding: 65803 -1 847
+Encoding: 851 -1 847
 Width: 0
 VWidth: 0
 Flags: W
@@ -216316,7 +216315,7 @@ LayerCount: 2
 EndChar
 
 StartChar: hungarumlautcomb
-Encoding: 779 779 848
+Encoding: 347 779 848
 Width: 547
 VWidth: 0
 Flags: W
@@ -216324,7 +216323,7 @@ LayerCount: 2
 EndChar
 
 StartChar: hungarumlautcomb.case
-Encoding: 65805 -1 849
+Encoding: 852 -1 849
 Width: 547
 VWidth: 0
 Flags: W
@@ -216332,7 +216331,7 @@ LayerCount: 2
 EndChar
 
 StartChar: macroncomb
-Encoding: 772 772 850
+Encoding: 342 772 850
 Width: 354
 VWidth: 0
 Flags: W
@@ -216340,7 +216339,7 @@ LayerCount: 2
 EndChar
 
 StartChar: macroncomb.case
-Encoding: 65807 -1 851
+Encoding: 853 -1 851
 Width: 354
 VWidth: 0
 Flags: W
@@ -216348,7 +216347,7 @@ LayerCount: 2
 EndChar
 
 StartChar: ringcomb
-Encoding: 778 778 852
+Encoding: 346 778 852
 Width: 274
 VWidth: 0
 Flags: W
@@ -216356,7 +216355,7 @@ LayerCount: 2
 EndChar
 
 StartChar: ringcomb.case
-Encoding: 65809 -1 853
+Encoding: 854 -1 853
 Width: 274
 VWidth: 0
 Flags: W
@@ -216364,7 +216363,7 @@ LayerCount: 2
 EndChar
 
 StartChar: ringcombacute
-Encoding: 65810 -1 854
+Encoding: 855 -1 854
 Width: 274
 VWidth: 0
 Flags: W
@@ -216372,7 +216371,7 @@ LayerCount: 2
 EndChar
 
 StartChar: ringcombacute.case
-Encoding: 65811 -1 855
+Encoding: 856 -1 855
 Width: 274
 VWidth: 0
 Flags: W
@@ -216380,7 +216379,7 @@ LayerCount: 2
 EndChar
 
 StartChar: tildecomb
-Encoding: 771 771 856
+Encoding: 341 771 856
 Width: 410
 VWidth: 0
 Flags: W
@@ -216388,10 +216387,18 @@ LayerCount: 2
 EndChar
 
 StartChar: tildecomb.case
-Encoding: 65813 -1 857
+Encoding: 857 -1 857
 Width: 410
 VWidth: 0
 Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni00A0
+Encoding: 858 160 858
+Width: 267
+VWidth: 0
+Flags: HW
 LayerCount: 2
 EndChar
 EndChars
